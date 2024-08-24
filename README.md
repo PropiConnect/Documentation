@@ -419,7 +419,10 @@ Segmento 2:
 
 ## 3.3. Impact Mapping.
 
-![Impact Mapping](image.jpg)
+![image](https://github.com/user-attachments/assets/4db097b7-65ed-4fc6-8df3-97495232aa3f)
+![image](https://github.com/user-attachments/assets/550fa130-99be-4580-ae0c-ce4ca54066a5)
+![image](https://github.com/user-attachments/assets/b811ab91-1171-4cb7-9661-98cac16d93f0)
+![image](https://github.com/user-attachments/assets/632a85c3-8ff3-431a-8d21-cf85e678793b)
 
 ## 3.4. Product Backlog.
 
