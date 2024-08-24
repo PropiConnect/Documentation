@@ -343,30 +343,20 @@ Texto ubiquo: Definicion de este
 
 Segmento 1:
 
-| Phases    |  Publicar Propiedad | Administrar Propiedades | Crear Contrato de Arrendamiento|Generar Informes Financieros|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | |Subiendo fotos, ingresando descripción y detalles de la propiedad.| Supervisando pagos, renovaciones, y contratos.
- Gestionando el mantenimiento de las propiedades. | Redactando y revisando los términos del contrato.| Reuniendo información financiera para análisis y planificación.|
-| Thinking | | ¿Cómo puedo mostrar mi propiedad de la mejor manera?
- ¿Será fácil encontrar compradores o arrendatarios?| ¿Todo está al día?
- ¿Necesito tomar alguna acción?
- ¿Cómo puedo optimizar la gestión de mis propiedades? | ¿Este contrato cubre todas las situaciones posibles?
- ¿Será legalmente válido?| ¿Cómo están los ingresos y gastos de mis propiedades?
- ¿Necesito ajustar mis estrategias de inversión o alquiler?|
-| Feeling  | | Motivado por las posibilidades de generar ingresos.| Seguro y en control de sus activos.
- Tranquilo al tener visibilidad completa. | Tranquilo al formalizar el acuerdo con el arrendatario.| Informado y en control de las finanzas. Preocupado si los informes muestran resultados inesperados.|
+| Fases                          | Publicar Propiedad | Administrar Propiedades                                       | Crear Contrato de Arrendamiento                              | Generar Informes Financieros                                      |
+| ------------------------------ | ------------------ | ------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------- |
+| Doing                         |                    | Subiendo fotos, ingresando descripción y detalles de la propiedad. | Supervisando pagos, renovaciones, y contratos. Gestionando el mantenimiento de las propiedades. | Redactando y revisando los términos del contrato.                 | Reuniendo información financiera para análisis y planificación.  |
+| Thinking                      |                    | ¿Cómo puedo mostrar mi propiedad de la mejor manera? ¿Será fácil encontrar compradores o arrendatarios? | ¿Todo está al día? ¿Necesito tomar alguna acción? ¿Cómo puedo optimizar la gestión de mis propiedades? | ¿Este contrato cubre todas las situaciones posibles? ¿Será legalmente válido? | ¿Cómo están los ingresos y gastos de mis propiedades? ¿Necesito ajustar mis estrategias de inversión o alquiler? |
+| Feeling                       |                    | Motivado por las posibilidades de generar ingresos.            | Seguro y en control de sus activos. Tranquilo al tener visibilidad completa. | Tranquilo al formalizar el acuerdo con el arrendatario.             | Informado y en control de las finanzas. Preocupado si los informes muestran resultados inesperados.              |
+
 
 Segmento 2:
-| Fases    |  Buscar Propiedad para Alquilar | Comprar Propiedad Colectivamente | Recibir Notificaciones de Pago| Renovar Contrato de Alquiler|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | Explorando diferentes propiedades y comparando precios y características.| Evaluando opciones de inversión y calculando retornos potenciales. | Recibiendo y revisando notificaciones, realizando el pago.| Revisando y negociando los términos del nuevo contrato.|
-| Thinking | | ¿Esta propiedad cumple con mis necesidades?
- ¿Es el precio justo?|¿Esta inversión será rentable?
- ¿Puedo confiar en los otros compradores? | ¿He recibido la notificación a tiempo?
- ¿Todo está en orden con los pagos?|¿Los nuevos términos son justos?
- ¿Quiero seguir alquilando esta propiedad?|
-| Feeling  | | Emocionado por encontrar un lugar adecuado para vivir.| Confiado al invertir en una propiedad con buenas perspectivas. | Tranquilo al mantenerse al día con los pagos.| Decidido si está satisfecho con los términos.
- Inseguro si los términos no son favorables.|
+| Fases                          | Buscar Propiedad para Alquilar                        | Comprar Propiedad Colectivamente                                  | Recibir Notificaciones de Pago                                      | Renovar Contrato de Alquiler                                       |
+| ------------------------------ | ------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| Doing                         | Explorando diferentes propiedades y comparando precios y características. | Evaluando opciones de inversión y calculando retornos potenciales. | Recibiendo y revisando notificaciones, realizando el pago.          | Revisando y negociando los términos del nuevo contrato.            |
+| Thinking                      | ¿Esta propiedad cumple con mis necesidades? ¿Es el precio justo? | ¿Esta inversión será rentable? ¿Puedo confiar en los otros compradores? | ¿He recibido la notificación a tiempo? ¿Todo está en orden con los pagos? | ¿Los nuevos términos son justos? ¿Quiero seguir alquilando esta propiedad? |
+| Feeling                       | Emocionado por encontrar un lugar adecuado para vivir. | Confiado al invertir en una propiedad con buenas perspectivas.     | Tranquilo al mantenerse al día con los pagos.                       | Decidido si está satisfecho con los términos. Inseguro si los términos no son favorables.                |
+
 
 ## 3.2. User Stories.
 
