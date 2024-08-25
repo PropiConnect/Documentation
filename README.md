@@ -538,6 +538,11 @@ Basicamente aqui definimos como funciona la navegacion del web app
 
 ### 4.3.2. Landing Page Mock-up.
 
+![image](https://github.com/user-attachments/assets/cd5d15f7-0c59-43f1-8b86-0109f8f8e0ba)
+![image](https://github.com/user-attachments/assets/d31da37a-1fe6-4376-b356-f7e34be3d295)
+![image](https://github.com/user-attachments/assets/905b7ce8-ce6a-4db9-8f39-e6c87b3c540d)
+![image](https://github.com/user-attachments/assets/26eb5c5e-c682-43d1-ab6f-e989887b4770)
+![image](https://github.com/user-attachments/assets/101e7262-45bf-401a-a769-b40aa95a2659)
 
 
 ## 4.4. Web Applications UX/UI Design.
