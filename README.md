@@ -518,13 +518,28 @@ Basicamente aqui definimos como funciona la navegacion del web app
 **Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+#### Inicio
+![image](https://github.com/user-attachments/assets/b31181e3-d1f8-449d-926a-92a4a02c96cb)
+
+#### Servicios
+![image](https://github.com/user-attachments/assets/8f9c79f6-2a0d-4449-be99-3b5735d54595)
+
+#### Equipo 
+![image](https://github.com/user-attachments/assets/48ca84d5-dcd3-4edf-8476-2816942ceb9e)
+
+#### Planes
+![image](https://github.com/user-attachments/assets/d5e6c913-438c-4bfe-8765-2be1f7847022)
+
+#### Testimonios
+![image](https://github.com/user-attachments/assets/d804575b-8cc8-497a-8b5a-0ddb2920ea17)
+
+
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 lo funcional de cada aspecto del wireframe 
