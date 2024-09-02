@@ -176,6 +176,21 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+Dentro del constante cambio del mercado inmobiliario, con propietarios presentando dificultades para conseguir ganancias y personas interesadas en la adquisión de inmuebles siendo sofocados por pésimas opciones de vivienda, surge una necesidad de establecer un vinculo adecuado para concretar esta transacción. 
+
+PropiConnect es una startup diseñada para ser el nexo entre nuestros usuarios, vimos en esta problematica una oportunidad de negocio en la que podemos beneficiar exponencialmente a nuestros usuarios mediante la creación de aplicaciones web dedicadas a conectar nuestro público para que puedan concretar contratos de arrendamiento o venta de propiedades. Nuestra empresa dedicará alma y cuerpo para brindar herramientas utiles para nuestros clientes
+
+**Misión:**
+
+Empoderar a propietarios y compradores mediante una plataforma intuitiva y accesible que facilite la compra, venta y alquiler de inmuebles, al tiempo que fomente la inversión colectiva en bienes raíces. Buscamos simplificar el proceso inmobiliario, ofreciendo herramientas avanzadas y oportunidades de inversión para una experiencia inmobiliaria más equitativa y eficiente.
+
+**Visión:**
+
+Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por nuestra capacidad para conectar eficientemente a propietarios y compradores, revolucionando la forma en que se gestionan y se invierte en propiedades. Aspiramos a democratizar el acceso al mercado inmobiliario y a proporcionar una solución integral que impulse la transparencia, la colaboración y el éxito en el sector."
+
+
+
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
