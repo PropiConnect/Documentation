@@ -5,14 +5,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SV51</strong><br>
-    <strong>Profesor:  </strong><br>
+    <strong>Profesor:  Mori Paiva</strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
 
 <center>
 
-#### Startup: **--**
-#### Product: **--**
+#### Startup: **PropiConnect**
+#### Product: **InmoShare**
 
 </center>
 
@@ -198,12 +198,78 @@ Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por 
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+**Antecedentes**
+
+El proceso de compra, venta y alquiler de propiedades suele ser complejo, el volumen de procesos burocráticos obligatorios para conseguir un inmueble es preoupante. La falta de transparencia puede llevar a posibles compradores o arrendados a ser estafados con una vivienda que no existe o está en litigio.
+
+Este sector cuenta tecnología para comprar y vender propiedades, sin embargo ninguno de estos productos brinda una solución integral, por lo que el mercado está abierto a nuevas propuestas de solución de software.
+
+
+**Problematica**
+
+La necesidad de simplificar el proceso inmobiliario y ofrecer mayores oportunidades de inversión es evidente. La falta de herramientas integradas y transparentes genera una gestión fragmentada y procesos ineficaces que afectan la experiencia del usuario y limitan el acceso a oportunidades de inversión para muchos. Esta situación no solo resulta en una experiencia frustrante para los usuarios, sino que también perpetúa desigualdades en el acceso a la inversión inmobiliaria. La plataforma InmoShare aborda directamente estos desafíos al proporcionar una solución integral que facilita la compra, venta y alquiler de propiedades, al tiempo que ofrece oportunidades de inversión colectiva, democratizando el acceso al mercado inmobiliario y mejorando la eficiencia del proceso.
+
+A continuación utilizaremos el método de "5W 2H" para delimitar las funciones y rango de funciones
+
+ ***What?*** 
+ ¿Qué aspectos del proceso de compra y venta de inmuebles buscan mejorar con su solución?
+  - La compra y arrendamiento de una propiedad
+  - La venta y alquiler de una propiedad
+
+  ***Why?***
+ ¿Por qúe es importante una solución como la nuestra en el contexto inmobiliario?
+  - Es importante una solución integral como la nuestra, ya que además de la confiabilidad de los usuarios inscritos, las funcionalidades de las demás aplicaciones del mercado acaban antes de que te reunas con el dueño del inmueble. Esto será diferente en nuestro producto debido a que acompañaremos a los usuarios durante más etapas del proceso.
+
+  ***Who?***
+ ¿Quienes serán nuestros clientes?
+  - Interesados en una vivienda (compra o venta).
+  - Vendedores o arrendadores de una vivienda
+
+  ***Where?***
+ ¿Dónde se implementará nuestra solución para abordar la problemática?
+  - Comenzaremos implementando en todo Lima metropolitana.
+
+  ***When?***
+ ¿Cúando implementaremos nuestra solución?
+  - Tan pronto como el mercado inmobiliario decida que necesitan una alternativa nueva a las soluciones que tienen
+
+ 
+  ***How?***
+ ¿Cómo beneficiamos a los usuarios con nuestra solución?
+  - A
+  - A
+
+  ***How Much?***
+ ¿Cuanto ?
+  - A
+  - A
+
+  
+ 
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
-|-|-|
-|1. - 12. |1. - 6.|
+ ***Business Assumptions***
+  1. A
+  2. A
+
+ ***User Assumptions***
+  1. A
+  2. A
+
+   ***Business Outcome Assumptions***
+  - A
+  - A
+ 
+   ***User Outcome Assumptions***
+  - A
+  - A
+
+    ***Features***
+  - A
+  - A
+  
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 Texto
 #### 1.2.2.4. Lean UX Canvas.
