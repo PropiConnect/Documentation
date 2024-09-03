@@ -212,44 +212,65 @@ La necesidad de simplificar el proceso inmobiliario y ofrecer mayores oportunida
 A continuación utilizaremos el método de "5W 2H" para delimitar las funciones y rango de funciones
 
  ***What?*** 
- ¿Qué aspectos del proceso de compra y venta de inmuebles buscan mejorar con su solución?
+
+ ¿Qué aspectos del proceso de compra y venta de 
+ inmuebles buscan mejorar con su solución?
+
   - La compra y arrendamiento de una propiedad
   - La venta y alquiler de una propiedad
 
   ***Why?***
+
  ¿Por qúe es importante una solución como la nuestra en el contexto inmobiliario?
+
   - Es importante una solución integral como la nuestra, ya que además de la confiabilidad de los usuarios inscritos, las funcionalidades de las demás aplicaciones del mercado acaban antes de que te reunas con el dueño del inmueble. Esto será diferente en nuestro producto debido a que acompañaremos a los usuarios durante más etapas del proceso.
 
   ***Who?***
+  
  ¿Quienes serán nuestros clientes?
+
   - Interesados en una vivienda (compra o venta).
   - Vendedores o arrendadores de una vivienda
 
   ***Where?***
+
  ¿Dónde se implementará nuestra solución para abordar la problemática?
+
   - Comenzaremos implementando en todo Lima metropolitana.
 
   ***When?***
+
  ¿Cúando implementaremos nuestra solución?
   - Tan pronto como el mercado inmobiliario decida que necesitan una alternativa nueva a las soluciones que tienen
 
  
   ***How?***
  ¿Cómo beneficiamos a los usuarios con nuestra solución?
-  - A
-  - A
+
+  - Mediante la implementación de herramientas de publicación y gestión de propiedades, búsqueda y filtros avanzados. Estas herramientas especificas unidas en una sola aplicación web resultarán en una solución integral que evitará que los usuarios se encuentren afectados
 
   ***How Much?***
- ¿Cuanto ?
-  - A
-  - A
+ ¿Cuanto costará la aplicación?
+  - Obtendremos recursos mediante una suscripción "Pro" y "Enterprise" ambas opciones cuentan con funcionalidades completas, sin embargo la suscripción de enterprise contará con enfoque de valoración de mercado y generación de reportes del mismo
 
   
  
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+
+El estado actual del sector inmobiliario se ha centrado principalmente en el manejo de propiedades de manera superficial, de ese modo permitiendo riesgos de estafa por ambas partes.
+
+Los productos que se encuentran en el mercado no logran solucionar esta problematica, solo limitan la interacción de los usuarios.
+
+Nuestro producto abordará este problema mediante una solución, una aplicación web, que permite a los usuarios llevar un mejor manejo de las propiedades de las que son responsables.
+
+Nuestro enfoque inicial serán los dueños de inmuebles y sus clientes potenciales ya sean arrendadores o compradores.
+
+Sabremos que tenemos éxito cuando veamos un aumento en el número de propiedades contactadas, además de un incremento en los usuarios que partician en las oportunidades de inversión colectiva.
+
 #### 1.2.2.2. Lean UX Assumptions.
+
  ***Business Assumptions***
   1. A
   2. A
