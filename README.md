@@ -259,7 +259,7 @@ A continuación utilizaremos el método de "5W 2H" para delimitar las funciones 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 
-El estado actual del sector inmobiliario se ha centrado principalmente en el manejo de propiedades de manera superficial, de ese modo permitiendo riesgos de estafa por ambas partes.
+El estado actual del sector de compra y venta de inmuebles se ha centrado principalmente en el manejo de propiedades de manera superficial, de ese modo permitiendo riesgos de estafa por ambas partes.
 
 Los productos que se encuentran en el mercado no logran solucionar esta problematica, solo limitan la interacción de los usuarios.
 
@@ -271,38 +271,135 @@ Sabremos que tenemos éxito cuando veamos un aumento en el número de propiedade
 
 #### 1.2.2.2. Lean UX Assumptions.
 
- ***Business Assumptions***
-  1. A
-  2. A
+***Business Assumptions***
 
- ***User Assumptions***
-  1. A
-  2. A
+  1. Creo que mis clientes necesitan mayor soporte para que puedan desarrollar su proceso de compra/venta de inmuebles de manera más sencilla.
+  2. Estas necesidades puedens er satisfechas con una aplicación web, que ofreza una automatización de pedidos
+  3. Nuestros clientes iniciales serán vendedores y compradores de inmuebles
+  4. El aspecto más importante que se buscará en mi producto, es la gestión de inmuebles y de inquilinos
+  5. Nuestro método de generación de recursos será mediante suscripciones con dos planes.
+  6. El cliente podrá adquirir beneficios adicionales con la mejora de su suscripción
+  7. Voy a conseguir mis clientes mediante publicidad dirigida. 
+  8. La competencia en el mercado serán aplicaciones de compra y venta de inmuebles.
+  9. Nos destacaremos entre la competencia por nuestra solución moderna, robusta, completa y enfocada en las necesidades de nuestros clientes.
+  10. Nuestro mayor riesgo es ser desestimado por la similitud superficial con respecto a otras soluciones del mercado.
+  11. Solucionaremos el riesgo mediante la diferenciación del producto. 
 
-   ***Business Outcome Assumptions***
-  - A
-  - A
+***User Assumptions***
+
+  12. Nuestros usuarios serán principalmente dueños de inmuebles que busquen obtener recursos a través de venta o alquiler de estos, además de los posibles inquilinos de los mismos. 
+  13. Nuestro producto aborda la necesidad de ambos de nuestros usuarios, por llegar a un acuerdo, mediante nuestra aplicación brindaremos ese vinculo además de encargarnos de las finanzas internas del contrato.
+  14. El usuario utilizará nuestro producto antes, durante y despúes del proceso de compra de inmueble.
+  15. Las características más importantes de nuestro producto son la interfaz accesible y las herramientas hechas a medida para solucionar los problemas.
+  16. Nuestros clientes deben sentirse atraídos por la apariencia de nuestro producto por ello tendremos una interfaz profesional además de ser completamente funcional. 
+
+***Business Outcome Assumptions***
+   
+  - Conseguir una tasa de renovación de membresías del 70% mensualmente.
+  - Aumentar en el número de inmuebles listados en la plataforma en un 50% con respecto al semestre anterior durante el primer año.
+  - Conseguir una mejora del 30% a los planes "Enterprise" en el segundo semestre del año de lanzamiento.
+  - Recibir una puntuación sobresaliente en el 100% de las encuestas de satisfacción enviadas a los usuarios finalizado el primer año de lanzamiento
  
-   ***User Outcome Assumptions***
-  - A
-  - A
+***User Outcome Assumptions***
 
-    ***Features***
-  - A
-  - A
+
+
+  - Cumplir las fechas de pagos relacionados a la vivienda
+  -Disminución en el estrés relacionado a las pocas ofertas recibidas por su inmueble
+  - Dedicar menos tiempo a la revisión de sus inmuebles
+  - Obtener una mejor calidad de vida en un mejor inmueble 
+  
+
+***Features***
+
+  - Gestión de pagos relacionados a la vivienda 
+  - Gestión nuevos inmuebles
+  - Gestión de propiedades 
+  - Método de compra compartida
   
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+
+***Hypothesis 1:***
+
+**Creemos que lograremos** conseguir una tasa de renovación de membresías del 70% mensualmente
+
+**Si** los buscadores de propiedades
+
+**Logran** cumplir con las fechas del pago relacionado a la vivienda como cuotas, o mensualidades para los inquilinos. 
+
+**Con** la gestión de pagos de alquiler de nuestra aplicación web
+
+
+***Hypothesis 2:***
+
+**Creemos que lograremos** Aumentar en el número de inmuebles listados en la plataforma en un 50% con respecto al semestre anterior durante el primer año
+
+**Si** los propietarios
+
+**Logran** disminuir el estrés relacionado a las pocas ofertas recibidas por su inmueble
+
+**Con** la gestion de nuevos inmuebles
+
+
+***Hypothesis 3:***
+
+**Creemos que lograremos** conseguir una mejora del 30% a los planes "Enterprise" en el segundo semestre del año de lanzamiento
+
+**Si** los propietarios
+
+**Logran** Dedicar menos tiempo a la revisión de sus inmuebles
+
+**Con** la gestión de propiedades 
+
+
+
+***Hypothesis 4:***
+
+**Creemos que lograremos** recibir una puntuación sobresaliente en el 100% de las encuestas de satisfacción enviadas a los usuarios
+
+**Si** los buscadores de propiedades
+
+**Logran** obtener una mejor calidad de vida en un mejor inmueble 
+
+**Con** método de compra compartida
+
+
+
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+***Segmento #1:Propietarios de inmuebles***
+
+Aspectos demográficos:
+ - Sexo: Masculino o Femenino.
+ - Edad: 40-60 años.
+ - Estado civil: Variado.
+
+Aspectos geográficos:
+ - Que resida y tenga sus viviendas en Lima metropolitana.
+
+
+Aspectos psicologicos:
+ - Intereses: Un comprador honesto con el que pueda llegar a un acuerdo beneficioso para ambos.
+ - Valores: Puntualidad, Responsabilidad, Paciencia, Humildad, Asertividad.
+
+
+***Segmento #2:Buscadores de viviendas***
+
+Aspectos demográficos:
+ - Sexo: Masculino o Femenino
+ - Edad: 22-35 años
+ - Estado civil: Soltero o Casado
+
+Aspectos geográficos:
+ - Ubicación de vivienda anterior: Cualquier ciudad del Perú.
+ - Ubicación deseada de proxima vivienda: Lima metropolitana, Perú.
+ 
+
+Aspectos psicologicos:
+ - Intereses: Independizarse o mejorar de su antigua vivienda, trabajo
+ - Valores: Honestidad, Autosuficiencia, Nula conflictividad,Puntualidad.
+
 
 ---
 
