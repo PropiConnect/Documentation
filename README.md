@@ -205,32 +205,123 @@ Texto
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
-## 2.1. Competidores.
+## 2.1. Competidores
+
+**1. AdondeVivir**
+<p>Adondevivir es una de las plataformas inmobiliarias más grandes y populares en Perú. Permite a los usuarios buscar propiedades en venta y alquiler, incluyendo departamentos, casas, terrenos, oficinas y locales comerciales.</p>
+
+
+**2. Urbania**
+<p>Urbania es una plataforma líder en el mercado inmobiliario peruano, especializada en la venta y alquiler de inmuebles. Es conocida por su interfaz amigable y su amplia gama de opciones de propiedades.</p>
+
+
+
 ### 2.1.1. Análisis competitivo.
 
-| Competitive Analysis Landscape                          |  |
-| ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
+<table style="text-align:center">
+    <tr>
+        <th colspan="5">Competitive Analysis Landscape</th>
+    </tr>
+    <tr>
+        <td style="font-weight:bold">¿Por qué llevar a cabo este análisis?</td>
+        <td colspan="4">El objetivo de este análisis es entender las características que ofrecen las demás empresas que ofrecen servicios similares al nuestro y así poder compararnos de una manera más clara
+        </td>
+    </tr>
+    <tr>
+        <th colspan="2">Competidores</th>
+        <th>InmoShare</th>
+        <th>AdondeVivir</th>
+        <th>Urbania</th>
+    </tr>
+    <tr>
+        <td rowspan="2">Perfil</td>
+        <td>Overview</td>
+        <td>Nuestra empresa se especializa en el desarrollo de una aplicación web revolucionaria diseñada para simplificar la compra y venta de departamentos. Conectamos compradores y vendedores de manera segura y eficiente, brindando herramientas avanzadas para optimizar cada paso del proceso inmobiliario.</td>
+        <td>Adondevivir es una plataforma peruana para comprar y alquilar propiedades, destacada por su amplio catálogo y búsqueda avanzada. Ofrece servicios adicionales como cálculo de hipotecas y simulaciones de préstamos.</td>
+        <td>Urbania es una plataforma inmobiliaria en Perú, parte de Navent Group, que ofrece propiedades en venta y alquiler con una interfaz intuitiva y mapas interactivos. Dispone de opciones premium para agentes inmobiliarios.</td>
+    </tr>
+    <tr>
+        <td>Ventaja Competitiva</td>
+        <td>Ofrecemos una variedad de alianzas para ofrecer los mejores inmuebles a los mejores precios, además de la opción de compra entre más de una persona</td>
+        <td>Ofrece una amplia variedad de propiedades, opciones de publicidad destacada para agentes, herramientas de búsqueda personalizadas y una plataforma consolidada que facilita la conexión rápida entre compradores y vendedores.</td>
+        <td>Se destaca por su extenso catálogo de propiedades, interfaz fácil de usar, herramientas de búsqueda avanzadas y contenido informativo que atrae a usuarios interesados en comprar o vender inmuebles en Perú.</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Perfil de Marketing</td>
+        <td>Estrategias de Marketing</td>
+        <td>Nuestras estrategias de marketing incluyen campañas en redes sociales, SEO, contenido educativo en blogs, alianzas con inmobiliarias, publicidad segmentada y promociones exclusivas para captar y retener usuarios en nuestra plataforma.</td>
+        <td>Se enfoca en marketing digital con anuncios en redes sociales y Google Ads. Utiliza contenido informativo sobre el mercado inmobiliario para atraer y educar a los usuarios, además de SEO.</td>
+        <td>Utiliza marketing digital con publicidad dirigida y optimización SEO, destacando en redes sociales y motores de búsqueda. También ofrece servicios publicitarios y de marketing para aumentar la visibilidad de las propiedades.</td>
+    </tr>
+    <tr>
+        <td>Mercado Objetivo</td>
+        <td>Nuestro mercado objetivo incluye compradores y vendedores de departamentos, tanto nuevos como experimentados, jóvenes profesionales, familias urbanas, inversores inmobiliarios y agentes que buscan una plataforma moderna y eficiente para transacciones inmobiliarias.</td>
+        <td>Se dirige a personas en Perú interesadas en comprar o alquilar propiedades, incluyendo jóvenes profesionales, familias y empresarios, así como a agentes y desarrolladores inmobiliarios que buscan promocionar sus ofertas.</td>
+        <td>Apunta a compradores y arrendatarios en Perú que buscan propiedades residenciales y comerciales, así como a agentes inmobiliarios y desarrolladores que necesitan visibilidad para sus anuncios y servicios.</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Perfil de Producto</td>
+        <td>Productos y Servicios</td>
+        <td>Ofrecemos una plataforma intuitiva para la compra y venta de departamentos, con herramientas avanzadas como la opción de poder alquilar o comprar un departamento entre 2 a más amigos.</td>
+        <td>Proporciona anuncios inmobiliarios, herramientas de búsqueda avanzada, servicios de cálculo hipotecario, y simulaciones de préstamos para compradores y arrendatarios.</td>
+        <td>Ofrece anuncios de venta y alquiler de propiedades, servicios publicitarios premium para agentes, y herramientas de búsqueda avanzada con mapas interactivos.</td>
+    </tr>
+    <tr>
+        <td>Precios y Costos</td>
+        <td>Contamos con opciones de publicación gratuitas asi como opciones de paga los cuales ayudan al vendedor a tener publicaciones con mayor visibilidad.</td>
+        <td>Tiene opciones de publicación gratuitas y de pago, con tarifas para destacar propiedades y servicios adicionales</td>
+        <td>Ofrece publicaciones gratuitas limitadas y paquetes premium de pago para mayor visibilidad de anuncios.</td>
+    </tr>
+    <tr>
+        <td>Canales de Distribución</td>
+        <td>Disponible en versión web</td>
+        <td>Aplicación móvil y aplicación web</td>
+        <td>Aplicación móvil y web</td>
+    </tr>
+    <tr>
+        <td rowspan="4">Analisis SWOT</td>
+        <td>Fortalezas</td>
+        <td>Plataforma innovadora que facilita la compra y venta de inmuebles, incluyendo la opción de adquirir propiedades en grupo. Ofrece una experiencia de usuario intuitiva y herramientas avanzadas para la gestión de transacciones.</td>
+        <td>Amplia variedad de propiedades y fuerte reconocimiento de marca, junto con opciones de publicidad destacada que atraen a agentes y desarrolladores inmobiliarios.</td>
+        <td>Amplio catálogo de propiedades y herramientas avanzadas de búsqueda que mejoran la experiencia del usuario, consolidando su posición en el mercado inmobiliario peruano.</td>
+    </tr>
+    <tr>
+        <td>Debilidades</td>
+        <td>La novedad del modelo de compra compartida puede generar desconfianza. Requiere un desarrollo tecnológico robusto y costoso, y la necesidad de asegurar la protección legal en transacciones compartidas.</td>
+        <td>Alta dependencia del mercado inmobiliario peruano y costos de mantenimiento tecnológico pueden limitar su capacidad de adaptarse a cambios del mercado.</td>
+        <td>Competencia intensa y dependencia de la publicidad limitan su crecimiento y capacidad de diferenciación en un mercado saturado de plataformas similares.</td>
+    </tr>
+    <tr>
+        <td>Oportunidades</td>
+        <td>Expansión a mercados con alta demanda de bienes raíces y posibilidad de asociarse con agencias y desarrolladores para ofrecer listados exclusivos. Innovación en el mercado inmobiliario y potencial para capturar un segmento nuevo de compradores.</td>
+        <td>Innovación en servicios digitales y expansión en América Latina, junto con alianzas estratégicas con agencias inmobiliarias para ofrecer propiedades exclusivas.</td>
+        <td>Expansión a mercados latinoamericanos y adopción de tecnologías innovadoras como realidad virtual para ofrecer recorridos virtuales y listados exclusivos de propiedades.</td>
+    </tr>
+    <tr>
+        <td>Amenazas</td>
+        <td>Competencia de plataformas establecidas y nuevas startups en el mercado inmobiliario. Riesgos asociados con la legalidad y la gestión de propiedad compartida, así como fluctuaciones económicas que afectan la compra de inmuebles.</td>
+        <td>Creciente competencia de nuevos actores y cambios en las preferencias del consumidor, además de la inestabilidad económica que afecta el mercado de bienes raíces.</td>
+        <td>Cambios regulatorios y fluctuaciones económicas en el mercado inmobiliario podrían impactar negativamente en su modelo de negocio y rentabilidad.</td>
+    </tr>
+</table>
 
 
-| |  | (Nosotros) | Competidor  | Comptdor |
-|-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
-|| Mercado Objetivo                                        | Jeda | asa | asa2 |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
-|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+<ul>
+    <li>
+        <b>Diferenciación mediante propiedad compartida:</b> Otorgaremos la opción única de comprar inmuebles entre dos o más personas, un servicio que Urbania y Adondevivir no ofrecen. Desarrollaremos campañas de marketing enfocadas en el beneficio de compartir costos y accesibilidad a propiedades que serían inaccesibles para compradores individuales.
+    </li>
+    <li>
+        <b>Mejora de la experiencia del usuario:</b> Invertiremos en una interfaz intuitiva y herramientas avanzadas, como recorridos virtuales en 3D y calculadoras de financiamiento compartido. Esto no solo atraerá a usuarios que buscan innovaciones tecnológicas, sino que también mejorará la retención al ofrecer una experiencia superior.
+    </li>
+    <li>
+        <b>Alianzas estratégicas y listados exclusivos:</b> Colaboraremos con agencias inmobiliarias, desarrolladores, y bancos para obtener listados exclusivos y financiamientos especiales. Ofreceremos incentivos a los agentes para que utilicen la plataforma, diferenciándola por la calidad y exclusividad de las propiedades listadas.
+    </li>
+</ul>
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
-|-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -239,19 +330,22 @@ Texto
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
 3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+**Preguntas para vendedores**
+1. ¿Cuales son los mayores desafíos que enfentas al vender propiedades actualmente?
+2. ¿Cómo te gustaría que una plataforma digital te ayudara a encontrar y conectar con potenciales compradores?
+3. ¿Qué características te harían preferir una nueva aplicación sobre las plataformas que usas actualmente?
+4. ¿Qué información adicional te gustaría tener sobre los compradores antes de interactuar con ellos?
+5. ¿Qué tan frecuente es la venta de propiedades entre varias personas, y cómo se maneja ese proceso actualmente?
+6. ¿Hay algo que consideras que falta en las plataformas inmobiliarias actuales? 
+
+**Preguntas para compradores**
+1. ¿Qué características te gustaría ver en una plataforma de compra de inmuebles que te facilitarían la búsqueda y decisión de compra? 
+2. ¿Qué tan importante es la posibilidad de comprar una propiedad en conjunto con otras personas?
+3. ¿Qué tipo de información prefieres tener disponible cuando exploras una propiedad en línea?
+4. ¿Qué factores influyen más en tu decisión de comprar una propiedad?
+5. ¿Qué problemas has encontrado al utilizar otras plataformas de compra de inmuebles?
+
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
 Nombre: _____
@@ -332,11 +426,8 @@ As Is:
 | Thinking | texto| texto | texto| texto|
 | Feeling  | texto| texto | texto| texto|
 ## 2.4. Ubiquitous Language.
-```
-Texto ubiquo: Definicion de este
-```
 
----
+
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
