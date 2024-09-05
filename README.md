@@ -195,7 +195,7 @@ Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por 
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
 |Daniel Mateo del Castillo Bueno ![Teocchiii](./assets/Chap-I/Foto-u202211212.png) | u202211212 | Ingenieria de Software | SQL, Angular, Redis, Python, SpringBoot, React, Arduino |
-|Compañero 2 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Oscar Josué Antayhua Castillo 	![Oscar](./assets/Chap-I/Oscar.png)|U20191e414|Ingenieria de software|C++, python, Arduino, SQL |
 |Compañero 3 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
 |Compañero 4 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
 |Compañero 5 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
