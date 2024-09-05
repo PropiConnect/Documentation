@@ -971,6 +971,11 @@ Basicamente aqui definimos como funciona la navegacion del web app
 
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.figma.com/design/VsjlXR3dSCZUXkOxLReCdy/WireFrame?m=auto&t=AtBd4Vbri1v7E72Z-6)
+[URL del video demostrativo Propotipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/Ed6aAlSBz-dFs9flYGyWdAYB3Lj7ZsznefoC3gwDrZPebg?e=Lfpz0Z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL del video demostrativo de la Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/EbY4GmAm4ytCs2vozXOX7QIBxFYHk7sACTJyRimxy5S2dQ?e=vzSloV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<img src="./assets/Chap-IV/prototipo.png">
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
