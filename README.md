@@ -922,51 +922,53 @@ Basicamente aqui definimos como funciona la navegacion del web app
 ### 4.3.1. Landing Page Wireframe.
 
 #### Inicio
-<img src="./assets-cap4/Landing-Wireframe-inicio.png">
+<img src="./assets/Chap-IV/Landing-Wireframe-inicio.png">
 
 
 #### Servicios
-<img src="./assets-cap4/Landing-Wireframe-servicio.png">
+<img src="./assets/Chap-IV/Landing-Wireframe-servicio.png">
 
 
 #### Equipo 
-<img src="./assets-cap4/Landing-Wireframe-equipo.png">
+<img src="./assets/Chap-IV/Landing-Wireframe-equipo.png">
 
 
 #### Planes
-<img src="./assets-cap4/Landing-Wireframe-planes.png">
+<img src="./assets/Chap-IV/Landing-Wireframe-planes.png">
 
 #### Testimonios
-<img src="./assets-cap4/Landing-Wireframe-Testimonios.png">
+<img src="./assets/Chap-IVLanding-Wireframe-Testimonios.png">
 
 
 
 ### 4.3.2. Landing Page Mock-up.
 
-<img src="./assets-cap4/Landing-Mockup-1.png">
-<img src="./assets-cap4/Landing-Mockup-2.png">
-<img src="./assets-cap4/Landing-Mockup-3.png">
-<img src="./assets-cap4/Landing-Mockup-4.png">
-<img src="./assets-cap4/Landing-Mockup-5.png">
+<img src="./assets/Chap-IV/Landing-Mockup-1.png">
+<img src="./assets/Chap-IV/Landing-Mockup-2.png">
+<img src="./assets/Chap-IV/Landing-Mockup-3.png">
+<img src="./assets/Chap-IV/Landing-Mockup-4.png">
+<img src="./assets/Chap-IV/Landing-Mockup-5.png">
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 [Link del figma](https://www.figma.com/design/VsjlXR3dSCZUXkOxLReCdy/WireFrame?m=auto&t=AtBd4Vbri1v7E72Z-6)
-<img src="./assets-cap4/WireFrame.png">
+<img src="./assets/Chap-IV/WireFrame.png">
 
 <!-- ![Web Aplication Wireframe](image.jpg) -->
 ### 4.4.2. Web Applications Wireflow Diagrams.
 [Link del LucidChart](https://lucid.app/lucidchart/ab81aedc-cdc3-4a19-8bb2-e78e3361f809/edit?viewport_loc=1995%2C-1401%2C4234%2C1967%2C0_0&invitationId=inv_0049bcb4-df36-4563-a1f4-200ffa80cb12)
-<img src="./assets-cap4/Wireflow.png">
+<img src="./assets/Chap-IV/Wireflow.png">
 
 <!-- ![Web Aplication Wireflow](image.jpg) -->
 ### 4.4.2. Web Applications Mock-ups.
 [Link del figma](https://www.figma.com/design/cjHreuImqY0BcTggBOzx5p/Mockup?m=auto&t=AtBd4Vbri1v7E72Z-6)
-<img src="./assets-cap4/Mockup.png">
+<img src="./assets/Chap-IV/Mockup.png">
 
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+[Link del LucidCharp](https://lucid.app/lucidchart/93df40ef-a106-4551-8566-efd152394f37/edit?viewport_loc=105%2C86%2C4490%2C2086%2C0_0&invitationId=inv_36f3bd38-1c4a-4f3f-97bd-9039b7660e43)
+
+<img src="./assets/Chap-IV/Diagrama_de_flujo.jpeg">
+
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.figma.com/design/VsjlXR3dSCZUXkOxLReCdy/WireFrame?m=auto&t=AtBd4Vbri1v7E72Z-6)
 ## 4.6. Domain-Driven Software Architecture.
