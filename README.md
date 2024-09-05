@@ -22,7 +22,7 @@
 | Member                           | Code       |
 |----------------------------------|------------|
 |Antayhua Castillo Oscar Josué     | U20191e414 |
-|        |  |
+|Del Castillo Bueno Daniel Mateo        | u202211212 |
 |       |  |
 |  |  |
 |              |  |
@@ -194,7 +194,11 @@ Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por 
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-|Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Daniel Mateo del Castillo Bueno ![Teocchiii](./assets/Chap-I/Foto-u202211212.png) | u202211212 | Ingenieria de Software | SQL, Angular, Redis, Python, SpringBoot, React, Arduino |
+|Compañero 2 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Compañero 3 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Compañero 4 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Compañero 5 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -305,7 +309,7 @@ Sabremos que tenemos éxito cuando veamos un aumento en el número de propiedade
 
 
   - Cumplir las fechas de pagos relacionados a la vivienda
-  -Disminución en el estrés relacionado a las pocas ofertas recibidas por su inmueble
+  -     Disminución en el estrés relacionado a las pocas ofertas recibidas por su inmueble
   - Dedicar menos tiempo a la revisión de sus inmuebles
   - Obtener una mejor calidad de vida en un mejor inmueble 
   
