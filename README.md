@@ -654,7 +654,7 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-<img src="./assets/Chap-IV/Context Diagram.png">
+<img src="./assets/Chap-IV/ContextDiagram.png">
 
 ### 4.6.2. Software Architecture Container Diagram.
 
@@ -664,21 +664,24 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 API Rest Component Diagram:
 
+<img src="./assets/Chap-IV/API_Rest_Component_Diagram.png">
+
 User Bounded Context Component Diagram:
+
+<img src="./assets/Chap-IV/User_Bounded_Context_Component_Diagram.png">
 
 Content Bounded Context Component Diagram:
 
-Collaboration Bounded Context Component Diagram:
+<img src="./assets/Chap-IV/Content_Bounded_Context_Component_Diagram.png">
+
+Service Bounded Context Component Diagram:
+
+<img src="./assets/Chap-IV/Service_Bounded_Context_Component_Diagram.png">
 
 Monetization Bounded Context Component Diagram:
 
-3. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+<img src="./assets/Chap-IV/Monetization_Bounded_Context_Component_Diagram.png">
    
-### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
-
-### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Esta yaselasaben (diagrama de clases)
