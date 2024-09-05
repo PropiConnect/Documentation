@@ -641,7 +641,7 @@ Basicamente aqui definimos como funciona la navegacion del web app
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 [Link del figma](https://www.figma.com/design/VsjlXR3dSCZUXkOxLReCdy/WireFrame?m=auto&t=AtBd4Vbri1v7E72Z-6)
-<img src="./assets/WireFrame.png">
+<img src="./assets-cap4/WireFrame.png">
 
 <!-- ![Web Aplication Wireframe](image.jpg) -->
 ### 4.4.2. Web Applications Wireflow Diagrams.
