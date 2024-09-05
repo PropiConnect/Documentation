@@ -5,14 +5,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SV51</strong><br>
-    <strong>Profesor:  </strong><br>
+    <strong>Profesor:  Mori Paiva</strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
 
 <center>
 
-#### Startup: **--**
-#### Product: **--**
+#### Startup: **PropiConnect**
+#### Product: **InmoShare**
 
 </center>
 
@@ -176,6 +176,21 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+Dentro del constante cambio del mercado inmobiliario, con propietarios presentando dificultades para conseguir ganancias y personas interesadas en la adquisión de inmuebles siendo sofocados por pésimas opciones de vivienda, surge una necesidad de establecer un vinculo adecuado para concretar esta transacción. 
+
+PropiConnect es una startup diseñada para ser el nexo entre nuestros usuarios, vimos en esta problematica una oportunidad de negocio en la que podemos beneficiar exponencialmente a nuestros usuarios mediante la creación de aplicaciones web dedicadas a conectar nuestro público para que puedan concretar contratos de arrendamiento o venta de propiedades. Nuestra empresa dedicará alma y cuerpo para brindar herramientas utiles para nuestros clientes
+
+**Misión:**
+
+Empoderar a propietarios y compradores mediante una plataforma intuitiva y accesible que facilite la compra, venta y alquiler de inmuebles, al tiempo que fomente la inversión colectiva en bienes raíces. Buscamos simplificar el proceso inmobiliario, ofreciendo herramientas avanzadas y oportunidades de inversión para una experiencia inmobiliaria más equitativa y eficiente.
+
+**Visión:**
+
+Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por nuestra capacidad para conectar eficientemente a propietarios y compradores, revolucionando la forma en que se gestionan y se invierte en propiedades. Aspiramos a democratizar el acceso al mercado inmobiliario y a proporcionar una solución integral que impulse la transparencia, la colaboración y el éxito en el sector."
+
+
+
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
@@ -183,24 +198,208 @@
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+**Antecedentes**
+
+El proceso de compra, venta y alquiler de propiedades suele ser complejo, el volumen de procesos burocráticos obligatorios para conseguir un inmueble es preoupante. La falta de transparencia puede llevar a posibles compradores o arrendados a ser estafados con una vivienda que no existe o está en litigio.
+
+Este sector cuenta tecnología para comprar y vender propiedades, sin embargo ninguno de estos productos brinda una solución integral, por lo que el mercado está abierto a nuevas propuestas de solución de software.
+
+
+**Problematica**
+
+La necesidad de simplificar el proceso inmobiliario y ofrecer mayores oportunidades de inversión es evidente. La falta de herramientas integradas y transparentes genera una gestión fragmentada y procesos ineficaces que afectan la experiencia del usuario y limitan el acceso a oportunidades de inversión para muchos. Esta situación no solo resulta en una experiencia frustrante para los usuarios, sino que también perpetúa desigualdades en el acceso a la inversión inmobiliaria. La plataforma InmoShare aborda directamente estos desafíos al proporcionar una solución integral que facilita la compra, venta y alquiler de propiedades, al tiempo que ofrece oportunidades de inversión colectiva, democratizando el acceso al mercado inmobiliario y mejorando la eficiencia del proceso.
+
+A continuación utilizaremos el método de "5W 2H" para delimitar las funciones y rango de funciones
+
+ ***What?*** 
+
+ ¿Qué aspectos del proceso de compra y venta de 
+ inmuebles buscan mejorar con su solución?
+
+  - La compra y arrendamiento de una propiedad
+  - La venta y alquiler de una propiedad
+
+  ***Why?***
+
+ ¿Por qúe es importante una solución como la nuestra en el contexto inmobiliario?
+
+  - Es importante una solución integral como la nuestra, ya que además de la confiabilidad de los usuarios inscritos, las funcionalidades de las demás aplicaciones del mercado acaban antes de que te reunas con el dueño del inmueble. Esto será diferente en nuestro producto debido a que acompañaremos a los usuarios durante más etapas del proceso.
+
+  ***Who?***
+  
+ ¿Quienes serán nuestros clientes?
+
+  - Interesados en una vivienda (compra o venta).
+  - Vendedores o arrendadores de una vivienda
+
+  ***Where?***
+
+ ¿Dónde se implementará nuestra solución para abordar la problemática?
+
+  - Comenzaremos implementando en todo Lima metropolitana.
+
+  ***When?***
+
+ ¿Cúando implementaremos nuestra solución?
+  - Tan pronto como el mercado inmobiliario decida que necesitan una alternativa nueva a las soluciones que tienen
+
+ 
+  ***How?***
+ ¿Cómo beneficiamos a los usuarios con nuestra solución?
+
+  - Mediante la implementación de herramientas de publicación y gestión de propiedades, búsqueda y filtros avanzados. Estas herramientas especificas unidas en una sola aplicación web resultarán en una solución integral que evitará que los usuarios se encuentren afectados
+
+  ***How Much?***
+ ¿Cuanto costará la aplicación?
+  - Obtendremos recursos mediante una suscripción "Pro" y "Enterprise" ambas opciones cuentan con funcionalidades completas, sin embargo la suscripción de enterprise contará con enfoque de valoración de mercado y generación de reportes del mismo
+
+  
+ 
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+
+El estado actual del sector de compra y venta de inmuebles se ha centrado principalmente en el manejo de propiedades de manera superficial, de ese modo permitiendo riesgos de estafa por ambas partes.
+
+Los productos que se encuentran en el mercado no logran solucionar esta problematica, solo limitan la interacción de los usuarios.
+
+Nuestro producto abordará este problema mediante una solución, una aplicación web, que permite a los usuarios llevar un mejor manejo de las propiedades de las que son responsables.
+
+Nuestro enfoque inicial serán los dueños de inmuebles y sus clientes potenciales ya sean arrendadores o compradores.
+
+Sabremos que tenemos éxito cuando veamos un aumento en el número de propiedades contactadas, además de un incremento en los usuarios que partician en las oportunidades de inversión colectiva.
+
 #### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
-|-|-|
-|1. - 12. |1. - 6.|
+
+***Business Assumptions***
+
+  1. Creo que mis clientes necesitan mayor soporte para que puedan desarrollar su proceso de compra/venta de inmuebles de manera más sencilla.
+  2. Estas necesidades puedens er satisfechas con una aplicación web, que ofreza una automatización de pedidos
+  3. Nuestros clientes iniciales serán vendedores y compradores de inmuebles
+  4. El aspecto más importante que se buscará en mi producto, es la gestión de inmuebles y de inquilinos
+  5. Nuestro método de generación de recursos será mediante suscripciones con dos planes.
+  6. El cliente podrá adquirir beneficios adicionales con la mejora de su suscripción
+  7. Voy a conseguir mis clientes mediante publicidad dirigida. 
+  8. La competencia en el mercado serán aplicaciones de compra y venta de inmuebles.
+  9. Nos destacaremos entre la competencia por nuestra solución moderna, robusta, completa y enfocada en las necesidades de nuestros clientes.
+  10. Nuestro mayor riesgo es ser desestimado por la similitud superficial con respecto a otras soluciones del mercado.
+  11. Solucionaremos el riesgo mediante la diferenciación del producto. 
+
+***User Assumptions***
+
+  12. Nuestros usuarios serán principalmente dueños de inmuebles que busquen obtener recursos a través de venta o alquiler de estos, además de los posibles inquilinos de los mismos. 
+  13. Nuestro producto aborda la necesidad de ambos de nuestros usuarios, por llegar a un acuerdo, mediante nuestra aplicación brindaremos ese vinculo además de encargarnos de las finanzas internas del contrato.
+  14. El usuario utilizará nuestro producto antes, durante y despúes del proceso de compra de inmueble.
+  15. Las características más importantes de nuestro producto son la interfaz accesible y las herramientas hechas a medida para solucionar los problemas.
+  16. Nuestros clientes deben sentirse atraídos por la apariencia de nuestro producto por ello tendremos una interfaz profesional además de ser completamente funcional. 
+
+***Business Outcome Assumptions***
+   
+  - Conseguir una tasa de renovación de membresías del 70% mensualmente.
+  - Aumentar en el número de inmuebles listados en la plataforma en un 50% con respecto al semestre anterior durante el primer año.
+  - Conseguir una mejora del 30% a los planes "Enterprise" en el segundo semestre del año de lanzamiento.
+  - Recibir una puntuación sobresaliente en el 100% de las encuestas de satisfacción enviadas a los usuarios finalizado el primer año de lanzamiento
+ 
+***User Outcome Assumptions***
+
+
+
+  - Cumplir las fechas de pagos relacionados a la vivienda
+  -Disminución en el estrés relacionado a las pocas ofertas recibidas por su inmueble
+  - Dedicar menos tiempo a la revisión de sus inmuebles
+  - Obtener una mejor calidad de vida en un mejor inmueble 
+  
+
+***Features***
+
+  - Gestión de pagos relacionados a la vivienda 
+  - Gestión nuevos inmuebles
+  - Gestión de propiedades 
+  - Método de compra compartida
+  
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+
+***Hypothesis 1:***
+
+**Creemos que lograremos** conseguir una tasa de renovación de membresías del 70% mensualmente
+
+**Si** los buscadores de propiedades
+
+**Logran** cumplir con las fechas del pago relacionado a la vivienda como cuotas, o mensualidades para los inquilinos. 
+
+**Con** la gestión de pagos de alquiler de nuestra aplicación web
+
+
+***Hypothesis 2:***
+
+**Creemos que lograremos** Aumentar en el número de inmuebles listados en la plataforma en un 50% con respecto al semestre anterior durante el primer año
+
+**Si** los propietarios
+
+**Logran** disminuir el estrés relacionado a las pocas ofertas recibidas por su inmueble
+
+**Con** la gestion de nuevos inmuebles
+
+
+***Hypothesis 3:***
+
+**Creemos que lograremos** conseguir una mejora del 30% a los planes "Enterprise" en el segundo semestre del año de lanzamiento
+
+**Si** los propietarios
+
+**Logran** Dedicar menos tiempo a la revisión de sus inmuebles
+
+**Con** la gestión de propiedades 
+
+
+
+***Hypothesis 4:***
+
+**Creemos que lograremos** recibir una puntuación sobresaliente en el 100% de las encuestas de satisfacción enviadas a los usuarios
+
+**Si** los buscadores de propiedades
+
+**Logran** obtener una mejor calidad de vida en un mejor inmueble 
+
+**Con** método de compra compartida
+
+
+
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+***Segmento #1:Propietarios de inmuebles***
+
+Aspectos demográficos:
+ - Sexo: Masculino o Femenino.
+ - Edad: 40-60 años.
+ - Estado civil: Variado.
+
+Aspectos geográficos:
+ - Que resida y tenga sus viviendas en Lima metropolitana.
+
+
+Aspectos psicologicos:
+ - Intereses: Un comprador honesto con el que pueda llegar a un acuerdo beneficioso para ambos.
+ - Valores: Puntualidad, Responsabilidad, Paciencia, Humildad, Asertividad.
+
+
+***Segmento #2:Buscadores de viviendas***
+
+Aspectos demográficos:
+ - Sexo: Masculino o Femenino
+ - Edad: 22-35 años
+ - Estado civil: Soltero o Casado
+
+Aspectos geográficos:
+ - Ubicación de vivienda anterior: Cualquier ciudad del Perú.
+ - Ubicación deseada de proxima vivienda: Lima metropolitana, Perú.
+ 
+
+Aspectos psicologicos:
+ - Intereses: Independizarse o mejorar de su antigua vivienda, trabajo
+ - Valores: Honestidad, Autosuficiencia, Nula conflictividad,Puntualidad.
+
 
 ---
 
