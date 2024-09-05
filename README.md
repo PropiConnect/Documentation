@@ -578,10 +578,118 @@ Ocupación: _____
 ![Imagen User Persona 1](image.jpg)
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| --- | ------ | ----------- | ------------ | ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
+<table>
+    <tr>
+    <th colspan="3">User Persona: Vendedores de Inmuebles</th>
+    </tr>
+    <tr>
+        <th>Tarea</th>
+        <th>Frecuencia</th>
+        <th>Importancia</th>
+    </tr>
+    <tr>
+        <td>Crear perfil</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Gestionar múltiples listados</td>
+        <td>Often</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Recibir notificaciones</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Filtrar compradores</td>
+        <td>Sometimes</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Agendar visitas</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Ver analíticas</td>
+        <td>Often</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Ver recomendaciones de precios</td>
+        <td>Sometimes</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Recibir reseñas</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Ver historial de transacciones</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+    <th colspan="3">User Persona: Compradores de Inmuebles</th>
+    </tr>
+    <tr>
+        <th>Tarea</th>
+        <th>Frecuencia</th>
+        <th>Importancia</th>
+    </tr>
+    <tr>
+        <td>Buscar propiedades</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Guardar propiedades favoritas</td>
+        <td>Often</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Comparar propiedades</td>
+        <td>Sometimes</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Calcular financiamiento</td>
+        <td>Often</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Comprar en grupo</td>
+        <td>Often</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Recibir notificaciones</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Ver recomendaciones personalizadas</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Gestionar documentos</td>
+        <td>Sometimes</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Ver historial de búsqueda</td>
+        <td>Always</td>
+        <td>Medium</td>
+    </tr>
+</table>
+
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
