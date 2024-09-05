@@ -611,19 +611,22 @@ Basicamente aqui definimos como funciona la navegacion del web app
 ### 4.3.1. Landing Page Wireframe.
 
 #### Inicio
-![image](https://github.com/user-attachments/assets/b31181e3-d1f8-449d-926a-92a4a02c96cb)
+<img src="./assets-cap4/Landing-Wireframe-inicio.png">
+
 
 #### Servicios
-![image](https://github.com/user-attachments/assets/8f9c79f6-2a0d-4449-be99-3b5735d54595)
+<img src="./assets-cap4/Landing-Wireframe-servicio.png">
+
 
 #### Equipo 
-![image](https://github.com/user-attachments/assets/48ca84d5-dcd3-4edf-8476-2816942ceb9e)
+<img src="./assets-cap4/Landing-Wireframe-equipo.png">
+
 
 #### Planes
-![image](https://github.com/user-attachments/assets/d5e6c913-438c-4bfe-8765-2be1f7847022)
+<img src="./assets-cap4/Landing-Wireframe-planes.png">
 
 #### Testimonios
-![image](https://github.com/user-attachments/assets/d804575b-8cc8-497a-8b5a-0ddb2920ea17)
+<img src="./assets-cap4/Landing-Wireframe-Testimonios.png">
 
 
 
