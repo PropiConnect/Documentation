@@ -309,7 +309,7 @@ Sabremos que tenemos éxito cuando veamos un aumento en el número de propiedade
 
 
   - Cumplir las fechas de pagos relacionados a la vivienda
-  -     Disminución en el estrés relacionado a las pocas ofertas recibidas por su inmueble
+  - Disminución en el estrés relacionado a las pocas ofertas recibidas por su inmueble
   - Dedicar menos tiempo a la revisión de sus inmuebles
   - Obtener una mejor calidad de vida en un mejor inmueble 
   
