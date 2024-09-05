@@ -629,28 +629,32 @@ Basicamente aqui definimos como funciona la navegacion del web app
 
 ### 4.3.2. Landing Page Mock-up.
 
-![image](https://github.com/user-attachments/assets/cd5d15f7-0c59-43f1-8b86-0109f8f8e0ba)
-![image](https://github.com/user-attachments/assets/d31da37a-1fe6-4376-b356-f7e34be3d295)
-![image](https://github.com/user-attachments/assets/905b7ce8-ce6a-4db9-8f39-e6c87b3c540d)
-![image](https://github.com/user-attachments/assets/26eb5c5e-c682-43d1-ab6f-e989887b4770)
-![image](https://github.com/user-attachments/assets/101e7262-45bf-401a-a769-b40aa95a2659)
-
+<img src="./assets-cap4/Landing-Mockup-1.png">
+<img src="./assets-cap4/Landing-Mockup-2.png">
+<img src="./assets-cap4/Landing-Mockup-3.png">
+<img src="./assets-cap4/Landing-Mockup-4.png">
+<img src="./assets-cap4/Landing-Mockup-5.png">
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+[Link del figma](https://www.figma.com/design/VsjlXR3dSCZUXkOxLReCdy/WireFrame?m=auto&t=AtBd4Vbri1v7E72Z-6)
+<img src="./assets/WireFrame.png">
+
+<!-- ![Web Aplication Wireframe](image.jpg) -->
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+[Link del LucidChart](https://lucid.app/lucidchart/ab81aedc-cdc3-4a19-8bb2-e78e3361f809/edit?viewport_loc=1995%2C-1401%2C4234%2C1967%2C0_0&invitationId=inv_0049bcb4-df36-4563-a1f4-200ffa80cb12)
+<img src="./assets-cap4/Wireflow.png">
+
+<!-- ![Web Aplication Wireflow](image.jpg) -->
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+[Link del figma](https://www.figma.com/design/cjHreuImqY0BcTggBOzx5p/Mockup?m=auto&t=AtBd4Vbri1v7E72Z-6)
+<img src="./assets-cap4/Mockup.png">
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+[URL del Prototipo (Hecho en figma)](https://www.figma.com/design/VsjlXR3dSCZUXkOxLReCdy/WireFrame?m=auto&t=AtBd4Vbri1v7E72Z-6)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
