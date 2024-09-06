@@ -24,9 +24,9 @@
 |Antayhua Castillo Oscar Josué     | U20191E414 |
 |Del Castillo Bueno Daniel Mateo   | U202211212 |
 |Poma Espinoza Gustavo Arturo      | U20221C138 |
+|Sanchez Montero Carlos            | U202015274 |
 |                                  |            |
-|                                  |            |
-|                                  |            |
+
 
 <br> AGOSTO 2024
 </center>  
@@ -200,7 +200,7 @@ Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por 
 |Daniel Mateo del Castillo Bueno ![Teocchiii](./assets/Chap-I/Foto-u202211212.png) | u202211212 | Ingenieria de Software | SQL, Angular, Redis, Python, SpringBoot, React, Arduino |
 |Oscar Josué Antayhua Castillo 	![Oscar](./assets/Chap-I/Oscar.png)|U20191e414|Ingenieria de software|C++, python, Arduino, SQL |
 |Gustavo Arturo Poma Espinoza 	![image](https://github.com/user-attachments/assets/1cbdef43-4d88-4454-b559-9e3621dac534)|U20221C138|Ingenieria de software|C++, piton .etc|
-|Compañero 4 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Carlos Sanchez Montero 	![carlos](./assets/Chap-I/carlos.jpg)|U202015274|Ingenieria de software|C++, C , JavaScript, SQL, Python .etc|
 |Compañero 5 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
 
 ## 1.2. Solution Profile
@@ -694,23 +694,14 @@ Ocupación: _____
 </table>
 
 ### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
-- s
-- s
-- s
-  
-**Onboarding and first use:**
-How can they feel successful?
-- s
-- s
-- s  
-  
-**Sharing:**
-Why would they invite others?
-- s
-- s
-- s
+
+A continuación, se muestran los User Journey Mapping por cada segmento objetivo.
+
+**Segmento Objetivo Compradores**
+<img src="assets/Chap-II/User Journey Map - Comprador.png">
+
+**Segmento Objetivo: Vendedores**
+<img src="assets/Chap-II/User Journey Map - Vendedor.png">
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
