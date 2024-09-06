@@ -25,7 +25,7 @@
 |Del Castillo Bueno Daniel Mateo   | U202211212 |
 |Poma Espinoza Gustavo Arturo      | U20221C138 |
 |Sanchez Montero Carlos            | U202015274 |
-|                                  |            |
+|Ruiz Huisa Daniel Elias           | U202210764 |
 
 
 <br> AGOSTO 2024
@@ -201,7 +201,7 @@ Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por 
 |Oscar Josué Antayhua Castillo 	![Oscar](./assets/Chap-I/Oscar.png)|U20191e414|Ingenieria de software|C++, python, Arduino, SQL |
 |Gustavo Arturo Poma Espinoza 	![image](https://github.com/user-attachments/assets/1cbdef43-4d88-4454-b559-9e3621dac534)|U20221C138|Ingenieria de software|C++, piton .etc|
 |Carlos Sanchez Montero 	![carlos](./assets/Chap-I/carlos.jpg)|U202015274|Ingenieria de software|C++, C , JavaScript, SQL, Python .etc|
-|Compañero 5 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Daniel Elias Ruiz Huisa 	![Daniel](./assets/Chap-IV/Daniel.png)|U202210764|Ingenieria de software|C++, Python, SQL|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
