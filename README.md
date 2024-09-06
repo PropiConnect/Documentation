@@ -21,12 +21,12 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-|Antayhua Castillo Oscar Josué     | U20191e414 |
-|Del Castillo Bueno Daniel Mateo        | u202211212 |
-|       |  |
-|  |  |
-|              |  |
-|          |  |
+|Antayhua Castillo Oscar Josué     | U20191E414 |
+|Del Castillo Bueno Daniel Mateo   | U202211212 |
+|Poma Espinoza Gustavo Arturo      | U20221C138 |
+|                                  |            |
+|                                  |            |
+|                                  |            |
 
 <br> AGOSTO 2024
 </center>  
@@ -169,10 +169,13 @@
 [Anexos](#anexos)  
 
 # Student Outcome
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+| ------------------- | ------------------- | ------------ |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Gustavo Arturo Poma Espinoza:<br> *TB1:* Me encargué de todas las actividades clave:<br> - Definición de escenarios de usuario y planificación inicial del backlog.<br> - Estructuración de los criterios de aceptación.<br> - Desglose de historias de usuario complejas en tareas más pequeñas y manejables.<br> - Redacción de epics y priorización de las historias de usuario.<br> - Organización del backlog en formato Markdown.<br>  | Aunque trabajé de manera individual, logré abordar todas las áreas críticas del proyecto con eficacia, lo que muestra mi capacidad para cubrir múltiples aspectos en un entorno colaborativo, aún en ausencia de compañeros.<br>  |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Gustavo Arturo Poma Espinoza:<br> *TB1:* A través del desarrollo de la TB1, adquirí conocimientos específicos del sector inmobiliario. Identifiqué las necesidades de los propietarios e inquilinos, como la administración de propiedades, pagos y contratos, así como la posibilidad de compra compartida de inmuebles.<br> | Este conocimiento permitió la correcta planificación del proyecto y la creación de soluciones de software adaptadas a las particularidades del sector, garantizando que la plataforma satisfaga las demandas del mercado.<br>  |
+
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
