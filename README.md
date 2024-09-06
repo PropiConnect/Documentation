@@ -557,15 +557,22 @@ Aspectos psicologicos:
 Nombre: _____
 Edad: _ años 
 Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+
+
+```
+Colocar imagen
+```
 
 **Segmento 2**  
 Nombre: _____
 Edad: _ años 
 Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+
+```
+Colocar imagen
+```
+
+
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
@@ -575,10 +582,17 @@ Ocupación: _____
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+
+```
+Colocar imagen
+```
+
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+
+```
+Colocar imagen
+```
 
 ### 2.3.2. User Task Matrix.
 <table>
@@ -705,10 +719,18 @@ A continuación, se muestran los User Journey Mapping por cada segmento objetivo
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+
+```
+Colocar imagen
+```
+
 
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+
+```
+Colocar imagen
+```
+
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
@@ -1072,23 +1094,54 @@ supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para co
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+¿Cómo vamos a plannear el sprint?
+#### 5.2.1.2. Sprint Backlog 1.
+
+
+
+```
+Colocar imagen
+```
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+```
+Colocar imagen
+```
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+```
+Colocar imagen
+```
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+```
+Colocar imagen
+```
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+```
+Colocar imagen
+```
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+```
+Colocar imagen
+```
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+```
+Colocar imagen
+```
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -1115,14 +1168,22 @@ Explicar como vamos a plannear el sprint?
 Nombre: _____
 Edad: _ años 
 Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
+
+```
+Colocar imagen
+```
+
 {texto mucho}
 
 **Segmento 2**  
 Nombre: _____
 Edad: _ años 
 Ocupación: _____  
-![Imagen de entrevista](image.jpg)
+
+```
+Colocar imagen
+```
+
 {texto}
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
@@ -1164,8 +1225,10 @@ formato
 
 datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
 
-![Imagen de algo no nuestro lol](image.jpg)
 
+```
+Colocar imagen
+```
 
 
 
