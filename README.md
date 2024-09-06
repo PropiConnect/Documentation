@@ -862,56 +862,73 @@ Segmento 2:
 ### 4.1.1. General Style Guidelines.
 Descripcion del porque estos elementos seran importantes
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+**Color:** Se escogieron colores en tonalidadesa azules que buscan representar seguridad y confianza. Estos colores se alinean con el tipo de servicio que brindamos y el tipo de usuario que buscamos.
+<img src="./assets/Chap-IV/Colores.png">
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+**Tipografia:** Montserrat es una fuente que tiene un estilo contemporáneo con formas geométricas suaves, perfecta para proyectos modernos y elegantes. Estos aspectos son perfectos para transmitir confianza en los usuarios sin perder estilo.
+<img src="./assets/Chap-IV/Tipografia1.png">
+**Branding:** El nombre del producto es PropiConnect, el cual cuenta con un logo representado por el icono de una vivienda con tonos de azul rodeandola. El color azul busca transmitir confianza y seguirdad, por esto mismo, ilumina a la vivienda.
+<img src="./assets/Chap-IV/PropiConnect_Logo.jpg">
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
 **Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
+<img src="./assets/Chap-IV/Background.png">
+**Text Styles:** 
+<img src="./assets/Chap-IV/Tipografia1.png">
 **Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
+<img src="./assets/Chap-IV/Buttons.png">
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
+<img src="./assets/Chap-IV/Icons.png">
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+<img src="./assets/Chap-IV/NavBar.png">
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
+El Sistema de Organización planteado tiene como objetivo facilitar la interacción entre el usuario y la aplicación web y garantizar todos los servicios que ofrece PropiConnect. En cuanto a la organización visual del contenido será de forma jerárquica (visual hierarchy). En la landing page se busca destacar elementos claves como el registrar propiedad o el alquilar una.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+Además, se utilizarán organización secuencial (step-by-step to accomplish) en procesos como el registro del usuario y configuración del perfil.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+En cuanto la organización matricial se aplicará filtros de búsqueda respecto a ubicacion geografica, tipo de propiedad (casa, departamento, etc), costo, cantidad de habitaciones, camas o baños, si tiene cochera o si se encuentra a la venta o para alquilar.
+
+La categorización de audiencias se va a dividir en dos por los roles del usuario como propietario e inquilino.
+
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+En PropiConnect, el sistema de etiquetas será diseñado para que los usuarios encuentren fácilmente la información que buscan, haciéndolo muy intuitivo y accesible.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+### Etiquetas:
+
+Inicio: Boton que te redirige a la pagina principal en el logo
+
+Servicios: Se muestran los servicios que ofrece el aplicativo
+
+Equipo: Seccion que habla del equipo
+
+Planes: Son una suscripción mensual donde te brindan
+diferentes beneficios según tu tipo de plan
+
+Testimonios: Muestra reseñas y experiencias positivas que los usuarios se han llevado con el servicio
+
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+En esta sección, se describen las etiquetas SEO y Meta que se utilizarán para identificar y posicionar el sitio web y landing page de ArtCollab de manera única en internet. Estas etiquetas son fundamentales para que el sitio sea fácilmente encontrado por los usuarios a través de los motores de búsqueda como Google, Bing y otros. La optimización de estas etiquetas aumenta la visibilidad del sitio y mejora su posicionamiento en los resultados de búsqueda, lo que puede atraer más visitantes interesados en nuestro aplicativo.
+
+\<title\>PropiConnect Oficial Landing Page\</title\>
+
+\<meta name="description" content="PropiConnect Landing Page where you can
+find a presentation of all the main features of our app."\>
+
+\<meta name="keywords" content="tennant, homeowner, writers, rent, house, department, vacation"\>
+
+
+  
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+
+Dada la necesidad del usuario a buscar diversas propiedades segun sus preferencias, ya sea ubicacion o precio como las habitaciones que contiene.Al realizar una busqueda, el usuario recibira una lista de opciones que varian segun las magnitudes seleccionadas en su busqueda. De esta forma, el usuario puede visualizar el contenido que ofrece el usuario de fora ordenada sin sentirse saturado. La interfaz de busqueda planteada permite al usuario filtrar la propiedad por sus necesidades de espacio, su ubicacion georgafica y su sustento econoico.
+<img src="./assets/Chap-IV/.png">
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+La Navegacion utiliza un Hierarchical Navigation System, que busca hacer las funciones vitales de acceso inmediato. De esta forma el usuario obtendra una respuesta rapida a sus busquedas mas rapidas dentro de la aplicaccion, sin perder la oportunidad de utilizar funciones mas complejas. 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
