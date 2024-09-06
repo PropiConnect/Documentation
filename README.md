@@ -863,25 +863,54 @@ Segmento 2:
 Descripcion del porque estos elementos seran importantes
 
 **Color:** Se escogieron colores en tonalidadesa azules que buscan representar seguridad y confianza. Estos colores se alinean con el tipo de servicio que brindamos y el tipo de usuario que buscamos.
-<img src="./assets/Chap-IV/Colores.png">
+
+<div text-align="center">
+<img src="./assets/Chap-IV/Colores.png" width="200" height="300">
+<div>
 
 **Tipografia:** Montserrat es una fuente que tiene un estilo contemporáneo con formas geométricas suaves, perfecta para proyectos modernos y elegantes. Estos aspectos son perfectos para transmitir confianza en los usuarios sin perder estilo.
-<img src="./assets/Chap-IV/Tipografia1.png">
+
+<img src="./assets/Chap-IV/Tipografia1.png" width="200" height="300">
+
 **Branding:** El nombre del producto es PropiConnect, el cual cuenta con un logo representado por el icono de una vivienda con tonos de azul rodeandola. El color azul busca transmitir confianza y seguirdad, por esto mismo, ilumina a la vivienda.
-<img src="./assets/Chap-IV/PropiConnect_Logo.jpg">
+
+<div text-align="center">
+<img src="./assets/Chap-IV/PropiConnect_Logo.jpg" width="300" height="300">
+</div>
+
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
 **Background:** (primary, secondary, terniary)  
-<img src="./assets/Chap-IV/Background.png">
+
+<div text-align="center">
+<img src="./assets/Chap-IV/Background.png" width="200" height="300">
+</div>
+
 **Text Styles:** 
-<img src="./assets/Chap-IV/Tipografia1.png">
+
+<div text-align="center">
+<img src="./assets/Chap-IV/Tipografia1.png" width="200" height="300">
+</div>
+
 **Button Styles:** (Button, dropdowns, Switches)
-<img src="./assets/Chap-IV/Buttons.png">
+
+<div text-align="center">
+<img src="./assets/Chap-IV/Buttons.png" width="200" height="300">
+</div>
+
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
-<img src="./assets/Chap-IV/Icons.png">
+
+<div text-align="center">
+<img src="./assets/Chap-IV/Icons.png" width="200" height="300">
+</div>
+
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
-<img src="./assets/Chap-IV/NavBar.png">
+
+<div text-align="center">
+<img src="./assets/Chap-IV/NavBar.png" width="200" height="300">
+</div>
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 El Sistema de Organización planteado tiene como objetivo facilitar la interacción entre el usuario y la aplicación web y garantizar todos los servicios que ofrece PropiConnect. En cuanto a la organización visual del contenido será de forma jerárquica (visual hierarchy). En la landing page se busca destacar elementos claves como el registrar propiedad o el alquilar una.
