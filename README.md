@@ -874,7 +874,8 @@ Descripcion del porque estos elementos seran importantes
 **Color:** Se escogieron colores en tonalidadesa azules que buscan representar seguridad y confianza. Estos colores se alinean con el tipo de servicio que brindamos y el tipo de usuario que buscamos.
 
 <div text-align="center">
-<img src="./assets/Chap-IV/Colores.png" width="200" height="300">
+    <img width="501"  alt="image" src="https://github.com/user-attachments/assets/92dde2f0-29e9-4e55-9ffb-b5397e55c25f">
+
 </div>
 
 **Tipografia:** Montserrat es una fuente que tiene un estilo contemporáneo con formas geométricas suaves, perfecta para proyectos modernos y elegantes. Estos aspectos son perfectos para transmitir confianza en los usuarios sin perder estilo.
@@ -890,10 +891,12 @@ Descripcion del porque estos elementos seran importantes
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
-**Background:** (primary, secondary, terniary)  
+**Background:** Para los colores del fondo optamos por realizar un contraste entre blancos y negros para que nuestros colores azules resulten mas llamativos e intensos. 
 
 <div text-align="center">
 <img src="./assets/Chap-IV/Background.png" width="200" height="300">
+    <img width="494" alt="image" src="https://github.com/user-attachments/assets/8f855683-ed55-4e2b-8def-8c47df0f12ca">
+
 </div>
 
 **Text Styles:** 
@@ -905,19 +908,15 @@ Descripcion de los elementos que se utilizaran en el web app
 **Button Styles:** Para el estilo de los botones se eligio un azul mas vivo que los demas, que se torna a un tono mas oscuro cuando se mantiene el mouse encima.
 
 <div text-align="center">
-<img src="./assets/Chap-IV/Buttons.png" width="200" height="300">
+<img width="844" alt="image" src="https://github.com/user-attachments/assets/3c50fde5-3852-4c63-9dcf-3ccf817ba17e">
+
 </div>
 
 **Icons:** Los iconos a utilizar estan relaciionados a elementos interactivos como botones. Esto buscando que los botones y sus funcionalidades sean mas llmativos.
 
 <div text-align="center">
-<img src="./assets/Chap-IV/Icons.png" width="200" height="300">
-</div>
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/424ae182-b005-4894-af60-1c4a046490ca">
 
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-
-<div text-align="center">
-<img src="./assets/Chap-IV/NavBar.png" width="200" height="300">
 </div>
 
 ## 4.2. Information Architecture.
