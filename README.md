@@ -19,6 +19,7 @@
 ### <center>Team  Members:</center>
 <center>
 
+
 | Member                           | Code       |
 |----------------------------------|------------|
 |Antayhua Castillo Oscar Josué     | U20191E414 |
@@ -720,18 +721,15 @@ A continuación, se muestran los User Journey Mapping por cada segmento objetivo
 <img src="assets/Chap-II/User Journey Map - Vendedor.png">
 
 ### 2.3.4. Empathy Mapping.
-**Segmento 1:**
 
-```
-Colocar imagen
-```
+**Segmento: Inquilinos**
+
+<img src="../Documentation/assets/Chap-II/Mapa de Empatía - Mateo Vilchez.png">
 
 
-**Segmento 2:**
+**Segmento: Propietarios**
 
-```
-Colocar imagen
-```
+<img src="../Documentation/assets/Chap-II/Mapa de Empatía - Ana Gomez.png">
 
 ### 2.3.5. As-is Scenario Mapping.
 
