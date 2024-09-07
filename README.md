@@ -984,9 +984,6 @@ La Navegacion utiliza un Hierarchical Navigation System, que busca hacer las fun
 #### Planes
 <img src="./assets/Chap-IV/Landing-Wireframe-planes.png">
 
-#### Testimonios
-<img src="./assets/Chap-IVLanding-Wireframe-Testimonios.png">
-
 
 
 ### 4.3.2. Landing Page Mock-up.
