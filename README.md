@@ -563,7 +563,7 @@ Aspectos psicologicos:
 **Ocupación:** Estudiante de Ingeniería de Software
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EQdnVlI8nNNGisxHQgn-wXMB7hVaug2-vp_JxjA_vVMv3A?e=2prSu4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
-<img src="../Documentation/assets/Chap-II/Entrevista Mateo Vilchez.png">
+<img src="assets/Chap-II/Entrevista Mateo Vilchez.png">
 
 
 **Segmento 2**  
@@ -724,12 +724,12 @@ A continuación, se muestran los User Journey Mapping por cada segmento objetivo
 
 **Segmento: Inquilinos**
 
-<img src="../Documentation/assets/Chap-II/Mapa de Empatía - Mateo Vilchez.png">
+<img src="assets/Chap-II/Mapa de Empatía - Mateo Vilchez.png">
 
 
 **Segmento: Propietarios**
 
-<img src="../Documentation/assets/Chap-II/Mapa de Empatía - Ana Gomez.png">
+<img src="assets/Chap-II/Mapa de Empatía - Ana Gomez.png">
 
 ### 2.3.5. As-is Scenario Mapping.
 
