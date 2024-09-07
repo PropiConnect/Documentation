@@ -901,13 +901,13 @@ Descripcion de los elementos que se utilizaran en el web app
 <img src="./assets/Chap-IV/Tipografia1.png" width="200" height="300">
 </div>
 
-**Button Styles:** (Button, dropdowns, Switches)
+**Button Styles:** Para el estilo de los botones se eligio un azul mas vivo que los demas, que se torna a un tono mas oscuro cuando se mantiene el mouse encima.
 
 <div text-align="center">
 <img src="./assets/Chap-IV/Buttons.png" width="200" height="300">
 </div>
 
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
+**Icons:** Los iconos a utilizar estan relaciionados a elementos interactivos como botones. Esto buscando que los botones y sus funcionalidades sean mas llmativos.
 
 <div text-align="center">
 <img src="./assets/Chap-IV/Icons.png" width="200" height="300">
@@ -1664,7 +1664,10 @@ ServiceFactory</td>
 <table>
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+<div style="display:flex; justify-content:center; flex-direction:column;">
+   <p>A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.</p>
+   <img src="./assets/Chap-IV/PropiConnect_DataBaseModel"> 
+</div>
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
