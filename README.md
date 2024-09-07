@@ -30,7 +30,8 @@
 
 
 <br> AGOSTO 2024
-</center>  
+</center> 
+
 
 # Registro de Versiones del Informe
 <center>
@@ -733,25 +734,15 @@ A continuación, se muestran los User Journey Mapping por cada segmento objetivo
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Segmento: Inquilino**  
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+<img src="assets/Chap-II/As - Is Inquilino.jpg">
 
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+**Segmento: Propietario**  
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+<img src="assets/Chap-II/As - Is Propietario.jpg">
+
+
 ## 2.4. Ubiquitous Language.
 
 
