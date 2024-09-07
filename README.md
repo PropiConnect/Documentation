@@ -19,6 +19,7 @@
 ### <center>Team  Members:</center>
 <center>
 
+
 | Member                           | Code       |
 |----------------------------------|------------|
 |Antayhua Castillo Oscar Josué     | U20191E414 |
@@ -29,7 +30,8 @@
 
 
 <br> AGOSTO 2024
-</center>  
+</center> 
+
 
 # Registro de Versiones del Informe
 <center>
@@ -557,13 +559,18 @@ Aspectos psicologicos:
 5. ¿Qué problemas has encontrado al utilizar otras plataformas de compra de inmuebles?
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
+**Segmento Propietarios** 
+
+**Entrevista 1**
+
+**Nombre:** Mateo Vilchez
+**Edad:** 19 años 
+**Ocupación:** Estudiante de Ingeniería de Software
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EQdnVlI8nNNGisxHQgn-wXMB7hVaug2-vp_JxjA_vVMv3A?e=2prSu4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+<img src="assets/Chap-II/Entrevista Mateo Vilchez.png">
 
 
-Colocar Imagen
 **Segmento 2**  
 Nombre: _____
 Edad: _ años 
@@ -589,7 +596,7 @@ Colocar Imagen
 ### 2.3.2. User Task Matrix.
 <table>
     <tr>
-    <th colspan="3">User Persona: Vendedores de Inmuebles</th>
+    <th colspan="3">User Persona: Propietarios</th>
     </tr>
     <tr>
         <th>Tarea</th>
@@ -645,7 +652,7 @@ Colocar Imagen
 
 <table>
     <tr>
-    <th colspan="3">User Persona: Compradores de Inmuebles</th>
+    <th colspan="3">User Persona: Inquilinos</th>
     </tr>
     <tr>
         <th>Tarea</th>
@@ -703,41 +710,34 @@ Colocar Imagen
 
 A continuación, se muestran los User Journey Mapping por cada segmento objetivo.
 
-**Segmento Objetivo Compradores**
+**Segmento Objetivo Propietarios**
 <img src="assets/Chap-II/User Journey Map - Comprador.png">
 
-**Segmento Objetivo: Vendedores**
+**Segmento Objetivo: Inquilinos**
 <img src="assets/Chap-II/User Journey Map - Vendedor.png">
 
 ### 2.3.4. Empathy Mapping.
-**Segmento 1:**
 
-Colocar Imagen
+**Segmento: Inquilinos**
 
-**Segmento 2:**
+<img src="assets/Chap-II/Mapa de Empatía - Mateo Vilchez.png">
 
-Colocar Imagen
+
+**Segmento: Propietarios**
+
+<img src="assets/Chap-II/Mapa de Empatía - Ana Gomez.png">
+
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Segmento: Inquilino**  
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+<img src="assets/Chap-II/As - Is Inquilino.jpg">
 
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+**Segmento: Propietario**  
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+<img src="assets/Chap-II/As - Is Propietario.jpg">
+
+
 ## 2.4. Ubiquitous Language.
 
 
@@ -1057,16 +1057,614 @@ Monetization Bounded Context Component Diagram:
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+User Bounded Context
+
+   <img src="./assets/Chap-IV/PropiConnect_UserContext.png">
+Content Bounded Context
+
+   <img src="./assets/Chap-IV/PropiConnect_UserContext.png">
+
+Collaboration Bounded Context
+
+   <img src="./assets/Chap-IV/PropiConnect_MonetizationContext.png">
+
+Monetization Bounded Context
+
+   <img src="./assets/Chap-IV/PropiConnect_ServiceContext.png">
+
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+<hr>
+<br>
+
+**User Bounded Context** 
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">User</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase User es una clase abstracta que representa a los usuarios de la aplicación. Tiene una relación de asociación con UserFactory y Account.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">HomeOwner</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase HomeOwner representa a los escritores de la aplicación. Tiene una relación de asociación con HomeOwnerFactory.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Tennant</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Tennant representa a los inquilinos de la aplicación. Tiene una relación de asociación con TennantFactory.</td>
+  </tr>
+<table>
+
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">UserFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase UserFactory es una clase abstracta hija de UserManager. Se encarga de definir la creación de los usuarios del sistema. Tiene una relación de asociación con User.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que define la creación de nuevos tipos de objetos.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">HomeOwnerFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase HomeOwnerFactory es una clase hija de UserFactory. Se encarga de la creación de los usuarios propietarios en la aplicación. Tiene una relación de asociación con HomeOwner.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que crea nuevos objetos de tipo HomeOwner.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">TennantFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase TennantFactory es una clase hija de UserFactory. Se encarga de la creación de los usuarios inquilinos en la aplicación. Tiene una relación de asociación con Tennant.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que crea nuevos objetos de tipo Illustrator.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">UserManager</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase UserManager se encarga de la gestión de los usuarios en el sistema.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createUser()</td>
+    <td colspan="2" valign="top">Método que crea nuevos objetos de tipo User.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">getUser()</td>
+    <td colspan="2" valign="top">Método que obtiene el identificador de un usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">updateUser()</td>
+    <td colspan="2" valign="top">Método que actualiza los atributos de un usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">deleteUser()</td>
+    <td colspan="2" valign="top">Método que elimina a un usuario del sistema.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Account</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Account representa la cuenta de los usuarios de la aplicación. Tiene una relación de asociación con Subscription y User.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Subscription</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Subscription representa la suscripción a un plan de la aplicación.Tiene una relación de asociación con Account y Plan.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Plan</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Plan representa a los planes de suscripción de la aplicación. Tiene una relación de asociación con Subscription.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">Observer</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase abstracta que se encarga de definir el comportamiento de UserObserver y SuscriptionObserver. Tiene una relación de herencia con estás mismas.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">update()</td>
+    <td colspan="2" valign="top">Método que define el comportamiento cuando ocurren cambios de estado en los sujetos observados.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">SuscriptionObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase SuscriptionObserver es una clase hija de Observer. Se encarga de gestionar el estado de las suscripciones del sistema. Se encuentra asociada a Subscription.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">update()</td>
+    <td colspan="2" valign="top">Método que recibe la notificación y responde al cambio en el estado de Subscription.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">UserObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase UserObserver es una clase hija de Observer. Se encarga de gestionar los estados de los usuarios en el sistema. Se encuentra en una asociación con UserManager.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">update()</td>
+    <td colspan="2" valign="top">Método que recibe la notificación y responde al cambio en el estado de UserManager.</td>
+  </tr>
+<table>
+
+<br>
+
+**Content Bounded Context**
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Property </td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Property representa las obras que se encuentran en la aplicación. Tiene una relación de asociación con Property Factory, de composición con LegalDocument y Value.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">LegalDocument</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase LegalDocument representa los documentos legales relacionados a una Propiedad. Tiene una relación de composición con Property.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Value</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Value Los valores que toma la propiedad a lo largo del tiempo. Tiene una relación de composición con Property.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ContentFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ContentFactory es una clase abstracta, padre de PropertyFactory, encargada de definir la creación del contenido de la aplicación. </td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createContent()</td>
+    <td colspan="2" valign="top">Método que define la creación de objetos de un tipo de contenido.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">PropertyFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase PropertyFactoryes una clase hija de ContentFactory. Se encarga de registrar nuevas propiedades en la plataforma. Tiene una relación de asociación con Property.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createBook()</td>
+    <td colspan="2" valign="top">Método que crea objetos del tipo Property</td>
+  </tr>
+<table>
+
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ViewStrategy es una clase abstracta que define las estrategias para visualizar el contenido de la Web Application. Tiene una relación de generalización con PropertyViewStrategy.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que define la estrategia en la que se visualizan las propiedades.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">PropertyViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase PropertyViewStrategyes una clase hija de ViewStrategy. Es una interfaz que permite visualizar las caracteristicas de las propiedades mediante estrategias. Tiene una relación de generalización con ListViewStrategy, DetailedViewStrategy y ThumbnailViewStrategy y una de asociación con Property.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que define la estrategia en la que se visualizan las propiedades, más no su lógica.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ListViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ListViewStrategy es una clase hija de PropertyViewStrategy. Es una de las estrategias de visualización de las propiedades.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que permite ver las propiedades como una lista.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">DetailedViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase DetailedViewStrategy es una clase hija de PropertyViewStrategy. Es una de las estrategias de visualización de las propiedades.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que permite visualizar de manera más detallada las caracteristicas de una propiedad.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ThumbnailViewStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ThumbnailViewStrategy es una clase hija de PropertyViewStrategy. Es una de las estrategias de visualización de las propiedades.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">viewContent()</td>
+    <td colspan="2" valign="top">Método que permite visualizar en forma de miniaturas la propiedad en cuestion, informacion suficiente como para llamar la antencion pero no demsiada como para saturarse.</td>
+  </tr>
+<table>
+
+<br>
+
+**ServiceBounded Context**
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Contract</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Contract representa el medio legal de intercambio de derechos de uso de una propiedad. </td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">HomeOwner</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase HomeOwner representa a los propietarios dentro de la aplicación. Tiene una relación de asociación con Contract.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Tennant</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Tennant representa a los inquilinos de la aplicación. Tiene una relación de asociación con Contract y una de agregacion con TennantGroup.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">ContractHistory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ContractHistory representa el historial de contratos del Usuario. Tiene una relación de agregación con Contract.</td>
+  </tr>
+<table>
+
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">TennantGroup</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase TennantGroup es una clase abstracta que Gestiona la funcionalidad de los multiples compradores interesados en una misma propiedad que comparten un porcentaje del gasto total.. Tiene una relación de asociacion con Contract y GroupFactory.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">AddTennant()</td>
+    <td colspan="2" valign="top">Método que agrega un comprador a la lista de compradores en el contrato.</td>
+  </tr>
+<table>
+
+
+
+<table border="1" width="40%">
+  <tr>
+ServiceFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ServiceFactory es una clase abstracta que define la creación de objetos de colaboración. Tiene una relación de agregación con GroupFactory y ContractFactory.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">GroupFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase GroupFactory es una clase hija de ServiceFactory. Se encarga de la creación de nuevos grupos de compra en la aplicación. Tiene una relación de asociación con TennantGroup.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createGroup()</td>
+    <td colspan="2" valign="top">Método que crea objetos de tipo TennantGroup.</td>
+  </tr>
+<table>
+
+<table border="1" width="50%">
+  <tr>
+    <td colspan="2" valign="top">ContractFactory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase ContractFactory es una clase hija de ServiceFactory. Se encarga de crear los nuevos contratos de propiedad dentro de la aplicación. Tiene una relación de asociación con Contract.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Método</td>
+    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top">createContract()</td>
+    <td colspan="2" valign="top">Método que crea objetos de tipo Contract.</td>
+  </tr>
+<table>
+
+
+
+<br>
+
+**Monetization Bounded Context**
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">Subscription</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Subscription representa la suscripción a un plan de la aplicación. Tiene una relación de asociación con SubscriptionObserver, SubscriptionHistory, Plan y SubscriptionManager</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">SubscriptionHistory</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase SubscriptionHistory representa el historial de Subscription. Tiene una relación de asociación con Payment.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Plan</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Plan representa los planes de suscripción de la aplicación. Tiene una relación de asociación con Subscription.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Payment</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Payment representa la información de los pagos de la aplicación. Tiene una relación de asociación con PaymentObserver, Subscription y PaymentFacade.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">PaymentFacade</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase PaymentFacade facilita la interacción con los componentes y servicios que conforman los pagos en la plataforma.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">Observer</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase abstracta que define el comportamiento de SubscriptionObserver y PaymentObserver.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">SubscriptionObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase hija de Observer. Se encarga de observar los cambios de estado de Subscription. Tiene una relación de asociación con Subscription.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">PaymentObserver</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Observer es una clase hija de Observer. Se encarga de observar los cambios de estado de Payment. Tiene una relación de asociación con PaymentObserver.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">Commission</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Commission representa las comisiones que se pueden realizar en la aplicación. Tiene una relación de asociación con Writer, Reader, Illustrator y Payment.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">HomeOwner</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase HomeOwner representa a los propietarios dentro de la aplicación. Tiene una relación de asociación con Rent y SubscriptionManager.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="1" valign="top">Tennant</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase Tennant representa a los inquilinos dentro de la aplicación. Tiene una relación de asociación con Rent y SubscriptionManager.</td>
+  </tr>
+<table>
+
+
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">SubscriptionManager</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase SubscriptionManager realiza la gestión de los objetos tipo Subscription.</td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">SuscriptionStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase SuscriptionStrategy es una interfaz la cual permite visualizar las suscripciones por usuario mediante distintas estrategias. Tiene una relación de tipo asociación con SubscriptionManager y tres de generalización con TennantSuscriptionStrategy y HomeOwnerSuscriptionStrategy.</<td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">TennantSuscriptionStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase TennantSuscriptionStrategy es una clase hija de SuscriptionStrategy. Es una de las estrategias de visualización de suscripción
+    para los inquilinos.</<td>
+  </tr>
+<table>
+
+<table border="1" width="40%">
+  <tr>
+    <td colspan="2" valign="top">HomeOwnerSuscriptionStrategy</td>
+  </tr>
+    <tr>
+    <td colspan="2" valign="top">La clase HomeOwnerSuscriptionStrategy es una clase hija de SuscriptionStrategy. Es una de las estrategias de visualización de suscripción
+    para los propietarios.</<td>
+  </tr>
+<table>
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos 
+Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
