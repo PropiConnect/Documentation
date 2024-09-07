@@ -39,11 +39,11 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 0.0 | 25/08/2024 |Grupo 1 |Se crea el documento |  
-| 1.0 |1/09/2024|Daniel Del Castillo|Finaliza el capitulo I|
-| 1.1 | 2/08 | Carlos Sanchez | Finaliza el Capitulo II|
-| 1.2 | 5/08 | Daniel Ruiz y Oscar Antayhua | Finaliza el capitulo IV|
-| 1.3 | 7/08 | Gustavo Poma| Finaliza el Capitulo III|
-| 1.4 | 7/08 | Gustavo Poma| Finaliza el Capitulo V|
+| 1.0 | 01/09/2024 |Daniel Del Castillo|Finaliza el capitulo I|
+| 1.1 | 02/09/2024 | Carlos Sanchez | Finaliza el Capitulo II|
+| 1.2 | 05/09/2024 | Daniel Ruiz y Oscar Antayhua | Finaliza el capitulo IV|
+| 1.3 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo III|
+| 1.4 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo V|
 
 </center>
 
