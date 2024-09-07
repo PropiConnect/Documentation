@@ -885,7 +885,8 @@ Descripcion del porque estos elementos seran importantes
 **Branding:** El nombre del producto es PropiConnect, el cual cuenta con un logo representado por el icono de una vivienda con tonos de azul rodeandola. El color azul busca transmitir confianza y seguirdad, por esto mismo, ilumina a la vivienda.
 
 <div text-align="center">
-<img src="./assets/Chap-IV/PropiConnect_Logo.jpg" width="300" height="300">
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/46950447-9d21-4f2d-a377-47ee27fd011f">
+
 </div>
 
 ### 4.1.2. Web Style Guidelines.
@@ -894,7 +895,6 @@ Descripcion de los elementos que se utilizaran en el web app
 **Background:** Para los colores del fondo optamos por realizar un contraste entre blancos y negros para que nuestros colores azules resulten mas llamativos e intensos. 
 
 <div text-align="center">
-<img src="./assets/Chap-IV/Background.png" width="200" height="300">
     <img width="494" alt="image" src="https://github.com/user-attachments/assets/8f855683-ed55-4e2b-8def-8c47df0f12ca">
 
 </div>
@@ -962,7 +962,7 @@ find a presentation of all the main features of our app."\>
 ### 4.2.4. Searching Systems.
 
 Dada la necesidad del usuario a buscar diversas propiedades segun sus preferencias, ya sea ubicacion o precio como las habitaciones que contiene.Al realizar una busqueda, el usuario recibira una lista de opciones que varian segun las magnitudes seleccionadas en su busqueda. De esta forma, el usuario puede visualizar el contenido que ofrece el usuario de fora ordenada sin sentirse saturado. La interfaz de busqueda planteada permite al usuario filtrar la propiedad por sus necesidades de espacio, su ubicacion georgafica y su sustento econoico.
-<img src="./assets/Chap-IV/.png">
+
 
 ### 4.2.5. Navigation Systems.
 La Navegacion utiliza un Hierarchical Navigation System, que busca hacer las funciones vitales de acceso inmediato. De esta forma el usuario obtendra una respuesta rapida a sus busquedas mas rapidas dentro de la aplicaccion, sin perder la oportunidad de utilizar funciones mas complejas. 
