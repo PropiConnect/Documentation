@@ -581,19 +581,23 @@ Colocar Imagen
 
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-{texto}
+**Segmento Inquilinos**
+
+En las entrevistas realizadas a los inquilinos, surgieron varias sugerencias sobre cómo mejorar la aplicación, así como un gran interés en la función de compra compartida. Los entrevistados, compuestos por jóvenes profesionales y emprendedores, valoraron la interfaz intuitiva de la plataforma, pero expresaron que sería útil contar con más opciones de filtros personalizados para facilitar la búsqueda de propiedades. Por ejemplo, sugirieron añadir filtros que permitan seleccionar inmuebles por cercanía a sus lugares de trabajo, acceso a transporte público, y servicios como supermercados y gimnasios. Además, muchos destacaron la necesidad de recorridos virtuales en 3D más detallados, ya que esto les permitiría evaluar mejor los espacios sin necesidad de visitarlos físicamente. También se mencionó la importancia de agregar herramientas de comparación entre propiedades y calculadoras de financiamiento más avanzadas que incluyan simulaciones de pagos mensuales y distribución de costos.
+
+Los entrevistados también señalaron que la integración de reseñas de otros inquilinos sería muy útil para conocer las experiencias previas en las propiedades, así como la confiabilidad de los propietarios y agentes. Otro punto relevante fue la sugerencia de implementar un chat en vivo dentro de la aplicación, que permita resolver dudas en tiempo real y mejorar la atención al usuario. Respecto a la función de compra compartida, todos coincidieron en que se trata de una característica innovadora y esencial, especialmente para quienes buscan acceder al mercado inmobiliario sin asumir un compromiso financiero individualmente. Para estos inquilinos, la posibilidad de adquirir una propiedad junto a amigos, familiares o socios les abre la puerta a viviendas de mayor valor que de otro modo serían inalcanzables. Esta función no solo les permitiría compartir costos, sino también diversificar sus inversiones y reducir el riesgo financiero. En conclusión, los entrevistados consideran que la compra compartida aporta un valor diferencial significativo a la aplicación, haciéndola más atractiva y accesible para un público joven y dinámico que busca formas alternativas de acceder a la vivienda y al mercado inmobiliario.
 **Segmento 2:**
 {texto}
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-**Segmento 1:**  
+**Segmento Inquilino**  
 
-Colocar Imagen
+<img src="assets/Chap-II/User Persona - Inquilino.png">
 
-**Segmento 2:**
+**Segmento Propietario**
 
-Colocar Imagen
+<img src="assets/Chap-II/User Persona - Propietario.png">
+
 ### 2.3.2. User Task Matrix.
 <table>
     <tr>
