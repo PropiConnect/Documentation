@@ -42,7 +42,8 @@
 | 1.0 |1/09/2024|Daniel Del Castillo|Finaliza el capitulo I|
 | 1.1 | 2/08 | Carlos Sanchez | Finaliza el Capitulo II|
 | 1.2 | 5/08 | Daniel Ruiz y Oscar Antayhua | Finaliza el capitulo III|
-| 1.3 | 7/08 | Gustavo Poma| Finaliza el Capitulo IV|
+| 1.3 | 7/08 | Gustavo Poma| Finaliza el Capitulo III|
+| 1.4 | 7/08 | Gustavo Poma| Finaliza el Capitulo V|
 
 </center>
 
