@@ -560,7 +560,7 @@ Aspectos psicologicos:
 5. ¿Qué problemas has encontrado al utilizar otras plataformas de compra de inmuebles?
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento Propietarios** 
+**Segmento Inquilinos** 
 
 **Entrevista 1**
 
@@ -571,8 +571,8 @@ Aspectos psicologicos:
 
 <img src="assets/Chap-II/Entrevista Mateo Vilchez.png">
 
+**Entrevista 2**
 
-**Segmento Inquilinos**  
 **Nombre**: Aldair Chuman
 **Edad**: 22 años 
 **Ocupación**: Ingeniero de Software  
