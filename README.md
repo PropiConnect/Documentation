@@ -1666,7 +1666,8 @@ ServiceFactory</td>
 ### 4.8.1. Database Diagram.
 <div style="display:flex; justify-content:center; flex-direction:column;">
    <p>A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.</p>
-   <img src="./assets/Chap-IV/PropiConnect_DataBaseModel"> 
+    <img width="938" alt="image" src="https://github.com/user-attachments/assets/2b3fbade-80d3-4e87-bfa9-77ef4cd4d1d4">
+
 </div>
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
