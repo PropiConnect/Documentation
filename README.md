@@ -553,15 +553,17 @@ Aspectos psicologicos:
 5. ¿Qué problemas has encontrado al utilizar otras plataformas de compra de inmuebles?
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
+**Segmento Propietarios** 
 
+**Entrevista 1**
 
-```
-Colocar imagen
-```
+**Nombre:** Mateo Vilchez
+**Edad:** 19 años 
+**Ocupación:** Estudiante de Ingeniería de Software
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EQdnVlI8nNNGisxHQgn-wXMB7hVaug2-vp_JxjA_vVMv3A?e=2prSu4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+<img src="../Documentation/assets/Chap-II/Entrevista Mateo Vilchez.png">
+
 
 **Segmento 2**  
 Nombre: _____
@@ -597,7 +599,7 @@ Colocar imagen
 ### 2.3.2. User Task Matrix.
 <table>
     <tr>
-    <th colspan="3">User Persona: Vendedores de Inmuebles</th>
+    <th colspan="3">User Persona: Propietarios</th>
     </tr>
     <tr>
         <th>Tarea</th>
@@ -653,7 +655,7 @@ Colocar imagen
 
 <table>
     <tr>
-    <th colspan="3">User Persona: Compradores de Inmuebles</th>
+    <th colspan="3">User Persona: Inquilinos</th>
     </tr>
     <tr>
         <th>Tarea</th>
@@ -711,10 +713,10 @@ Colocar imagen
 
 A continuación, se muestran los User Journey Mapping por cada segmento objetivo.
 
-**Segmento Objetivo Compradores**
+**Segmento Objetivo Propietarios**
 <img src="assets/Chap-II/User Journey Map - Comprador.png">
 
-**Segmento Objetivo: Vendedores**
+**Segmento Objetivo: Inquilinos**
 <img src="assets/Chap-II/User Journey Map - Vendedor.png">
 
 ### 2.3.4. Empathy Mapping.
