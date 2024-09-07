@@ -36,7 +36,11 @@
 
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |  
+| 0.0 | 25/08/2024 |Grupo 1 |Se crea el documento |  
+| 1.0 |1/09/2024|Daniel Del Castillo|Finaliza el capitulo I|
+| 1.1 | 2/08 | Carlos Sanchez | Finaliza el Capitulo II|
+| 1.2 | 5/08 | Daniel Ruiz y Oscar Antayhua | Finaliza el capitulo III|
+| 1.3 | 7/08 | Gustavo Poma| Finaliza el Capitulo IV|
 
 </center>
 
@@ -172,8 +176,8 @@
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 | ------------------- | ------------------- | ------------ |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Gustavo Arturo Poma Espinoza:<br> *TB1:* Me encargué de todas las actividades clave:<br> - Definición de escenarios de usuario y planificación inicial del backlog.<br> - Estructuración de los criterios de aceptación.<br> - Desglose de historias de usuario complejas en tareas más pequeñas y manejables.<br> - Redacción de epics y priorización de las historias de usuario.<br> - Organización del backlog en formato Markdown.<br>  | Aunque trabajé de manera individual, logré abordar todas las áreas críticas del proyecto con eficacia, lo que muestra mi capacidad para cubrir múltiples aspectos en un entorno colaborativo, aún en ausencia de compañeros.<br>  |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Gustavo Arturo Poma Espinoza:<br> *TB1:* A través del desarrollo de la TB1, adquirí conocimientos específicos del sector inmobiliario. Identifiqué las necesidades de los propietarios e inquilinos, como la administración de propiedades, pagos y contratos, así como la posibilidad de compra compartida de inmuebles.<br> | Este conocimiento permitió la correcta planificación del proyecto y la creación de soluciones de software adaptadas a las particularidades del sector, garantizando que la plataforma satisfaga las demandas del mercado.<br>  |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Gustavo Arturo Poma Espinoza:<br> *TB1:* Me encargué de todas las actividades clave:<br> - Definición de escenarios de usuario y planificación inicial del backlog.<br> - Estructuración de los criterios de aceptación.<br> - Desglose de historias de usuario complejas en tareas más pequeñas y manejables.<br> - Redacción de epics y priorización de las historias de usuario.<br> - Organización del backlog en formato Markdown.<br>  Daniel Del Castillo: ***TB1:*** <br> Me encargué de diseñar y seguir la metodología de lean UX, de modo que con ayuda de mi equipo pudimos orientar el producto a la experiencia de usuario apoyandonos mutuamente y logrando una solución idonea <br>| Aunque trabajamos de manera individual, logré abordar todas las áreas críticas del proyecto con eficacia, lo que muestra mi capacidad para cubrir múltiples aspectos en un entorno colaborativo, aún en ausencia de compañeros.<br>  |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Gustavo Arturo Poma Espinoza:<br> *TB1:* A través del desarrollo de la TB1, adquirí conocimientos específicos del sector inmobiliario. Identifiqué las necesidades de los propietarios e inquilinos, como la administración de propiedades, pagos y contratos, así como la posibilidad de compra compartida de inmuebles.<br> Daniel del Castillo: <br> ***TB1:***<br> Durante la parte teorica del proyecto, logré comprender mejor el sector inmoviliario, mediante entrevistas investigación de mercado, recopilación de testimonios <br>| Este conocimiento permitió la correcta planificación del proyecto y la creación de soluciones de software adaptadas a las particularidades del sector, garantizando que la plataforma satisfaga las demandas del mercado.<br>  |
 
 
 # Capítulo I: Introducción
@@ -201,7 +205,7 @@ Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por 
 |Oscar Josué Antayhua Castillo 	![Oscar](./assets/Chap-I/Oscar.png)|U20191e414|Ingenieria de software|C++, python, Arduino, SQL |
 |Gustavo Arturo Poma Espinoza 	![image](https://github.com/user-attachments/assets/1cbdef43-4d88-4454-b559-9e3621dac534)|U20221C138|Ingenieria de software|C++, piton .etc|
 |Carlos Sanchez Montero 	![carlos](./assets/Chap-I/carlos.jpg)|U202015274|Ingenieria de software|C++, C , JavaScript, SQL, Python .etc|
-|Daniel Elias Ruiz Huisa 	![Daniel](./assets/Chap-IV/Daniel.png)|U202210764|Ingenieria de software|C++, Python, SQL|
+|Daniel Elias Ruiz Huisa |U202210764|Ingenieria de software|C++, Python, SQL|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -559,19 +563,13 @@ Edad: _ años
 Ocupación: _____  
 
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 **Segmento 2**  
 Nombre: _____
 Edad: _ años 
 Ocupación: _____  
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 
 
 ### 2.2.3. Análisis de entrevistas.
@@ -583,17 +581,11 @@ Colocar imagen
 ### 2.3.1. User Personas.
 **Segmento 1:**  
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 
 **Segmento 2:**
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 ### 2.3.2. User Task Matrix.
 <table>
     <tr>
@@ -720,17 +712,11 @@ A continuación, se muestran los User Journey Mapping por cada segmento objetivo
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 
 **Segmento 2:**
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
@@ -888,7 +874,7 @@ Descripcion del porque estos elementos seran importantes
 
 <div text-align="center">
 <img src="./assets/Chap-IV/Colores.png" width="200" height="300">
-<div>
+</div>
 
 **Tipografia:** Montserrat es una fuente que tiene un estilo contemporáneo con formas geométricas suaves, perfecta para proyectos modernos y elegantes. Estos aspectos son perfectos para transmitir confianza en los usuarios sin perder estilo.
 
@@ -1080,7 +1066,7 @@ Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usad
 Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+Diagrama de base de datos 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
@@ -1101,47 +1087,26 @@ Configuraciones de donde y como deployeamos el proyecto
 
 
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-```
-Colocar imagen
-```
-
+Colocar Imagen
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -1169,10 +1134,7 @@ Nombre: _____
 Edad: _ años 
 Ocupación: _____  
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 {texto mucho}
 
 **Segmento 2**  
@@ -1180,13 +1142,10 @@ Nombre: _____
 Edad: _ años 
 Ocupación: _____  
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 {texto}
 ### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
+| HEURÍSTICA   | EVALUACIÓN  | NOTA      |
 | --------------------------------------------- | ---------- | --------- |
 | Visibilidad del estado del sistema            |            | {texto}   |
 | Coincidencia entre el sistema y el mundo real |            | {texto}   |
@@ -1226,10 +1185,7 @@ formato
 datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
 
 
-```
-Colocar imagen
-```
-
+Colocar Imagen
 
 
 
