@@ -205,7 +205,7 @@ Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por 
 |-|-|-|-|
 |Daniel Mateo del Castillo Bueno ![Teocchiii](./assets/Chap-I/Foto-u202211212.png) | u202211212 | Ingenieria de Software | SQL, Angular, Redis, Python, SpringBoot, React, Arduino |
 |Oscar Josué Antayhua Castillo 	![Oscar](./assets/Chap-I/Oscar.png)|U20191e414|Ingenieria de software|C++, python, Arduino, SQL |
-|Gustavo Arturo Poma Espinoza 	![image](https://github.com/user-attachments/assets/1cbdef43-4d88-4454-b559-9e3621dac534)|U20221C138|Ingenieria de software|C++, piton .etc|
+|Gustavo Arturo Poma Espinoza 	![image](https://github.com/user-attachments/assets/1cbdef43-4d88-4454-b559-9e3621dac534)|U20221C138|Ingenieria de software|C++, piton , Java, Angular, SprintBoot, MySql, Mongodb, .Net|
 |Carlos Sanchez Montero 	![carlos](./assets/Chap-I/carlos.jpg)|U202015274|Ingenieria de software|C++, C , JavaScript, SQL, Python .etc|
 |Daniel Elias Ruiz Huisa |U202210764|Ingenieria de software|C++, Python, SQL|
 
@@ -1662,26 +1662,184 @@ ServiceFactory</td>
     para los propietarios.</<td>
   </tr>
 <table>
+    
 ## 4.8. Database Design.
+    
 ### 4.8.1. Database Diagram.
 <div style="display:flex; justify-content:center; flex-direction:column;">
    <p>A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.</p>
     <img width="938" alt="image" src="https://github.com/user-attachments/assets/2b3fbade-80d3-4e87-bfa9-77ef4cd4d1d4">
-
 </div>
-# Capítulo V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management.
-### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
-### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
-### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
-### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
-## 5.2. Landing Page, Services & Applications Implementation
+
+
+**Capítulo V: Product Implementation, Validation & Deployment**
+
+**5.1. Software Configuration Management.**
+
+**5.1.1. Software Development Environment Configuration.**
+
+A continuación, presentaremos los programas de software que hemos utilizado en el desarrollo de nuestro proyecto.
+
+**Project Management**
+
+- **Whatsapp:** <https://web.whatsapp.com/>
+
+  Se utilizó la plataforma de WhatsApp para organizar las tareas del equipo y proporcionar apoyo mutuo durante el trabajo.
+
+**Product UX/UI Design**
+
+- **Miro:** <https://miro.com/es/>
+
+  Empleamos Miro para desarrollar el Lean UX Canvas.
+
+- **Uxpressia:**  <https://uxpressia.com/>
+
+  Utilizamos Uxpressia para crear User Personas, Empathy maps y Journey maps.
+
+- **Figma: <https://www.figma.com>**
+
+  Figma fue nuestra herramienta principal para diseñar wireframes, wireflows, mockups del landing page y para la creación de prototipos de aplicaciones web.
+
+- **LucidChart:** <https://www.lucidchart.com/pages/>
+
+  Para crear los Impact maps
+
+**Software Development**
+
+
+
+
+- **Landing Page:** Para la creación de nuestra página de inicio, hemos empleado HTML5, CSS y Javascript.
+
+**Software Testing**
+
+Hemos realizado pruebas de software en el landing page y la aplicación web utilizando las herramientas de desarrollo de los navegadores web como Google Chrome y Brave.
+
+**IDE's de desarrollo**
+
+- **Webstorm: <https://www.jetbrains.com/webstorm/>**
+
+  Utilizamos Webstorm, un IDE centrado en el desarrollo frontend, por su variedad de herramientas que agilizan el proceso de desarrollo.
+
+**Software Deployment**
+
+- **Github Pages:** <https://pages.github.com/>
+
+  Utilizamos Github Pages para desplegar nuestro landing page, vinculando el repositorio de GitHub para que se encargue automáticamente del despliegue.
+
+**Software Documentation**
+
+- **Google Docs: <https://docs.google.com/document/u/0/>**
+
+  Esta plataforma fue utilizada para enviar el progreso de las tareas asignadas. Semanalmente se enviaban las asignaciones de cada integrante para el informe final.
+
+
+
+
+- **Github: <https://github.com/>**
+
+  Utilizamos GitHub para la documentación del proyecto y el landing page, aprovechando su capacidad de desarrollo colaborativo y su registro de commits para demostrar la contribución de cada miembro.
+
+
+
+
+- **Visual Paradigm:** Utilizamos Visual Paradigm para crear diagramas C4 de nuestro proyecto.
+
+
+
+
+- **Vertabelo:** <https://vertabelo.com/>
+
+  Vertabelo fue utilizado para diseñar la estructura de nuestra base de datos, siendo una aplicación web colaborativa.
+
+5\.1.2. Source Code Management
+
+La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
+
+**Organización:**
+
+<https://github.com/RocketNotes-Open-Source-SW57-Grupo-3>
+
+**LandinPage:**
+
+<https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-Landing-page/>
+
+**Ramas principales:**
+
+**Rama “main”:** En esta rama se almacenan las versiones oficiales de nuestro repositorio para pasarlas a producción. Rama “develop”: Esta rama se utilizará como punto de integración para las ramas de “feature”. Una vez que el  “head” sea estable y el equipo lo considere listo para el lanzamiento, se fusionará con la rama “release”.
+
+**Ramas auxiliares:**
+
+- **Rama “release”:** La rama “release” se emplea para la preparación del lanzamiento de una nueva versión en la rama “main” ayudando a controlar las versiones de código. Aquí se pueden solucionar errores menores y preparar los datos para la versión. Esta rama permitirá liberar a la rama “develop” de est as tareas preparatorias y evita demoras en el desarrollo mientras se prepara para el lanzamiento. 
+- **Rama “feature”:** En las ramas “feature” se desarrollan las características generales que se integrarán en la rama “develop”. Estas características son aquellas funcionalidades solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Por ejemplo, la rama feature/navbar.
+- **Rama “hotfix”:** Esta rama se utiliza para corregir urgentemente errores en la última versión de la rama “main” que no pueden esperar hasta el próximo lanzamiento para ser solucionados.
+
+**5.1.3. Source Code Style Guide & Conventions**
+
+Para garantizar la coherencia y calidad en el desarrollo de nuestra Landing Page y la aplicación web, adoptaremos convenciones específicas para cada uno de los lenguajes y tecnologías utilizados:
+
+**HTML**
+
+- **Tipo de Documento:** Declararemos el tipo de documento al comienzo de cada archivo HTML usando <!DOCTYPE html>.
+- **Minúsculas en Etiquetas y Atributos**: Todas las etiquetas y atributos se escribirán en minúsculas, como <body> y <p>.
+- **Cierre de Etiquetas**: Todas las etiquetas deben cerrarse adecuadamente para mantener la estructura del documento.
+- **Uso de Comillas:** Utilizaremos comillas en los valores de los atributos para asegurar que sean interpretados correctamente, por ejemplo, <a href="https://example.com">.
+- **Especificación de Imágenes:** Incluir atributos como alt, width y height en las etiquetas de imagen para mejorar la accesibilidad y el diseño.
+- *Evitar Espacios en Atributos:* No se dejarán espacios alrededor del signo igual en los atributos, como en <link rel="stylesheet" href="styles.css">.
+- **Elemento <title>:** No omitiremos el elemento <title>, ya que es crucial para la optimización del motor de búsqueda y la usabilidad del sitio.
+- **Atributos de Idioma y Codificación:** Utilizaremos el atributo lang para especificar el idioma del documento y <meta charset="UTF-8"> para definir la codificación de caracteres.
+
+**CSS**
+
+- **Uso de HTTPS:** Todos los recursos externos, como fuentes y multimedia, se cargarán mediante HTTPS para garantizar la seguridad. Ejemplo: @import 'https://fonts.googleapis.com/css?family=Open+Sans';.
+- **Nomenclatura en Minúsculas:** Todos los nombres de elementos, atributos, y valores de atributos deberán estar en minúsculas para mantener la uniformidad, ej.: color: #e5e5e5;.
+- **Nombres de Clases Descriptivos:** Las clases deben nombrarse de manera que describan su función claramente y de forma breve, utilizando guiones para separar palabras, ej.: .barra-navegacion, .autor-articulo.
+- **Propiedades Abreviadas**: Donde sea posible, se utilizarán formas abreviadas de propiedades CSS para reducir el código y mejorar la legibilidad, ej.: border-top: 0;.
+- **Colores Hexadecimales Cortos:** Usaremos la notación hexadecimal de tres caracteres cuando sea posible, ej.: color: #ebc;.
+- **Orden Alfabético:** Las declaraciones dentro de un bloque CSS se ordenarán alfabéticamente para facilitar la búsqueda y el mantenimiento.
+- **Uso de Punto y Coma:** Cada declaración debe terminar con un punto y coma para evitar errores en la interpretación del código, ej.: display: block;.
+- **Espaciado en Declaraciones:** Se incluirá un espacio después de los dos puntos en cada declaración y entre las propiedades y las llaves que abren el bloque, ej.: font-weight: bold;.
+- **Comillas Simples para Valores de Atributos:** Utilizaremos comillas simples para encerrar los valores de los atributos en CSS, ej.: font-family: 'Open Sans', Arial, sans-serif;.
+
+**Gherkin**
+
+- **Estructura de Archivos:** Los archivos .feature contendrán las historias de usuario y describirán las características de la aplicación de manera estructurada.
+- **Palabra Clave 'Feature':** Se utilizará para introducir y agrupar funcionalidades relacionadas dentro del archivo.
+- **Escenarios y Ejemplos:** Utilizaremos Scenario para definir situaciones específicas y Example para casos de uso concretos.
+- **Pasos Dado, Cuando, Entonces:** Given establece el contexto, When describe la acción o evento, y Then define el resultado esperado. And se usa para añadir pasos adicionales sin repetir el contexto o acción.
+- **Tablas de Datos:** Emplearemos el carácter | para crear tablas de datos que permitan pasar múltiples valores en las pruebas, facilitando así la definición de múltiples escenarios en un solo paso.
+
+**JavaScript y TypeScript**
+
+- **Convenciones de Nombres**: Seguiremos las convenciones de camelCase para variables y funciones, PascalCase para clases en TypeScript, y UPPER\_CASE\_WITH\_UNDERSCORES para constantes en ambos lenguajes.
+- **Uso de let y const:** Preferimos let y const sobre var para declarar variables.
+- **Punto y Coma:** Incluir un punto y coma al final de cada instrucción para evitar errores de compilación.
+
+**Angular**
+
+- **Nomenclatura de Archivos:** Usaremos kebab-case para los nombres de archivos, como mi-componente.component.ts.
+- **Clases y Componentes:** Nombraremos las clases y componentes usando UpperCamelCase, por ejemplo, MiComponente.
+- **Evitar Dependencias Circulares:** Evitaremos dependencias circulares para mantener la modularidad y reusabilidad del código.
+- **Modo Estricto en TypeScript:** Activaremos el modo estricto en TypeScript para mejorar la verificación de tipos y la calidad del código.
+
+**5.1.4. Software Deployment Configuration.**
+
+**Markdown:**
+
+Creamos un repositorio en la organización de nuestro grupo en GitHub y subimos los
+
+archivos necesarios para que el servidor pueda mostrar la landing page. Utilizamos
+
+Github Pages para el despliegue.
+
+1. Cargamos los archivos necesarios para subirlo al repositorio.
+
+2. Posteriormente nos dirigimos a settings y ubicamos el apartado, Pages. En Branch seleccionamos la rama main y posteriormente, guardar. 
+
+3. Luego de cierto tiempo, github nos envía el enlace de nuestra página.
+
+
+### 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
 
