@@ -573,11 +573,12 @@ Aspectos psicologicos:
 
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
+**Nombre**: Aldair Chuman
+**Edad**: 22 años 
+**Ocupación**: Ingeniero de Software  
+**URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/ERYcC5TRz7lNgGgBlwIfcxgBluAvlZV4BrmAMOJg2lKB8g?e=gdnUAp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Colocar Imagen
+<img src="./assets/Chap-II/entrevista-aldair.png">
 
 
 ### 2.2.3. Análisis de entrevistas.
