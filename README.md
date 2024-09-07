@@ -582,19 +582,23 @@ Aspectos psicologicos:
 
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-{texto}
+**Segmento Inquilinos**
+
+En las entrevistas realizadas a los inquilinos, surgieron varias sugerencias sobre cómo mejorar la aplicación, así como un gran interés en la función de compra compartida. Los entrevistados, compuestos por jóvenes profesionales y emprendedores, valoraron la interfaz intuitiva de la plataforma, pero expresaron que sería útil contar con más opciones de filtros personalizados para facilitar la búsqueda de propiedades. Por ejemplo, sugirieron añadir filtros que permitan seleccionar inmuebles por cercanía a sus lugares de trabajo, acceso a transporte público, y servicios como supermercados y gimnasios. Además, muchos destacaron la necesidad de recorridos virtuales en 3D más detallados, ya que esto les permitiría evaluar mejor los espacios sin necesidad de visitarlos físicamente. También se mencionó la importancia de agregar herramientas de comparación entre propiedades y calculadoras de financiamiento más avanzadas que incluyan simulaciones de pagos mensuales y distribución de costos.
+
+Los entrevistados también señalaron que la integración de reseñas de otros inquilinos sería muy útil para conocer las experiencias previas en las propiedades, así como la confiabilidad de los propietarios y agentes. Otro punto relevante fue la sugerencia de implementar un chat en vivo dentro de la aplicación, que permita resolver dudas en tiempo real y mejorar la atención al usuario. Respecto a la función de compra compartida, todos coincidieron en que se trata de una característica innovadora y esencial, especialmente para quienes buscan acceder al mercado inmobiliario sin asumir un compromiso financiero individualmente. Para estos inquilinos, la posibilidad de adquirir una propiedad junto a amigos, familiares o socios les abre la puerta a viviendas de mayor valor que de otro modo serían inalcanzables. Esta función no solo les permitiría compartir costos, sino también diversificar sus inversiones y reducir el riesgo financiero. En conclusión, los entrevistados consideran que la compra compartida aporta un valor diferencial significativo a la aplicación, haciéndola más atractiva y accesible para un público joven y dinámico que busca formas alternativas de acceder a la vivienda y al mercado inmobiliario.
 **Segmento 2:**
 {texto}
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-**Segmento 1:**  
+**Segmento Inquilino**  
 
-Colocar Imagen
+<img src="assets/Chap-II/User Persona - Inquilino.png">
 
-**Segmento 2:**
+**Segmento Propietario**
 
-Colocar Imagen
+<img src="assets/Chap-II/User Persona - Propietario.png">
+
 ### 2.3.2. User Task Matrix.
 <table>
     <tr>
@@ -875,7 +879,8 @@ Descripcion del porque estos elementos seran importantes
 **Color:** Se escogieron colores en tonalidadesa azules que buscan representar seguridad y confianza. Estos colores se alinean con el tipo de servicio que brindamos y el tipo de usuario que buscamos.
 
 <div text-align="center">
-<img src="./assets/Chap-IV/Colores.png" width="200" height="300">
+    <img width="501"  alt="image" src="https://github.com/user-attachments/assets/92dde2f0-29e9-4e55-9ffb-b5397e55c25f">
+
 </div>
 
 **Tipografia:** Montserrat es una fuente que tiene un estilo contemporáneo con formas geométricas suaves, perfecta para proyectos modernos y elegantes. Estos aspectos son perfectos para transmitir confianza en los usuarios sin perder estilo.
@@ -885,16 +890,18 @@ Descripcion del porque estos elementos seran importantes
 **Branding:** El nombre del producto es PropiConnect, el cual cuenta con un logo representado por el icono de una vivienda con tonos de azul rodeandola. El color azul busca transmitir confianza y seguirdad, por esto mismo, ilumina a la vivienda.
 
 <div text-align="center">
-<img src="./assets/Chap-IV/PropiConnect_Logo.jpg" width="300" height="300">
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/46950447-9d21-4f2d-a377-47ee27fd011f">
+
 </div>
 
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
-**Background:** (primary, secondary, terniary)  
+**Background:** Para los colores del fondo optamos por realizar un contraste entre blancos y negros para que nuestros colores azules resulten mas llamativos e intensos. 
 
 <div text-align="center">
-<img src="./assets/Chap-IV/Background.png" width="200" height="300">
+    <img width="494" alt="image" src="https://github.com/user-attachments/assets/8f855683-ed55-4e2b-8def-8c47df0f12ca">
+
 </div>
 
 **Text Styles:** 
@@ -906,19 +913,15 @@ Descripcion de los elementos que se utilizaran en el web app
 **Button Styles:** Para el estilo de los botones se eligio un azul mas vivo que los demas, que se torna a un tono mas oscuro cuando se mantiene el mouse encima.
 
 <div text-align="center">
-<img src="./assets/Chap-IV/Buttons.png" width="200" height="300">
+<img width="844" alt="image" src="https://github.com/user-attachments/assets/3c50fde5-3852-4c63-9dcf-3ccf817ba17e">
+
 </div>
 
 **Icons:** Los iconos a utilizar estan relaciionados a elementos interactivos como botones. Esto buscando que los botones y sus funcionalidades sean mas llmativos.
 
 <div text-align="center">
-<img src="./assets/Chap-IV/Icons.png" width="200" height="300">
-</div>
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/424ae182-b005-4894-af60-1c4a046490ca">
 
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-
-<div text-align="center">
-<img src="./assets/Chap-IV/NavBar.png" width="200" height="300">
 </div>
 
 ## 4.2. Information Architecture.
@@ -964,7 +967,7 @@ find a presentation of all the main features of our app."\>
 ### 4.2.4. Searching Systems.
 
 Dada la necesidad del usuario a buscar diversas propiedades segun sus preferencias, ya sea ubicacion o precio como las habitaciones que contiene.Al realizar una busqueda, el usuario recibira una lista de opciones que varian segun las magnitudes seleccionadas en su busqueda. De esta forma, el usuario puede visualizar el contenido que ofrece el usuario de fora ordenada sin sentirse saturado. La interfaz de busqueda planteada permite al usuario filtrar la propiedad por sus necesidades de espacio, su ubicacion georgafica y su sustento econoico.
-<img src="./assets/Chap-IV/.png">
+
 
 ### 4.2.5. Navigation Systems.
 La Navegacion utiliza un Hierarchical Navigation System, que busca hacer las funciones vitales de acceso inmediato. De esta forma el usuario obtendra una respuesta rapida a sus busquedas mas rapidas dentro de la aplicaccion, sin perder la oportunidad de utilizar funciones mas complejas. 
@@ -1757,11 +1760,11 @@ La administración y estructuración de las múltiples modificaciones se realiza
 
 **Organización:**
 
-<https://github.com/RocketNotes-Open-Source-SW57-Grupo-3>
+<https://github.com/PropiConnect/Documentation>
 
 **LandinPage:**
 
-<https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-Landing-page/>
+<https://propiconnect.github.io/LandingPage/>
 
 **Ramas principales:**
 
