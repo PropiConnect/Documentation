@@ -1755,11 +1755,11 @@ La administración y estructuración de las múltiples modificaciones se realiza
 
 **Organización:**
 
-<https://github.com/RocketNotes-Open-Source-SW57-Grupo-3>
+<https://github.com/PropiConnect/Documentation>
 
 **LandinPage:**
 
-<https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-Landing-page/>
+<https://propiconnect.github.io/LandingPage/>
 
 **Ramas principales:**
 
