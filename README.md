@@ -1888,35 +1888,43 @@ El equipo trabajó de manera colaborativa utilizando GitHub como sistema de cont
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
 3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
+**Preguntas para Segmento 1 (Propietarios)**
+1. ¿Cuales son los mayores desafíos que enfentas al vender propiedades actualmente?
+2. ¿Cómo te gustaría que una plataforma digital te ayudara a encontrar y conectar con potenciales compradores?
+3. ¿Qué características te harían preferir una nueva aplicación sobre las plataformas que usas actualmente?
+4. ¿Qué información adicional te gustaría tener sobre los compradores antes de interactuar con ellos?
+5. ¿Qué tan frecuente es la venta de propiedades entre varias personas, y cómo se maneja ese proceso actualmente?
+6. ¿Hay algo que consideras que falta en las plataformas inmobiliarias actuales? 
+
+**Preguntas para Segmento 2 (Inquilinos/Compradores)**
+1. ¿Qué características te gustaría ver en una plataforma de compra de inmuebles que te facilitarían la búsqueda y decisión de compra? 
+2. ¿Qué tan importante es la posibilidad de comprar una propiedad en conjunto con otras personas?
+3. ¿Qué tipo de información prefieres tener disponible cuando exploras una propiedad en línea?
+4. ¿Qué factores influyen más en tu decisión de comprar una propiedad?
+5. ¿Qué problemas has encontrado al utilizar otras plataformas de compra de inmuebles?
 **Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
+**Entrevista 1**
 
-Colocar Imagen
-{texto mucho}
+**Nombre:** Mateo Vilchez
+**Edad:** 19 años 
+**Ocupación:** Estudiante de Ingeniería de Software
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EQdnVlI8nNNGisxHQgn-wXMB7hVaug2-vp_JxjA_vVMv3A?e=2prSu4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+<img src="assets/Chap-II/Entrevista Mateo Vilchez.png">
+
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
+Entrevista 1
+**Nombre**: Aldair Chuman
+**Edad**: 22 años 
+**Ocupación**: Ingeniero de Software  
+**URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/ERYcC5TRz7lNgGgBlwIfcxgBluAvlZV4BrmAMOJg2lKB8g?e=gdnUAp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Colocar Imagen
-{texto}
+<img src="./assets/Chap-II/entrevista-aldair.png">
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA   | EVALUACIÓN  | NOTA      |
 | --------------------------------------------- | ---------- | --------- |
