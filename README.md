@@ -377,7 +377,7 @@ Sabremos que tenemos éxito cuando veamos un aumento en el número de propiedade
 
 
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+![Lean UX Canvas](./assets/Chap-I/UX-Canvas.png)
 ## 1.3. Segmentos objetivo.
 ***Segmento #1:Propietarios de inmuebles***
 
