@@ -572,7 +572,7 @@ Aspectos psicologicos:
 <img src="assets/Chap-II/Entrevista Mateo Vilchez.png">
 
 
-**Segmento 2**  
+**Segmento Inquilinos**  
 **Nombre**: Aldair Chuman
 **Edad**: 22 años 
 **Ocupación**: Ingeniero de Software  
