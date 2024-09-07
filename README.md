@@ -1677,34 +1677,45 @@ Que usamos con css (en caso usemos software para SASS)
 supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
-## 5.2. Landing Page, Services & Applications Implementation.
+## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1.
-¿Cómo vamos a plannear el sprint?
-#### 5.2.1.2. Sprint Backlog 1.
 
+#### 5.2.1.1. Sprint Planning 1
+Para el primer sprint, se planificó la creación de la landing page de la plataforma, junto con la implementación básica de la navegación entre las secciones de la página. El objetivo principal era desarrollar una interfaz atractiva que permita a los usuarios obtener una introducción clara de la plataforma y sus funcionalidades.
 
+#### 5.2.1.2. Sprint Backlog 1
+Las tareas incluidas en el Sprint Backlog para este sprint fueron:
 
-Colocar Imagen
-#### 5.2.1.3. Development Evidence for Sprint Review.
+- Crear el diseño inicial de la landing page.
+- Implementar las secciones de presentación de la empresa, servicios, equipo y planes.
+- Crear un menú de navegación con enlaces a todas las secciones.
+- Desarrollar la funcionalidad de registro e inicio de sesión.
+- Configurar el repositorio en GitHub y desplegar la landing page usando GitHub Pages.
 
-Colocar Imagen
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review
+Durante el desarrollo de la landing page, implementamos un diseño responsivo utilizando HTML y CSS, asegurándonos de que las secciones fueran accesibles tanto en dispositivos móviles como de escritorio. Además, se incluyó un menú de navegación con las secciones principales: Inicio, Servicios, Equipos, Planes y Testimonios.
 
-Colocar Imagen
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+Para validar la funcionalidad de la landing page, se realizaron pruebas de navegación y visualización en diferentes dispositivos y tamaños de pantalla. Se verificó que todos los enlaces y botones fueran funcionales y que el diseño se mantuviera consistente en diferentes navegadores.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review
+Lo que hicimos fue crear un repositorio en GitHub y aprovechamos el servicio de GitHub Pages para desplegar la landing page directamente desde ese repositorio. Esto nos permitió realizar pruebas de acceso en tiempo real y asegurarnos de que el sitio estuviera disponible públicamente.
 
-Colocar Imagen
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-Colocar Imagen
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Se documentaron los servicios ofrecidos en la landing page, incluyendo:
 
-Colocar Imagen
+1. **Gestión de Propiedades**: Alquiler y venta de propiedades, administración de pagos, creación y gestión de contratos.
+2. **Gestión de Inquilinos**: Pago de alquileres, notificaciones de pago, historial de pagos.
+3. **Compra Compartida de Propiedad**: División de propiedad, distribución de ganancias.
+4. **Gestión de Nuevos Inmuebles**: Registro y actualización de inmuebles, seguimiento de valorización.
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+La landing page fue desplegada en GitHub Pages. Se configuró el dominio proporcionado por GitHub y se vinculó directamente al repositorio para facilitar futuras actualizaciones del código.
 
-Colocar Imagen
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+El equipo trabajó de manera colaborativa utilizando GitHub como sistema de control de versiones, lo que permitió que cada miembro pudiera realizar cambios y revisiones en el código de manera ágil. La integración continua de los cambios en GitHub facilitó el seguimiento del progreso y la resolución de conflictos.
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
