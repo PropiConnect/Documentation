@@ -207,7 +207,7 @@ Convertirnos en la plataforma líder en el mercado inmobiliario, reconocida por 
 |Oscar Josué Antayhua Castillo 	![Oscar](./assets/Chap-I/Oscar.png)|U20191e414|Ingenieria de software|C++, python, Arduino, SQL |
 |Gustavo Arturo Poma Espinoza 	![image](https://github.com/user-attachments/assets/1cbdef43-4d88-4454-b559-9e3621dac534)|U20221C138|Ingenieria de software|C++, piton , Java, Angular, SprintBoot, MySql, Mongodb, .Net|
 |Carlos Sanchez Montero 	![carlos](./assets/Chap-I/carlos.jpg)|U202015274|Ingenieria de software|C++, C , JavaScript, SQL, Python .etc|
-|Daniel Elias Ruiz Huisa |U202210764|Ingenieria de software|C++, Python, SQL|
+|Daniel Elias Ruiz Huisa ![Daniel](./assets/Chap-I/Daniel.jpg)|U202210764|Ingenieria de software|C++, Python, SQL|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
