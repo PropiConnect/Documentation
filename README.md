@@ -569,6 +569,7 @@ Aspectos psicologicos:
 **Ocupación:**Arquitecta
 
 ![Entrevista1-1](./assets/Chap-II/Entrevista%20Yndira%20Bueno.jpg)
+**URL:**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EbmxJZjmCu5HkDj1U1ce6awBlMXGa-HZFAOfeRNVgaP1ew?e=EPTgK9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 **Segmento Inquilinos** 
