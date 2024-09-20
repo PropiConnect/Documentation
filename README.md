@@ -1032,7 +1032,7 @@ La Navegacion utiliza un Hierarchical Navigation System, que busca hacer las fun
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-[Link del figma](https://www.figma.com/design/VsjlXR3dSCZUXkOxLReCdy/WireFrame?m=auto&t=AtBd4Vbri1v7E72Z-6)
+[Link del figma](https://www.figma.com/design/PFdQCAPgkfxaQWl5HyvFuQ/Wireframe?node-id=0-1&t=1whP4kfGbQn51RYv-1)
 <img src="./assets/Chap-IV/WireFrame.png">
 
 <!-- ![Web Aplication Wireframe](image.jpg) -->
@@ -1042,7 +1042,7 @@ La Navegacion utiliza un Hierarchical Navigation System, que busca hacer las fun
 
 <!-- ![Web Aplication Wireflow](image.jpg) -->
 ### 4.4.2. Web Applications Mock-ups.
-[Link del figma](https://www.figma.com/design/cjHreuImqY0BcTggBOzx5p/Mockup?m=auto&t=AtBd4Vbri1v7E72Z-6)
+[Link del figma](https://www.figma.com/design/CNycCh372SSE8sK0AYKVXD/MockUP?t=AQnl5jmqddVnLFiv-1)
 <img src="./assets/Chap-IV/Mockup.png">
 
 ### 4.4.3. Web Applications User Flow Diagrams.
@@ -1051,7 +1051,7 @@ La Navegacion utiliza un Hierarchical Navigation System, que busca hacer las fun
 <img src="./assets/Chap-IV/Diagrama_de_flujo.jpeg">
 
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.figma.com/design/VsjlXR3dSCZUXkOxLReCdy/WireFrame?m=auto&t=AtBd4Vbri1v7E72Z-6)
+[URL del Prototipo (Hecho en figma)](https://www.figma.com/design/CNycCh372SSE8sK0AYKVXD/MockUP?t=AQnl5jmqddVnLFiv-1)
 [URL del video demostrativo Propotipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/Ed6aAlSBz-dFs9flYGyWdAYB3Lj7ZsznefoC3gwDrZPebg?e=Lfpz0Z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 [URL del video demostrativo de la Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/EbY4GmAm4ytCs2vozXOX7QIBxFYHk7sACTJyRimxy5S2dQ?e=vzSloV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
