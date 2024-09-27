@@ -1945,18 +1945,18 @@ Para el primer sprint el equipo estableció que el desarrollo de las tareas ser�
 
 | ID     | Código         | User Story                             | Descripción                                                                                           | Story Points  |
 |--------|----------------|----------------------------------------|-------------------------------------------------------------------------------------------------------|---------------|
-| 2      | US-001-001     | Alquilar Propiedad                     | Como propietario, quiero poder alquilar mi propiedad para recibir ingresos regulares.                 | 5             |
-| 3      | US-001-002     | Vender Propiedad                       | Como propietario, quiero poder vender mi propiedad.                                                   | 3             |
-| 4      | US-001-003     | Administrar Pagos de Alquiler          | Como propietario, quiero poder verificar si los alquileres se han pagado y recibir recordatorios de pago. | 5             |
-| 5      | US-001-004     | Crear Contratos de Alquiler            | Como propietario, quiero poder crear contratos para los alquileres de mis propiedades.                | 5             |
+| 2      | US-001-001     | Alquilar Propiedad                     | Como propietario, quiero poder alquilar mi propiedad para recibir ingresos regulares.                 | 3             |
+| 3      | US-001-002     | Vender Propiedad                       | Como propietario, quiero poder vender mi propiedad.                                                   | 1             |
+| 4      | US-001-003     | Administrar Pagos de Alquiler          | Como propietario, quiero poder verificar si los alquileres se han pagado y recibir recordatorios de pago. | 1             |
+| 5      | US-001-004     | Crear Contratos de Alquiler            | Como propietario, quiero poder crear contratos para los alquileres de mis propiedades.                | 2             |
 | 6      | US-001-005     | Ver Historial de Contratos             | Como propietario, quiero ver el historial de contratos de alquiler para una propiedad.                | 3             |
-| 7      | US-001-006     | Editar Detalles de Propiedad           | Como propietario, quiero editar los detalles de mi propiedad (ej. descripción, fotos) después de publicarla. | 5             |
+| 7      | US-001-006     | Editar Detalles de Propiedad           | Como propietario, quiero editar los detalles de mi propiedad (ej. descripción, fotos) después de publicarla. | 2             |
 | 8      | US-001-007     | Verificar Disponibilidad de Propiedad  | Como propietario, quiero verificar la disponibilidad de mi propiedad para alquilarla o venderla.      | 3             |
-| 9      | EPIC-002       | Gestión de Inquilinos                  | Permitir a los inquilinos gestionar sus alquileres, incluyendo el pago de alquileres y la recepción de notificaciones. | -             |
-| 10     | US-002-001     | Pagar Alquiler                         | Como inquilino, quiero poder pagar el alquiler de la propiedad que estoy alquilando.                  | 5             |
+| 9      | EPIC-002       | Gestión de Inquilinos                  | Permitir a los inquilinos gestionar sus alquileres, incluyendo el pago de alquileres y la recepción de notificaciones. |       2     |
+| 10     | US-002-001     | Pagar Alquiler                         | Como inquilino, quiero poder pagar el alquiler de la propiedad que estoy alquilando.                  | 3           |
 | 11     | US-002-002     | Recibir Notificaciones de Pago         | Como inquilino, quiero recibir notificaciones cuando se acerque la fecha de pago del alquiler y los servicios. | 3             |
-| 12     | US-002-003     | Ver Historial de Pagos                 | Como inquilino, quiero ver el historial de mis pagos para asegurarme de que todos los pagos han sido realizados correctamente. | 5             |
-| 13     | US-002-004     | Solicitar Mantenimiento                | Como inquilino, quiero poder solicitar mantenimiento para problemas en la propiedad que estoy alquilando. | 5             |
+| 12     | US-002-003     | Ver Historial de Pagos                 | Como inquilino, quiero ver el historial de mis pagos para asegurarme de que todos los pagos han sido realizados correctamente. | 2             |
+| 13     | US-002-004     | Solicitar Mantenimiento                | Como inquilino, quiero poder solicitar mantenimiento para problemas en la propiedad que estoy alquilando. | 3             |
 
 
 
