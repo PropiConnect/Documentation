@@ -5,7 +5,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SV51</strong><br>
-    <strong>Profesor:  Mori Paiva</strong><br>
+    <strong>Profesor: Hugo Allan Mori Paiva</strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
 
@@ -44,13 +44,18 @@
 | 1.2 | 05/09/2024 | Daniel Ruiz y Oscar Antayhua | Finaliza el capitulo IV|
 | 1.3 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo III|
 | 1.4 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo V|
+| 1.5| 27/09/2024| Daniel Del Castillo |Sprint II|
 
 </center>
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/PropiConnect)
 
-(Imagenes de los commits cada entrega)
+TB1:
+<img src="./assets/Insights/Captura de pantalla 2024-09-27 011626.png" alt="">
+TP:
+<img src="./assets/Insights/Captura de pantalla 2024-09-27 011554.png" alt="">
+
 
 
 # Contenido
@@ -1787,7 +1792,7 @@ Hemos realizado pruebas de software en el landing page y la aplicación web util
 
   Vertabelo fue utilizado para diseñar la estructura de nuestra base de datos, siendo una aplicación web colaborativa.
 
-5\.1.2. Source Code Management
+5.1.2. Source Code Management
 
 La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
 
@@ -1912,6 +1917,55 @@ La landing page fue desplegada en GitHub Pages. Se configuró el dominio proporc
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 El equipo trabajó de manera colaborativa utilizando GitHub como sistema de control de versiones, lo que permitió que cada miembro pudiera realizar cambios y revisiones en el código de manera ágil. La integración continua de los cambios en GitHub facilitó el seguimiento del progreso y la resolución de conflictos.
+
+### 5.2.1. Sprint 2
+AAAA
+
+#### 5.2.1.1. Sprint Planning 2
+
+
+#### 5.2.1.2. Sprint Backlog 2
+
+| 2      | US-001-001     | Alquilar Propiedad                     | Como propietario, quiero poder alquilar mi propiedad para recibir ingresos regulares.            | | 5            |
+| 3      | US-001-002     | Vender Propiedad                       | Como propietario, quiero poder vender mi propiedad.                                              | Given el propietario tiene una propiedad disponible para venta, when selecciona la opción de vender, then el sistema debe permitirle fijar el precio de venta y publicar el anuncio de la propiedad. | 3            |
+| 4      | US-001-003     | Administrar Pagos de Alquiler           | Como propietario, quiero poder verificar si los alquileres se han pagado y recibir recordatorios de pago. | Given el propietario tiene una propiedad en alquiler, when consulta el estado de los pagos, then el sistema debe mostrar los pagos realizados y pendientes, y enviar recordatorios de pago próximos a la fecha. | 8            |
+| 5      | US-001-004     | Crear Contratos de Alquiler            | Como propietario, quiero poder crear contratos para los alquileres de mis propiedades.             | Given el propietario ha acordado un alquiler con un inquilino, when crea un contrato, then el sistema debe permitirle generar un contrato que incluya términos de alquiler y condiciones. | 5            |
+| 6      | US-001-005     | Ver Historial de Contratos             | Como propietario, quiero ver el historial de contratos de alquiler para una propiedad.            | Given el propietario tiene varios contratos de alquiler, when consulta el historial de contratos, then el sistema debe mostrar una lista de todos los contratos anteriores y sus detalles. | 3            |
+| 7      | US-001-006     | Editar Detalles de Propiedad            | Como propietario, quiero editar los detalles de mi propiedad (ej. descripción, fotos) después de publicarla. | Given el propietario tiene una propiedad publicada, when selecciona la opción de editar, then el sistema debe permitirle modificar los detalles de la propiedad y actualizar la información publicada. | 5            |
+| 8      | US-001-007     | Verificar Disponibilidad de Propiedad  | Como propietario, quiero verificar la disponibilidad de mi propiedad para alquilarla o venderla.  | Given el propietario ha publicado una propiedad, when consulta su disponibilidad, then el sistema debe mostrar si la propiedad está disponible para alquiler o venta. | 3            |
+| 9      | EPIC-002       | Gestión de Inquilinos                  | Permitir a los inquilinos gestionar sus alquileres, incluyendo el pago de alquileres y la recepción de notificaciones. | Given un inquilino ha accedido al sistema, when selecciona la opción de gestión de alquiler, then el sistema debe permitirle pagar el alquiler y recibir notificaciones de pago. | -            |
+| 10     | US-002-001     | Pagar Alquiler                         | Como inquilino, quiero poder pagar el alquiler de la propiedad que estoy alquilando.              | Given el inquilino tiene un alquiler pendiente, when selecciona la opción de pagar, then el sistema debe permitirle realizar el pago de manera segura y confirmar la transacción. | 5            |
+| 11     | US-002-002     | Recibir Notificaciones de Pago         | Como inquilino, quiero recibir notificaciones cuando se acerque la fecha de pago del alquiler y los servicios. | Given el inquilino tiene una fecha de pago próxima, when se acerca la fecha, then el sistema debe enviar notificaciones recordatorias del pago de alquiler y servicios. | 3            |
+| 12     | US-002-003     | Ver Historial de Pagos                 | Como inquilino, quiero ver el historial de mis pagos para asegurarme de que todos los pagos han sido realizados correctamente. | Given el inquilino ha realizado varios pagos, when consulta el historial de pagos, then el sistema debe mostrar todos los pagos realizados y su estado. | 5            |
+| 13     | US-002-004     | Solicitar Mantenimiento                | Como inquilino, quiero poder solicitar mantenimiento para problemas en la propiedad que estoy alquilando. | Given el inquilino detecta un problema en la propiedad, when solicita mantenimiento, then el sistema debe permitirle enviar una solicitud que incluya detalles del problema. | 5            |
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+Durante el desarrollo de la aplicacion web, realizamos el proyecto en angular, utilizando angular material y consumiendo un fake api de momento. 
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+Para validar la funcionalidad de la landing page, se realizaron pruebas de navegación y visualización en diferentes dispositivos y tamaños de pantalla. Se verificó que todos los enlaces y botones fueran funcionales y que el diseño se mantuviera consistente en diferentes navegadores.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+Lo que hicimos fue crear un repositorio en GitHub y aprovechamos el servicio de GitHub Pages para desplegar la landing page directamente desde ese repositorio. Esto nos permitió realizar pruebas de acceso en tiempo real y asegurarnos de que el sitio estuviera disponible públicamente.
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Se documentaron los servicios ofrecidos en la landing page, incluyendo:
+
+1. **Gestión de Propiedades**: Alquiler y venta de propiedades, administración de pagos, creación y gestión de contratos.
+2. **Gestión de Inquilinos**: Pago de alquileres, notificaciones de pago, historial de pagos.
+3. **Compra Compartida de Propiedad**: División de propiedad, distribución de ganancias.
+4. **Gestión de Nuevos Inmuebles**: Registro y actualización de inmuebles, seguimiento de valorización.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+La landing page fue desplegada en GitHub Pages. Se configuró el dominio proporcionado por GitHub y se vinculó directamente al repositorio para facilitar futuras actualizaciones del código.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+El equipo trabajó de manera colaborativa utilizando GitHub como sistema de control de versiones, lo que permitió que cada miembro pudiera realizar cambios y revisiones en el código de manera ágil. La integración continua de los cambios en GitHub facilitó el seguimiento del progreso y la resolución de conflictos.
+
+
+
+
 
 
 ## 5.3. Validation Interviews.
