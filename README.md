@@ -1937,7 +1937,7 @@ Para el primer sprint el equipo estableció que el desarrollo de las tareas ser�
 | **Sprint 1 Review Summary** | Este es el segundo sprint a realizar por el equipo. |
 | **Sprint 1 Retrospective Summary** | Acuerdo de la implementación de la aplicacion web|
 | **Sprint Goal & User Stories**|
-| Sprint 2 Goal |  - Desarrollar una landing page usando HTML, CSS y JavaScript.  - Landing page responsive.  |
+| Sprint 2 Goal |  - Desarrollar una Web application responsive en un proyecto de angular.  |
 | Sprint 2 Velocity | 25 |
 | **Sum of Story Points** | 25 |
 
