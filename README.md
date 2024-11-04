@@ -29,7 +29,7 @@
 |Ruiz Huisa Daniel Elias           | U202210764 |
 
 
-<br> AGOSTO 2024
+<br> NOVIEMBRE 2024
 </center> 
 
 
@@ -50,6 +50,8 @@
 
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/PropiConnect)
+
+[URL de la landing page](https://propiconnect-inmoshare.netlify.app/)
 
 TB1:
 <img src="./assets/Insights/Captura de pantalla 2024-09-27 011626.png" alt="">
@@ -1914,6 +1916,7 @@ Se documentaron los servicios ofrecidos en la landing page, incluyendo:
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 La landing page fue desplegada en GitHub Pages. Se configuró el dominio proporcionado por GitHub y se vinculó directamente al repositorio para facilitar futuras actualizaciones del código.
 
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 El equipo trabajó de manera colaborativa utilizando GitHub como sistema de control de versiones, lo que permitió que cada miembro pudiera realizar cambios y revisiones en el código de manera ágil. La integración continua de los cambios en GitHub facilitó el seguimiento del progreso y la resolución de conflictos.
 
@@ -1966,7 +1969,7 @@ Para el primer sprint el equipo estableció que el desarrollo de las tareas ser�
 Para validar la funcionalidad de la web aplication, se realizaron pruebas de navegación y visualización en diferentes dispositivos y tamaños de pantalla. Se verificó que todos los enlaces y botones fueran funcionales y que el diseño se mantuviera consistente en diferentes navegadores.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
-Lo que hicimos fue crear un repositorio en Github y aprovechamos el servicio de Firebase tools para desplegar la web aplication directamente desde ese repositorio. Esto nos permitió realizar pruebas de acceso en tiempo real y asegurarnos de que el sitio estuviera disponible públicamente.
+Lo que hicimos fue crear un repositorio en Github y aprovechamos el servicio de Netify tools para desplegar la web aplication directamente desde ese repositorio. Esto nos permitió realizar pruebas de acceso en tiempo real y asegurarnos de que el sitio estuviera disponible públicamente.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 Se documentaron los componentes para realizar las siguientes paginas
@@ -1977,9 +1980,9 @@ Se documentaron los componentes para realizar las siguientes paginas
 4. **Gestión de Nuevos Inmuebles**: Registro y actualización de inmuebles, seguimiento de valorización.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-La landing page fue desplegada en Firebase. Se configuró el dominio proporcionado por Firebase y se vinculó directamente al repositorio para facilitar futuras actualizaciones del código.
+La aplicacion web fue desplegada en Netify. Se configuró el dominio proporcionado por Netify y se vinculó directamente al repositorio para facilitar futuras actualizaciones del código.
 
-[URL de la aplicacion web en firebase](https://propiconnect.web.app)
+[URL de la aplicacion web en Netify](https://inmoshare.netlify.app/)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 El equipo trabajó de manera colaborativa utilizando GitHub como sistema de control de versiones, lo que permitió que cada miembro pudiera realizar cambios y revisiones en el código de manera ágil. La integración continua de los cambios en GitHub facilitó el seguimiento del progreso y la resolución de conflictos.
@@ -1995,40 +1998,33 @@ El equipo trabajó de manera colaborativa utilizando GitHub como sistema de cont
 3. ¿A qué se dedica? 
 
 **Preguntas para Segmento 1 (Propietarios)**
-1. ¿Cuales son los mayores desafíos que enfentas al vender propiedades actualmente?
-2. ¿Cómo te gustaría que una plataforma digital te ayudara a encontrar y conectar con potenciales compradores?
-3. ¿Qué características te harían preferir una nueva aplicación sobre las plataformas que usas actualmente?
-4. ¿Qué información adicional te gustaría tener sobre los compradores antes de interactuar con ellos?
-5. ¿Qué tan frecuente es la venta de propiedades entre varias personas, y cómo se maneja ese proceso actualmente?
-6. ¿Hay algo que consideras que falta en las plataformas inmobiliarias actuales? 
 
-**Preguntas para Segmento 2 (Inquilinos/Compradores)**
-1. ¿Qué características te gustaría ver en una plataforma de compra de inmuebles que te facilitarían la búsqueda y decisión de compra? 
-2. ¿Qué tan importante es la posibilidad de comprar una propiedad en conjunto con otras personas?
-3. ¿Qué tipo de información prefieres tener disponible cuando exploras una propiedad en línea?
-4. ¿Qué factores influyen más en tu decisión de comprar una propiedad?
-5. ¿Qué problemas has encontrado al utilizar otras plataformas de compra de inmuebles?
-**Segmento 1**  
-**Entrevista 1**
+- ¿Hace cuanto está vendiendo una propiedad?
 
-**Nombre:** Mateo Vilchez
-**Edad:** 19 años 
-**Ocupación:** Estudiante de Ingeniería de Software
-**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EQdnVlI8nNNGisxHQgn-wXMB7hVaug2-vp_JxjA_vVMv3A?e=2prSu4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+- Preguntas Principales tras operar la aplicación
 
-<img src="assets/Chap-II/Entrevista Mateo Vilchez.png">
+- ¿Qué le parece el diseño de nuestra página de inicio?
+- ¿El contenido de la aplicación es relevante para su labor? 
+- ¿Hay algo que sugiere para mejorar?
 
+- ¿Qué opinión tiene sobre las funcionalidades específicas de la aplicación para a alguien buscando una propiedad?
 
-**Segmento 2**  
-Entrevista 1
-**Nombre**: Aldair Chuman
-**Edad**: 22 años 
-**Ocupación**: Ingeniero de Software  
-**URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/ERYcC5TRz7lNgGgBlwIfcxgBluAvlZV4BrmAMOJg2lKB8g?e=gdnUAp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- ¿Encuentra la aplicación fácil de usar? ¿Hay algo que considere que podríamos mejorar para facilitar su uso?
 
-<img src="./assets/Chap-II/entrevista-aldair.png">
+- ¿Qué tipo de dispositivo utiliza con más frecuencia en su búsqueda?
+- ¿Hay algún navegador que prefiera usar para nuestras futuras optimizaciones de la aplicación?
+**Preguntas para Segmento 2 (Inquilinos)**
+- ¿Hace cuanto está buscando una propiedad?
 
+- ¿Qué opinión tiene sobre las funcionalidades específicas de la aplicación para a alguien buscando una propiedad?
 
+- ¿Qué le parece el diseño de nuestra página de inicio?
+
+- ¿El contenido de la aplicación es relevante para su labor? 
+- ¿Hay algo que sugiere para mejorar?
+
+- ¿Qué tipo de dispositivo utiliza con más frecuencia en su búsqueda?
+- ¿Hay algún navegador que prefiera usar para nuestras futuras optimizaciones de la aplicación?
 
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA   | EVALUACIÓN  | NOTA      |
@@ -2044,7 +2040,7 @@ Entrevista 1
 | Comunicar errores con facilidad               |            | {texto}   |
 | Ayuda y documentación                         |            | {texto}   |
 ## 5.4. Video About-the-Product.
-[URL del video about the product](https://youtu.be/Fte_TR_-_VY)
+[URL del video about the product]()
 # Conclusiones
 {texto}
 # Conclusiones y recomendaciones.
