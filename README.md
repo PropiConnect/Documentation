@@ -2554,11 +2554,18 @@ Después de confirmar un pago, no se proporciona una referencia única para el s
 Incluir un número de referencia en la confirmación de pago y en el historial de pagos para facilitar el seguimiento de cada transacción.
 
 ## 5.4. Video About-the-Product.
-[URL del video about the product]()
-# Conclusiones
-{texto}
+[URL del video about the product](https://youtu.be/SyMDqKa3mlA)
+
+
 # Conclusiones y recomendaciones.
-{texto}
+Spring Boot simplifica la creación de aplicaciones web en Java al eliminar gran parte de la configuración manual y ofrecer una estructura predeterminada. Proporciona herramientas integradas para manejar controladores, servicios, repositorios y permite integrar fácilmente bases de datos y otros servicios de terceros.
+
+Railway es una plataforma de despliegue en la nube que permite un setup rápido y sin complicaciones, con una buena compatibilidad con Spring Boot. Si bien es sencillo de usar, Railway tiene algunas limitaciones en cuanto a capacidades gratuitas y límites de recursos, lo cual es algo a considerar si el proyecto crece o se espera un alto tráfico.
+
+En conclusión, Spring Boot y Railway son una buena combinación para proyectos de backend modernos que buscan productividad y simplicidad en el despliegue. Si tu aplicación necesita infraestructura adicional o recursos avanzados, es posible que sea necesario explorar servicios complementarios o alternativas a Railway en el futuro.
+
+A manera de sintesis, implementar ambientes diferenciados con configuraciones de seguridad ajustadas es esencial para proteger la integridad y confidencialidad de la aplicación y sus datos. Usar ambientes aislados, proteger las credenciales con variables de entorno, aplicar políticas de acceso y configurar pipelines seguros refuerza la seguridad general del sistema y reduce significativamente el riesgo de exposición o ataques.
+
 # Video About-the-Team.
 [URL del video about the team](https://www.example.com)
 
@@ -2579,9 +2586,10 @@ formato
 # Anexos
 
 Video about the product: https://youtu.be/SyMDqKa3mlA?si=dWlIpDLhGv1QaPdm
-Video about the team: 
+Video about the team: https://youtu.be/eP6D0TocE5Q
 Landing page: https://propiconnect-inmoshare.netlify.app/
 
+Deployment en netify: https://docs.netlify.com/
 
 
 
