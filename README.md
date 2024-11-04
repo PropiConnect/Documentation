@@ -63,7 +63,8 @@ TP:
  height="500px" width="500px">
 
 TB2:
-<img src= "" alt=""  height="500px" width="500px">
+<img src="./assets/Collaboration-report/Document Insights.png" alt=""
+ height="500px" width="500px">
 
 
 # Contenido
@@ -1878,7 +1879,7 @@ La administración y estructuración de las múltiples modificaciones se realiza
 
 **LandinPage:**
 
-<https://propiconnect.github.io/LandingPage/>
+<https://propiconnect-inmoshare.netlify.app/>
 
 **Ramas principales:**
 
@@ -2128,13 +2129,13 @@ El equipo trabajó de manera colaborativa utilizando GitHub como sistema de cont
         <tr>
             <td>Sprint 3 Velocity</td>
             <td>
-                Toca checar
+                25
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                Todavia no esta xd
+                30
             </td>
         </tr>
     </tbody>
@@ -2332,7 +2333,20 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/PropiConn
 </table>  
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
+Para el despliegue de nuestro API, lo realizamos a través de la aplicación de railway, la cual convierte un proyecto en una docker image y la ejecuta en un entorno cerrado por lo que se puede realizar una conexión a un servicio de MYSQL creado tambien en el proyecto de railway. A continuación de mostraremos el proceso de deploy del servicio web, además del enlace al deploy.
+
+<img src="./assets/Chap-V/Sprint 3/Deployment/0.png" alt="Paso 1">
+<img src="./assets/Chap-V/Sprint 3/Deployment/1.png" alt="Paso 2">
+<img src="./assets/Chap-V/Sprint 3/Deployment/2.png" alt="Paso 3">
+<img src="./assets/Chap-V/Sprint 3/Deployment/3.png" alt="Paso 4">
+<img src="./assets/Chap-V/Sprint 3/Deployment/4.png" alt="Paso 5">
+<img src="./assets/Chap-V/Sprint 3/Deployment/5.png" alt="Paso 6">
+
+Web Service deploy site: [Inmoshare](https://inmoshare-api-production.up.railway.app/swagger-ui/index.html)
+
+Si no puede acceder, dejaremos el link directamente https://inmoshare-api-production.up.railway.app/swagger-ui/index.html
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 <img src="./assets/insights/Sprint 3.png">
 
@@ -2408,7 +2422,8 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/PropiConn
 **Ocupación:** Estudiante de Ingeniería Mecatronica
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210764_upc_edu_pe/EdYoq3-Avb1Br1At6jFbkFkByfhhPuENYQ1JRHInc9Wn8A?e=1rrrTs 
 
-<img src="[./assets/Chap-V/entrevistas/Entrevista Matias Aguilar.png](https://github.com/PropiConnect/Documentation/blob/main/assets/Chap-V/entrevistas/Entrevista%20Matas%20Aguilar.png)">
+![image](https://github.com/user-attachments/assets/0c083806-074c-4386-bd3a-0493bca1d971)
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
@@ -2555,10 +2570,9 @@ formato
 ```
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-
-Colocar Imagen
+Video about the product:
+Video about the team:
+Landing page: https://propiconnect-inmoshare.netlify.app/
 
 
 
