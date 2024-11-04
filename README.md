@@ -2376,11 +2376,15 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/PropiConn
 ### 5.3.2. Registro de entrevistas.
 
 **Segmento Propietario**
+
 **Entrevista 1**
 
-**Nombre:** 
-**Edad:** 
-**Ocupación:**
+**Nombre:** Mateo Vilchez Rios
+**Edad:** 19 años
+**Ocupación:** Estudiante de Ingenieria de Software
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EUJ3De0lQDlCh4mYQOoxuvUBUGbx6CHQQCS4XaU2RB5YoQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=R9VzA9
+
+<img src="./assets/Chap-V/entrevistas/entrevista1.png">
 
 ![Entrevista1-1]()
 **URL:**: 
