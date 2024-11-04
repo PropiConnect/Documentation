@@ -2374,6 +2374,38 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/PropiConn
 - ¿Qué tipo de dispositivo utiliza con más frecuencia en su búsqueda?
 - ¿Hay algún navegador que prefiera usar para nuestras futuras optimizaciones de la aplicación?
 
+### 5.3.2. Registro de entrevistas.
+
+**Segmento Propietario**
+**Entrevista 1**
+
+**Nombre:** 
+**Edad:** 
+**Ocupación:**
+
+![Entrevista1-1]()
+**URL:**: 
+
+
+**Segmento Inquilinos** 
+
+**Entrevista 1**
+
+**Nombre:** Aldair Chuman
+**Edad:** 22 años 
+**Ocupación:** Ingeniero de Software 
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EQdnVlI8nNNGisxHQgn-wXMB7hVaug2-vp_JxjA_vVMv3A?e=2prSu4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/EVwFzVjSbfNNkoUoNTly9IMB-2t1gDp7qapQq3UBZcVJxQ?e=pmvofo)
+
+<img src="./assets/Chap-V/entrevistas/entrevista-1.png">
+
+**Entrevista 2**
+
+**Nombre**: 
+**Edad**: 
+**Ocupación**: 
+**URL**: 
+<img src="">
+
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA   | EVALUACIÓN  | NOTA      |
 | --------------------------------------------- | ---------- | --------- |
