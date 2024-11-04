@@ -2407,18 +2407,124 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/PropiConn
 <img src="">
 
 ### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN  | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Desarrollo de Aplicaciones Open Source  
+**SECCIÓN**: SW53  
+**PROFESORES**: Hugo Alan Mori  
+**AUDITOR**: PropiConnect  
+**CLIENTE(S)**: StudentConnect  
+
+---
+
+### SITE o APP A EVALUAR:  
+**PropiConnect**
+
+### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo  
+2. Registro de una nueva propiedad  
+3. Publicación de una nueva propiedad en alquiler o venta  
+4. Compra de una vivienda con muchos propietarios  
+5. Alquiler de una propiedad con muchos usuarios  
+6. Confirmar pago  
+7. Mostrar historial de pagos  
+8. Actualizar datos de usuario  
+9. Actualizar datos de clientes  
+10. Actualizar datos de viviendas  
+11. Mostrar viviendas libres  
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Notificar a los inquilinos que ya vencieron su contrato  
+2. Presentar ofertas de último minuto  
+3. Mostrar un historial de los clientes  
+4. Confirmar autenticación al ingreso del app  
+
+---
+
+### TABLA RESUMEN
+
+| #  | Problema                                                                                           | Escala de severidad | Heurística/Principio violado                |
+|----|----------------------------------------------------------------------------------------------------|---------------------|---------------------------------------------|
+| 1  | No hay una confirmación visual tras el registro de un usuario nuevo                                | 2                   | Usabilidad: Retroalimentación               |
+| 2  | El botón de “Publicar propiedad” no está destacado claramente                                      | 3                   | Diseño Visual: Claridad y Visibilidad       |
+| 3  | Falta de detalles en el mensaje de error al intentar comprar una vivienda con muchos propietarios sin autorización | 4                   | Usabilidad: Prevención de errores           |
+| 4  | No hay una opción para filtrar propiedades por tipo de usuario (inquilino/comprador) en "Mostrar viviendas libres" | 2                   | Arquitectura de Información: Flexibilidad   |
+| 5  | La confirmación de pago no muestra una referencia de la transacción                                | 3                   | Transparencia: Información precisa          |
+| 6  | En el historial de pagos, los registros no tienen orden cronológico                                | 2                   | Usabilidad: Consistencia y estándares       |
+| 7  | La opción de actualizar datos de cliente y usuario es confusa y se confunde fácilmente             | 3                   | Usabilidad: Comprensibilidad del sistema    |
+| 8  | No hay un mensaje de éxito tras actualizar los datos de viviendas                                  | 1                   | Usabilidad: Retroalimentación               |
+| 9  | El sistema no avisa cuando se intenta publicar una propiedad ya registrada previamente             | 4                   | Usabilidad: Prevención de errores           |
+| 10 | No hay filtros para personalizar la búsqueda de viviendas en "Mostrar viviendas libres"            | 3                   | Arquitectura de Información: ¿Es encontrable? |
+
+---
+
+### DESCRIPCIÓN DE PROBLEMAS
+
+**PROBLEMA #1**: No hay una confirmación visual tras el registro de un usuario nuevo
+
+- **Severidad**: 2  
+- **Heurística violada**: Usabilidad - Retroalimentación  
+
+**Problema**:  
+Al completar el formulario de registro, el usuario no recibe una confirmación visual clara de que el registro fue exitoso. Esto puede generar incertidumbre y hacer que algunos usuarios intenten registrarse nuevamente, duplicando datos en el sistema.
+
+**Recomendación**:  
+Incluir un mensaje de confirmación inmediato y visual, por ejemplo, un pop-up que confirme el registro exitoso y un correo electrónico de bienvenida.
+
+---
+
+**PROBLEMA #2**: El botón de “Publicar propiedad” no está destacado claramente
+
+- **Severidad**: 3  
+- **Heurística violada**: Diseño Visual - Claridad y Visibilidad  
+
+**Problema**:  
+El botón de “Publicar propiedad” es difícil de encontrar entre otras opciones del formulario. Usuarios sin experiencia podrían pasar por alto esta opción, generando confusión o abandono de la tarea.
+
+**Recomendación**:  
+Aumentar el tamaño del botón y cambiar su color a uno que contraste con el fondo, facilitando su localización.
+
+---
+
+**PROBLEMA #3**: Falta de detalles en el mensaje de error al intentar comprar una vivienda con muchos propietarios sin autorización
+
+- **Severidad**: 4  
+- **Heurística violada**: Usabilidad - Prevención de errores  
+
+**Problema**:  
+Cuando un usuario intenta comprar una vivienda sin autorización de todos los propietarios, el mensaje de error es vago y no indica qué propietarios no han autorizado la transacción. Esto puede llevar a confusión y a múltiples intentos fallidos.
+
+**Recomendación**:  
+Proporcionar un mensaje de error detallado que indique específicamente qué propietarios deben autorizar la compra.
+
+---
+
+**PROBLEMA #4**: No hay una opción para filtrar propiedades por tipo de usuario en "Mostrar viviendas libres"
+
+- **Severidad**: 2  
+- **Heurística violada**: Arquitectura de Información - Flexibilidad  
+
+**Problema**:  
+La función “Mostrar viviendas libres” no permite filtrar por tipo de usuario, como inquilinos o compradores. Esto dificulta a los usuarios encontrar propiedades que se ajusten a sus necesidades específicas.
+
+**Recomendación**:  
+Agregar filtros para que los usuarios puedan seleccionar el tipo de propiedad que desean (en venta o alquiler).
+
+---
+
+**PROBLEMA #5**: La confirmación de pago no muestra una referencia de la transacción
+
+- **Severidad**: 3  
+- **Heurística violada**: Transparencia - Información precisa  
+
+**Problema**:  
+Después de confirmar un pago, no se proporciona una referencia única para el seguimiento de la transacción. Esto dificulta que los usuarios verifiquen o reclamen pagos en el futuro.
+
+**Recomendación**:  
+Incluir un número de referencia en la confirmación de pago y en el historial de pagos para facilitar el seguimiento de cada transacción.
+
 ## 5.4. Video About-the-Product.
 [URL del video about the product]()
 # Conclusiones
