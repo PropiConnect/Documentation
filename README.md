@@ -2249,7 +2249,7 @@ Enlace de acceso a la landing page: https://propiconnect-inmoshare.netlify.app/
 
 En esta sección se presentarán los endpoints desarrollados durante el sprint actual, acompañados de capturas de pantalla que ilustran las acciones CRUD y otros métodos implementados. Dentro del alcance del sprint, se han creado los bounded contexts relacionados con monetización, colaboración, usuario y contenido.  
 
-Se adjunta el link del repositorio back-end GitHub:
+Se adjunta el link del repositorio back-end GitHub: https://github.com/PropiConnect/Inmoshare-API
 
 <table>
   <tr>
