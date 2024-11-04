@@ -2094,7 +2094,7 @@ El equipo trabajó de manera colaborativa utilizando GitHub como sistema de cont
 
 #### 5.2.3.2. Sprint Backlog 3.
 
-Backlog 
+Backlo01
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
@@ -2187,7 +2187,7 @@ Backlog
     <td align="center">85e94f1f281ae947e590b1d6cbcedb8efa2eb6ec</td>
     <td align="center">Merge remote-tracking branch 'origin/feature/users' into merge</td>
     <td align="center">---</td>
-    <td align="center">--/11/2024</td>
+    <td align="center">01/11/2024</td>
   </tr>
 
 
@@ -2197,7 +2197,7 @@ Backlog
     <td align="center">ab08d926e352d9b8350d99978cc912d980450550</td>
     <td align="center">Merge remote-tracking branch 'origin/feature/properties' into merge</td>
     <td align="center">---</td>
-    <td align="center">--/11/2024</td>
+    <td align="center">01/11/2024</td>
   </tr>
 
   <tr>
@@ -2205,7 +2205,7 @@ Backlog
     <td align="center">58f0078f19d2a40ef2128448676ec67898180646</td>
     <td align="center">Merge remote-tracking branch 'origin/feature/payments' into mergetest</td>
     <td align="center">---</td>
-    <td align="center">--/11/2024</td>
+    <td align="center">01/11/2024</td>
   </tr>
 
   <tr>
@@ -2214,7 +2214,7 @@ Backlog
     <td align="center">Merge branch 'merge' of https://github.com/PropiConnect/Inmoshare-API into merge
     </td>
     <td align="center">---</td>
-    <td align="center">31/10/2024</td>
+    <td align="center">01/10/2024</td>
   </tr>
 
   <tr>
@@ -2222,7 +2222,7 @@ Backlog
     <td align="center">78e31081ef7af8cfab401ef2e90267049a637dbd</td>
     <td align="center">chore: changed the java version, as the teacher said</td>
     <td align="center">---</td>
-    <td align="center">--/11/2024</td>
+    <td align="center">03/11/2024</td>
   </tr>
 
   
