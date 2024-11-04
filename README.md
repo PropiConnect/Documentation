@@ -2570,8 +2570,8 @@ formato
 ```
 # Anexos
 
-Video about the product:
-Video about the team:
+Video about the product: https://youtu.be/SyMDqKa3mlA?si=dWlIpDLhGv1QaPdm
+Video about the team: 
 Landing page: https://propiconnect-inmoshare.netlify.app/
 
 
