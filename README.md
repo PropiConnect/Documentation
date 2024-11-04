@@ -47,7 +47,7 @@
 | 1.4 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo V|
 | 1.5| 27/09/2024| Daniel Del Castillo |Sprint II|
 | 2.1 | 27/09/2024 | Daniel Del Castillo |Sprint II|
-| 3.1 | 03/11/2024 | Oscar Antayhua, Carlos Sanchez |Validation Interviews|
+| 3.1 | 03/11/2024 | Oscar Antayhua, Carlos Sanchez,Daniel Ruiz |Validation Interviews|
 | 3.2 | 03/11/2024 | Daniel Del Castillo |Sprint III documentation|
 </center>
 
