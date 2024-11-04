@@ -29,6 +29,7 @@
 |Ruiz Huisa Daniel Elias           | U202210764 |
 
 
+
 <br> NOVIEMBRE 2024
 </center> 
 
@@ -45,7 +46,9 @@
 | 1.3 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo III|
 | 1.4 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo V|
 | 1.5| 27/09/2024| Daniel Del Castillo |Sprint II|
-
+| 2.1 | 27/09/2024 | Daniel Del Castillo |Sprint II|
+| 3.1 | 03/11/2024 | Oscar Antayhua, Carlos Sanchez |Validation Interviews|
+| 3.2 | 03/11/2024 | Daniel Del Castillo |Sprint III documentation|
 </center>
 
 # Project Report Collaboration Insights
@@ -54,10 +57,13 @@
 [URL de la landing page](https://propiconnect-inmoshare.netlify.app/)
 
 TB1:
-<img src="./assets/Insights/Captura de pantalla 2024-09-27 011626.png" alt="">
+<img src="./assets/Insights/Captura de pantalla 2024-09-27 011626.png" alt="Distribución de commits en el repositorio para la tb1" height="500px" width="500px">
 TP:
-<img src="./assets/Insights/Captura de pantalla 2024-09-27 011554.png" alt="">
+<img src="./assets/Insights/Captura de pantalla 2024-09-27 011554.png" alt=""
+ height="500px" width="500px">
 
+TB2:
+<img src= "" alt=""  height="500px" width="500px">
 
 
 # Contenido
@@ -159,15 +165,36 @@ TP:
 [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)  
 
 [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
-[5.2.X. Sprint ](#52x-sprint-n)  
-[5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)  
-[5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)  
-[5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)  
-[5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
-[5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
-[5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
-[5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
-[5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)  
+
+[5.2.1. Sprint 1](#521-sprint-1)  
+[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
+[5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)  
+[5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)  
+[5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)  
+[5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
+[5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
+[5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
+[5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
+
+[5.2.2. Sprint 2 ](#522-sprint-2)  
+[5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
+[5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)  
+[5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)  
+[5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)  
+[5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+[5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+[5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+[5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)  
+
+[5.2.3. Sprint 3](#523-sprint-3)  
+[5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)  
+[5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)  
+[5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)  
+[5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)  
+[5.2.3.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
+[5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
+[5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
+[5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)  
 
 [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
