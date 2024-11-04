@@ -2014,7 +2014,279 @@ La aplicacion web fue desplegada en Netify. Se configuró el dominio proporciona
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 El equipo trabajó de manera colaborativa utilizando GitHub como sistema de control de versiones, lo que permitió que cada miembro pudiera realizar cambios y revisiones en el código de manera ágil. La integración continua de los cambios en GitHub facilitó el seguimiento del progreso y la resolución de conflictos.
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3.
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/10/15</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>10:00 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Aula UH-51</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Daniel del castillo</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Daniel Del Castillo</li>
+                <li>Oscar Antayhua</li>
+                <li>Gustavo Poma</li>
+                <li>Carlos Sanchez</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Este es el tercer sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                Acuerdo de comenzar con el desarrollo del back-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td style="text-align: justify">
+                Nuestro enfoque será consolidar la gestion de propiedades, pagos y perfiles en el API de Inmoshare en el backend.
+                Creemos que esto brinda una administración más eficientes y un control integral mejorando la operatividad y reduciendo tiempos de uso.
+                Esto se confirmará cuando los usuarios experimenten dicha reducción de los tiempos en uso.
+                Además, la plataforma facilitará decisiones informadas al proporcionar un 
+                acceso rápido a información y seguridad en el proceso de contratación de una propiedad.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                Toca checar
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                Todavia no esta xd
+            </td>
+        </tr>
+    </tbody>
+</table>
 
+#### 5.2.3.2. Sprint Backlog 3.
+
+Backlog 
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/PropiConnect/Inmoshare-API</td>
+    <td align="center"> master</td>
+    <td align="center"> 2841425eec87f21c6c3394d62e52ab1d8bc24bc1</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center" >4edbbb0209f05af2817a01520258e89b4e7c7e7e</td>
+    <td align="center">chore: created the aggregate root model.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/profiles</td>
+    <td align="center">da51441e19448da1624808416000ef9102819a9f</td>
+    <td align="center">feat : update users</td>
+    <td align="center"> ---</td>
+    <td align="center"> 28/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/properties</td>
+    <td align="center">2786c3c00baaeeee1bcc620496b6ef4b9456060a</td>
+    <td align="center">feat(properties): property repository created</td>
+    <td align="center">---</td>
+    <td align="center">30/10/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center">feature/properties</td>
+    <td align="center">c6cb8f9fdf9ac8bfeb160298523dba037da39f4a</td>
+    <td align="center">feat(properties): properties assembler created</td>
+    <td align="center">---</td>
+    <td align="center">30/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/properties</td>
+    <td align="center">635aff20e7a81a421abeceef5f9a295fb5468712</td>
+    <td align="center">test(properties): changed the validation criteria to create a new property.</td>
+    <td align="center">---</td>
+    <td align="center">30/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/payments</td>
+    <td align="center">6d1ee5b18c42da3b5b2e0cbde80418dfa284133d</td>
+    <td align="center">feat(paymnent): create controller</td>
+    <td align="center">---</td>
+    <td align="center">31/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/payments</td>
+    <td align="center">0f2d49e5e897a3af69d85ea7ea3e27d93afde66f</td>
+    <td align="center">feat(paymnent): create application services
+</td>
+    <td align="center">---</td>
+    <td align="center">31/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/payments</td>
+    <td align="center">cf37eb5cc86afdfb8247f401141f2c2cdbd9fb88</td>
+    <td align="center">ValueObjectos OwnerId, PropertyId</td>
+    <td align="center">---</td>
+    <td align="center">31/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center">85e94f1f281ae947e590b1d6cbcedb8efa2eb6ec</td>
+    <td align="center">Merge remote-tracking branch 'origin/feature/users' into merge</td>
+    <td align="center">---</td>
+    <td align="center">--/11/2024</td>
+  </tr>
+
+
+
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center">ab08d926e352d9b8350d99978cc912d980450550</td>
+    <td align="center">Merge remote-tracking branch 'origin/feature/properties' into merge</td>
+    <td align="center">---</td>
+    <td align="center">--/11/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center">58f0078f19d2a40ef2128448676ec67898180646</td>
+    <td align="center">Merge remote-tracking branch 'origin/feature/payments' into mergetest</td>
+    <td align="center">---</td>
+    <td align="center">--/11/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">merge</td>
+    <td align="center">5b686c667a8072b92ef4ed65c6d810c4a11ee4c7</td>
+    <td align="center">Merge branch 'merge' of https://github.com/PropiConnect/Inmoshare-API into merge
+    </td>
+    <td align="center">---</td>
+    <td align="center">31/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center">78e31081ef7af8cfab401ef2e90267049a637dbd</td>
+    <td align="center">chore: changed the java version, as the teacher said</td>
+    <td align="center">---</td>
+    <td align="center">--/11/2024</td>
+  </tr>
+
+  
+  
+
+
+
+</table>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+Durante este sprint 3 el equipo se enfocó en el desarrollo de la primera versión del lado back-end de la aplicación web, 
+y de la corrección de errores de la anterior entrega del trabajo, de momento no se nos ha indicado la manera adecuada de realizar pruebas unitarias 
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Hasta el momento, no hemos realizado cambios en el frontend, ya que completamos todos los requisitos funcionales en el sprint anterior.
+La aplicación web sigue disponible en el siguiente enlace: 
+
+En la página de inicio se han agregado los videos "sobre el producto" y "sobre el equipo", con el fin de promover nuestro producto de manera más efectiva mediante un video promocional y de presentar a nuestro equipo.
+
+Enlace de acceso a la landing page: https://propiconnect-inmoshare.netlify.app/
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se presentarán los endpoints desarrollados durante el sprint actual, acompañados de capturas de pantalla que ilustran las acciones CRUD y otros métodos implementados. Dentro del alcance del sprint, se han creado los bounded contexts relacionados con monetización, colaboración, usuario y contenido.  
+
+Se adjunta el link del repositorio back-end GitHub:
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+
+  <tr>
+   <th> <strong> Profiles Bounded Context </strong> </th>
+    <th> <strong> /api/v1/profiles </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 3/User.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Properties Bounded Context </strong> </th>
+    <th> <strong> /api/v1/properties </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 3/Endpoint Properties.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Payments Bounded Context </strong> </th>
+    <th> <strong> /api/v1/Payments </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 3/Payment.png"> </th>
+  </tr>
+</table>  
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+![Sprint review Software Deployment Evidence](image.jpg)
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+<img src="./assets/insights/Sprint 3.png">
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
