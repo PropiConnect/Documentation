@@ -2413,6 +2413,17 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/PropiConn
 **AUDITOR**: PropiConnect  
 **CLIENTE(S)**: StudentConnect  
 
+
+**Entrevista 3**
+
+**Nombre:** Matias Aguilar
+**Edad:** 20 años 
+**Ocupación:** Estudiante de Ingeniería Mecatronica
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210764_upc_edu_pe/EdYoq3-Avb1Br1At6jFbkFkByfhhPuENYQ1JRHInc9Wn8A?e=1rrrTs 
+
+<img src="assets/Chap-V/entrevistas/Entrevista Matias Aguilar.png">
+
+
 ---
 
 ### SITE o APP A EVALUAR:  
