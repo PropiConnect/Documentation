@@ -2142,8 +2142,13 @@ El equipo trabajó de manera colaborativa utilizando GitHub como sistema de cont
 </table>
 
 #### 5.2.3.2. Sprint Backlog 3.
+Este sprint fue enfocado en la culminacion de las technical stories, las cuales fueron repartidas como tasks con una duracion de 2 horas cada una
 
-Backlo01
+<img src="./assets/Chap-V/Sprint 3/Backlog.png">
+
+[Backlog](https://trello.com/b/g0A2gS8N/propiconnect-sprint-3)
+
+En caso el enlace no cargue: utilice el siguiente : https://trello.com/b/g0A2gS8N/propiconnect-sprint-3
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
@@ -2348,6 +2353,9 @@ Si no puede acceder, dejaremos el link directamente https://inmoshare-api-produc
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Back end repository:
+
 <img src="./assets/insights/Sprint 3.png">
 
 ## 5.3. Validation Interviews.
