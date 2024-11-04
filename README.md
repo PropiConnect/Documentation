@@ -2418,7 +2418,8 @@ Si no puede acceder, dejaremos el link directamente https://inmoshare-api-produc
 **Ocupación:** Estudiante de Ingeniería Mecatronica
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210764_upc_edu_pe/EdYoq3-Avb1Br1At6jFbkFkByfhhPuENYQ1JRHInc9Wn8A?e=1rrrTs 
 
-<img src="[./assets/Chap-V/entrevistas/Entrevista Matias Aguilar.png](https://github.com/PropiConnect/Documentation/blob/main/assets/Chap-V/entrevistas/Entrevista%20Matas%20Aguilar.png)">
+![image](https://github.com/user-attachments/assets/0c083806-074c-4386-bd3a-0493bca1d971)
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
