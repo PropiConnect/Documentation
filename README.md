@@ -2459,57 +2459,76 @@ Back end repository:
     <td  align ="center" > <strong>Commit Masagge body</strong></td>
     <td  align ="center" > <strong>Commit on (date)</strong></td>
   </tr>
-
   <tr>
-    <td rowspan="5" align="center">https://github.com/PropiConnect/Inmoshare-API</td>
+    <td rowspan="3" align="center">https://github.com/PropiConnect/Landing-Page-Angular</td>
     <td align="center"> master</td>
-    <td align="center"> 2841425eec87f21c6c3394d62e52ab1d8bc24bc1</td>
-    <td align="center"> chore: initial commit</td>
+    <td align="center"> 5745f8f80d7af9db80e5106f6191db3ac3f44f8c </td>
+    <td align="center"> chore: reloaded images in the landing page </td>
     <td align="center"> ---</td>
     <td align="center"> 23/10/2024</td>
   </tr>
 
   <tr>
     <td align="center">master</td>
-    <td align="center" >4edbbb0209f05af2817a01520258e89b4e7c7e7e</td>
-    <td align="center">chore: created the aggregate root model.</td>
+    <td align="center">ea25700ed3516c5fa8c842b57a38c2835db8b4cf</td>
+    <td align="center">chore: reloaded the font to minimize the budget</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center">8f110ec4875cbd05758ecb46f60cab5b52419e85</td>
+    <td align="center">chore: increased angular.json's budget</td>
     <td align="center"> ---</td>
     <td align="center"> 23/10/2024</td>
   </tr>
 
 
+
+
   <tr>
-    <td align="center"> merge</td>
-    <td align="center">58f0078f19d2a40ef2128448676ec67898180646</td>
-    <td align="center">Merge remote-tracking branch 'origin/feature/payments' into mergetest</td>
-    <td align="center">---</td>
-    <td align="center">01/11/2024</td>
+    <td rowspan="2" align="center">https://github.com/PropiConnect/Inmoshare-API</td>
+    <td align="center"> master</td>
+    <td align="center"> 6f5f1fba1ad57d8deef34a692c7f1a6a08bbe4bf</td>
+    <td align="center"> chore: changed the endpoints</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
   </tr>
 
   <tr>
-    <td align="center">merge</td>
-    <td align="center">5b686c667a8072b92ef4ed65c6d810c4a11ee4c7</td>
-    <td align="center">Merge branch 'merge' of https://github.com/PropiConnect/Inmoshare-API into merge
-    </td>
-    <td align="center">---</td>
-    <td align="center">01/10/2024</td>
+    <td align="center">master</td>
+    <td align="center" >cd201a867f8dc96397c0ed94b5d16e193b1435fe</td>
+    <td align="center">Actualizacion y creacion de nuevos endpoints</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
   </tr>
 
+
+  
+
+  
+  
+  
   <tr>
+    <td rowspan="3" align="center">https://github.com/PropiConnect/frontend</td>
     <td align="center"> merge</td>
-    <td align="center">78e31081ef7af8cfab401ef2e90267049a637dbd</td>
-    <td align="center">chore: changed the java version, as the teacher said</td>
-    <td align="center">---</td>
-    <td align="center">03/11/2024</td>
-  </tr>
-  <tr>
-    <td rowspan="10" align="center">https://github.com/PropiConnect/frontend</td>
-    <td align="center"> develop</td>
-    <td align="center"> </td>
+    <td align="center">1e59f48c991eefcaaf5f1ea12ecc116941c08738</td>
     <td align="center"> conection to the deployed api</td>
     <td align="center"> ---</td>
     <td align="center"> 23/10/2024</td>
   </tr>
+
+   <tr>
+    <td align="center"> merge</td>
+    <td align="center">634fa4b230df6e28e81bf1af1fbc67a3f9fb2835</td>
+    <td align="center">Actualizacion del iam</td>
+    <td align="center">---</td>
+    <td align="center">03/11/2024</td>
+  </tr>
+
+  
+  
   
 
   
