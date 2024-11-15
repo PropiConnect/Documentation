@@ -197,6 +197,16 @@ TB2:
 [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
 [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)  
 
+[5.2.4. Sprint 4](#524-sprint-4)  
+[5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)  
+[5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)  
+[5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)  
+[5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)  
+[5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)  
+[5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)  
+[5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)  
+[5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)  
+
 [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
 [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)  
@@ -215,8 +225,9 @@ TB2:
 
 | **Criterio Específico**                                                     | **Acciones Realizadas por los Integrantes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Conclusiones**                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia**     | **Gustavo Arturo Poma Espinoza(TB1):** Durante las reuniones de equipo, Gustavo se encargó de presentar los avances en la definición de escenarios de usuario y la planificación del backlog. Adaptó su comunicación tanto para el equipo técnico como para los stakeholders no técnicos, logrando transmitir de manera efectiva los puntos clave del proyecto.<br><br> **Gustavo Arturo Poma Espinoza(TP):** Durante las reuniones de equipo, Gustavo presentó el flujo de autenticación de usuarios, explicando con claridad el funcionamiento de la ventana de login y registro, y cómo se recuperan los datos del usuario a través de su ID. Su comunicación fue efectiva tanto para el equipo técnico, detallando aspectos clave como la validación de credenciales y manejo de sesiones, como para stakeholders no técnicos, asegurando que comprendieran cómo estos procesos mejorarían la experiencia de usuario y la seguridad de la plataforma. <br><br> **Gustavo Arturo Poma Espinoza(TB2):** Durante este proyecto, he demostrado habilidades de comunicación oral al interactuar con distintos miembros del equipo, explicando de forma clara y precisa las modificaciones realizadas al diagrama entidad-relación. Adapté mi lenguaje y nivel de detalle a las necesidades específicas de cada audiencia, facilitando la comprensión tanto de los aspectos técnicos como del impacto general de los cambios en la estructura de la base de datos. Esta capacidad me permitió asegurar que todos los interesados comprendieran el alcance de las modificaciones y su relevancia para el desarrollo del sistema. <br><br> **Daniel Del Castillo(TB1):** Daniel lideró la metodología Lean UX, organizando presentaciones para guiar al equipo en la orientación del producto hacia la experiencia de usuario, logrando explicar con claridad los conceptos clave a audiencias técnicas y no técnicas.<br>**Daniel Del Castillo(TP):** Durante esta entrega designe las vistas que debiamos realizar, cada uno obtuvo un aspecto importante para el core business y use el lenguaje mas claro posible haciendo explicaciones a terminos propios al bounded context <br>**Daniel Del Castillo(TB2)**:<br> Durante esta entrega me encargue de desarrollar el endpoint properties en compañia del integrante Carlos Sanchez, de modo que tuvimos que comunicarnos mediante medios escritos, además participé en entrevistas de validación para poder comunicarme personas agenas a la carrera y tuve que ser elocuente y poder dirigirme a una audiencia no familiarizada a la ingeniería de software <br><br> **Oscar Antayhua(TB1):** Oscar presentó sus avances en el desarrollo de los mockups y wireframes, explicando cómo estos se alineaban con las necesidades de los usuarios finales. Durante las reuniones, comunicó con claridad cómo las interfaces diseñadas facilitarían la experiencia de usuario. <br> **Oscar Antayhua(TP):**: Oscar presentó sus avances en el desarrollo de los mockups y wireframes, explicando cómo estos se alineaban con las necesidades de los usuarios finales. Durante las reuniones, comunicó con claridad cómo las interfaces diseñadas facilitarían la experiencia de usuario. Además, Oscar presentó cómo se ve la pasarela de pago para propiedades, destacando aspectos clave del diseño y la funcionalidad. Su comunicación fue efectiva, resaltando detalles como el uso del ID de la propiedad para extraer la información relevante de cada inmueble y cómo estos datos son mostrados en la pasarela de pago, asegurando una experiencia de usuario eficiente y segura. <br>**Oscar Antayhua (TB2)**: En esta entrega, participé en el desarrollo del endpoint payment junto a Daniel Ruiz. También realicé entrevistas de validación para asi obtener retroalimentaciones de mejora. <br><br> **Carlos Sanchez(TB1):** Carlos realizó presentaciones sobre los análisis de competidores, el journey mapping y los user personas, explicando de forma clara los hallazgos y cómo estos impactaban en la dirección del proyecto. <br> <br>**CarlosSanchez(TP):** En esta entrega me encargue de realizar la seccion de la informacion de cada una de las propiedades, teniendo una comunicacion asertiva y dando a entender al equipo la seccion designada<br><br>**Daniel Ruiz(TB1):** Durante la presentación de los diagramas de contexto y la propuesta de estilo de diseño, Daniel utilizó un lenguaje claro y técnico para explicar las decisiones que impactarían el desarrollo del producto. <br> Daniel Ruiz: **TP**: Durante las reuniones de equipo, Daniel presentó como se ve la lista de propiedades que el usuario del segmento propietario tiene registrados en nuestro app web. Su comunicación fue efectiva, resaltando detalles como el uso del ID de usario para filtrar datos y seleccionar los atributos mas relevantes para el usuario que deben ser mostrados en esta sección.| Los integrantes del equipo lograron comunicar de manera efectiva sus ideas, ajustando su discurso según la audiencia. Esto facilitó una mayor comprensión de las necesidades y avances del proyecto entre los diferentes involucrados. **Daniel Ruiz (TB2)**: En esta entrega participé junto a Oscar en el desarrollo del enpoint de Payment. Además realicé y registré una entrevista de validacion al sector de Inquilinos, para observar como un usuario sin conocimiento de la app navega atraves de nuestra interfaz y propone mejoras a nuestra solucion. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia**   | **Gustavo Arturo Poma Espinoza(TB1):** Gustavo elaboró la documentación de los escenarios de usuario y el backlog, utilizando un lenguaje claro y estructurado. Presentó los criterios de aceptación de forma comprensible tanto para desarrolladores como para stakeholders no técnicos. <br><br> **Gustavo Arturo Poma Espinoza(TP):** Gustavo elaboró la documentación técnica del módulo de autenticación, detallando los endpoints utilizados para el login, registro y recuperación de datos del usuario. Redactó las instrucciones de implementación y prueba de manera clara y estructurada, facilitando la comprensión tanto para los desarrolladores, como para los testers. Además, presentó un resumen de alto nivel para los stakeholders no técnicos, describiendo los beneficios y mejoras que este módulo aportaría a la plataforma en términos de seguridad y usabilidad. <br><br>**Gustavo Arturo Poma Espinoza(TB2)** En el ámbito de comunicación escrita, desarrollé documentación detallada y estructurada para los endpoints implementados en el contexto de "Users" del backend, incluyendo las operaciones de eliminación, creación, actualización y obtención de registros por ID. Esta documentación está orientada tanto a desarrolladores como a otros interesados, de forma que cualquier miembro del equipo pueda entender y utilizar los endpoints de manera efectiva. Esta habilidad de comunicar de forma escrita y técnica permite que el proyecto mantenga consistencia y claridad en su desarrollo, facilitando el trabajo en equipo y la futura mantenibilidad del sistema.<br><br> **Daniel Del Castillo(TB1):** Daniel fue responsable de documentar el proceso Lean UX, asegurándose de que los conceptos y resultados fueran comprensibles para todos los miembros del equipo, y redactando hipótesis y outcomes de manera clara.<br>**Daniel Del Castillo(TP):** Redacte la segunda version del sprint y logre hacer que sea legible, cumpla las reglas de la metodologia agil y tambien realice un backlog para las tareas que debiamos asignarnos <br> **Daniel Del Castillo(TB2)**:<br> Durante esta entrega me de modo que tuvimos que comunicarnos mediante medios escritos, además tuve que consultar con algun miembro de nuestro segmento objetivo de propietario para poder pedirle que me escribra cuales son sus necesidades que Inmoshare no abarca<br><br> **Oscar Antayhua(TB1):** Oscar documentó los mockups, wireframes y diagramas de flujo de usuario, presentando de manera visual y escrita cómo la interfaz reflejaría las necesidades del usuario final. <br>**Oscar Antayhua(TP)**: Oscar elaboró la documentación técnica de la pasarela de pago para propiedades, detallando el flujo de datos y los endpoints involucrados. Explicó claramente cómo se utiliza el ID de la propiedad para recuperar información clave sobre el inmueble y cómo se maneja la integración con los sistemas de pago. La documentación fue clara y estructurada, facilitando tanto la implementación para los desarrolladores como la comprensión de los beneficios del sistema para los stakeholders no técnicos. <br>**Oscar Antayhua(TB2)**: Oscar elaboró la documentación acerca del endpoint de payment, donde se incluye la eliminación, creación y actualización.<br><br> **Carlos Sanchez(TB1):** Carlos redactó informes sobre el análisis de competidores, journey mapping y user personas, cuidando que fueran claros y accesibles para todos los integrantes del equipo, independientemente de su nivel técnico. <br><br>**Carlos Sanchez(TP):** Tuve la labot de diseñar el mockup de la informacion de las viviendas, jalando la fake API donde se encontraba la informacion de cada una de las viviendas, ademas de la creacion de un toolbar donde estan las rutas del proyecto<br><br> **Daniel Ruiz(TB1):** Daniel fue responsable de la documentación de los diagramas de contexto y las bases de datos, asegurándose de que los desarrolladores y diseñadores comprendieran su estructura. <br> Daniel Ruiz: **TP**: Daniel elaboro la documentación técnica de una seccion que muestra todas las propiedades de un usuario específico con opciones para editar o agregar nuevas propiedades. Detallól a estructura y funcionalidad del componente, los métodos utilizados para la obtención y manipulación de datos, así como la integración con el API. **Daniel Ruiz (TB2)**: En esta Entrega Daniel entrevisto y registro una entrevista de validacion para el segmento de los Inquilinos.                             | La comunicación escrita de los integrantes fue clara y adecuada para diferentes audiencias, permitiendo que tanto miembros técnicos como no técnicos del equipo comprendieran los avances del proyecto y los requerimientos.                         |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia**     | **Gustavo Arturo Poma Espinoza(TB1):** Durante las reuniones de equipo, Gustavo se encargó de presentar los avances en la definición de escenarios de usuario y la planificación del backlog. Adaptó su comunicación tanto para el equipo técnico como para los stakeholders no técnicos, logrando transmitir de manera efectiva los puntos clave del proyecto.<br><br> **Gustavo Arturo Poma Espinoza(TP):** Durante las reuniones de equipo, Gustavo presentó el flujo de autenticación de usuarios, explicando con claridad el funcionamiento de la ventana de login y registro, y cómo se recuperan los datos del usuario a través de su ID. Su comunicación fue efectiva tanto para el equipo técnico, detallando aspectos clave como la validación de credenciales y manejo de sesiones, como para stakeholders no técnicos, asegurando que comprendieran cómo estos procesos mejorarían la experiencia de usuario y la seguridad de la plataforma. <br><br> **Gustavo Arturo Poma Espinoza(TB2):** Durante este proyecto, he demostrado habilidades de comunicación oral al interactuar con distintos miembros del equipo, explicando de forma clara y precisa las modificaciones realizadas al diagrama entidad-relación. Adapté mi lenguaje y nivel de detalle a las necesidades específicas de cada audiencia, facilitando la comprensión tanto de los aspectos técnicos como del impacto general de los cambios en la estructura de la base de datos. Esta capacidad me permitió asegurar que todos los interesados comprendieran el alcance de las modificaciones y su relevancia para el desarrollo del sistema. <br><br> **Daniel Del Castillo(TB1):** Daniel lideró la metodología Lean UX, organizando presentaciones para guiar al equipo en la orientación del producto hacia la experiencia de usuario, logrando explicar con claridad los conceptos clave a audiencias técnicas y no técnicas.<br>**Daniel Del Castillo(TP):** Durante esta entrega designe las vistas que debiamos realizar, cada uno obtuvo un aspecto importante para el core business y use el lenguaje mas claro posible haciendo explicaciones a terminos propios al bounded context <br>**Daniel Del Castillo(TB2)**:<br> Durante esta entrega me encargue de desarrollar el endpoint properties en compañia del integrante Carlos Sanchez, de modo que tuvimos que comunicarnos mediante medios escritos, además participé en entrevistas de validación para poder comunicarme personas agenas a la carrera y tuve que ser elocuente y poder dirigirme a una audiencia no familiarizada a la ingeniería de software <br>**Daniel Del Castillo(TF)**:<br>Durante este ultimo sprint me encargue de consultar con amigos de la carrera de ciclos mas avanzados para preguntar sobre el funcionamiento de ciertos aspectos que no pudimos incorporar durante la entrega pasada, pese a la diferencia entre experiencias pude comunicarme adecuadamente con ellos de modo que resolvimos los pendientes. <br><br> **Oscar Antayhua(TB1):** Oscar presentó sus avances en el desarrollo de los mockups y wireframes, explicando cómo estos se alineaban con las necesidades de los usuarios finales. Durante las reuniones, comunicó con claridad cómo las interfaces diseñadas facilitarían la experiencia de usuario. <br> **Oscar Antayhua(TP):**: Oscar presentó sus avances en el desarrollo de los mockups y wireframes, explicando cómo estos se alineaban con las necesidades de los usuarios finales. Durante las reuniones, comunicó con claridad cómo las interfaces diseñadas facilitarían la experiencia de usuario. Además, Oscar presentó cómo se ve la pasarela de pago para propiedades, destacando aspectos clave del diseño y la funcionalidad. Su comunicación fue efectiva, resaltando detalles como el uso del ID de la propiedad para extraer la información relevante de cada inmueble y cómo estos datos son mostrados en la pasarela de pago, asegurando una experiencia de usuario eficiente y segura. <br>**Oscar Antayhua (TB2)**: En esta entrega, participé en el desarrollo del endpoint payment junto a Daniel Ruiz. También realicé entrevistas de validación para asi obtener retroalimentaciones de mejora. <br><br> **Carlos Sanchez(TB1):** Carlos realizó presentaciones sobre los análisis de competidores, el journey mapping y los user personas, explicando de forma clara los hallazgos y cómo estos impactaban en la dirección del proyecto. <br> <br>**CarlosSanchez(TP):** En esta entrega me encargue de realizar la seccion de la informacion de cada una de las propiedades, teniendo una comunicacion asertiva y dando a entender al equipo la seccion designada<br><br>**Daniel Ruiz(TB1):** Durante la presentación de los diagramas de contexto y la propuesta de estilo de diseño, Daniel utilizó un lenguaje claro y técnico para explicar las decisiones que impactarían el desarrollo del producto. <br> Daniel Ruiz: **TP**: Durante las reuniones de equipo, Daniel presentó como se ve la lista de propiedades que el usuario del segmento propietario tiene registrados en nuestro app web. Su comunicación fue efectiva, resaltando detalles como el uso del ID de usario para filtrar datos y seleccionar los atributos mas relevantes para el usuario que deben ser mostrados en esta sección.| Los integrantes del equipo lograron comunicar de manera efectiva sus ideas, ajustando su discurso según la audiencia. Esto facilitó una mayor comprensión de las necesidades y avances del proyecto entre los diferentes involucrados. **Daniel Ruiz (TB2)**: En esta entrega participé junto a Oscar en el desarrollo del enpoint de Payment. Además realicé y registré una entrevista de validacion al sector de Inquilinos, para observar como un usuario sin conocimiento de la app navega atraves de nuestra interfaz y propone mejoras a nuestra solucion. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia**   | **Gustavo Arturo Poma Espinoza(TB1):** Gustavo elaboró la documentación de los escenarios de usuario y el backlog, utilizando un lenguaje claro y estructurado. Presentó los criterios de aceptación de forma comprensible tanto para desarrolladores como para stakeholders no técnicos. <br><br> **Gustavo Arturo Poma Espinoza(TP):** Gustavo elaboró la documentación técnica del módulo de autenticación, detallando los endpoints utilizados para el login, registro y recuperación de datos del usuario. Redactó las instrucciones de implementación y prueba de manera clara y estructurada, facilitando la comprensión tanto para los desarrolladores, como para los testers. Además, presentó un resumen de alto nivel para los stakeholders no técnicos, describiendo los beneficios y mejoras que este módulo aportaría a la plataforma en términos de seguridad y usabilidad. <br><br>**Gustavo Arturo Poma Espinoza(TB2)** En el ámbito de comunicación escrita, desarrollé documentación detallada y estructurada para los endpoints implementados en el contexto de "Users" del backend, incluyendo las operaciones de eliminación, creación, actualización y obtención de registros por ID. Esta documentación está orientada tanto a desarrolladores como a otros interesados, de forma que cualquier miembro del equipo pueda entender y utilizar los endpoints de manera efectiva. Esta habilidad de comunicar de forma escrita y técnica permite que el proyecto mantenga consistencia y claridad en su desarrollo, facilitando el trabajo en equipo y la futura mantenibilidad del sistema.<br><br> **Daniel Del Castillo(TB1):** Daniel fue responsable de documentar el proceso Lean UX, asegurándose de que los conceptos y resultados fueran comprensibles para todos los miembros del equipo, y redactando hipótesis y outcomes de manera clara.<br>**Daniel Del Castillo(TP):** Redacte la segunda version del sprint y logre hacer que sea legible, cumpla las reglas de la metodologia agil y tambien realice un backlog para las tareas que debiamos asignarnos <br> **Daniel Del Castillo(TB2)**:<br> Durante esta entrega me de modo que tuvimos que comunicarnos mediante medios escritos, además tuve que consultar con algun miembro de nuestro segmento objetivo de propietario para poder pedirle que me escribra cuales son sus necesidades que Inmoshare no abarca <br>**Daniel Del Castillo(TF)**:<br>Durante esta entrega me encargue de asignar tareas a los miembros del equipo, la coordinacion por escrita fue la mas escencial debido a que asignamos tareas por escrito, de ese modo quedo un registro adecuado. Además fui encargado de redactar el sprint backlog por lo que tuve que utilizar un lenguaje adecuado y un lexico variado para cada parte del informe debido a las diferentes audiencias que deben leer nuestro informe. <br><br> **Oscar Antayhua(TB1):** Oscar documentó los mockups, wireframes y diagramas de flujo de usuario, presentando de manera visual y escrita cómo la interfaz reflejaría las necesidades del usuario final. <br>**Oscar Antayhua(TP)**: Oscar elaboró la documentación técnica de la pasarela de pago para propiedades, detallando el flujo de datos y los endpoints involucrados. Explicó claramente cómo se utiliza el ID de la propiedad para recuperar información clave sobre el inmueble y cómo se maneja la integración con los sistemas de pago. La documentación fue clara y estructurada, facilitando tanto la implementación para los desarrolladores como la comprensión de los beneficios del sistema para los stakeholders no técnicos. <br>**Oscar Antayhua(TB2)**: Oscar elaboró la documentación acerca del endpoint de payment, donde se incluye la eliminación, creación y actualización.<br><br> **Carlos Sanchez(TB1):** Carlos redactó informes sobre el análisis de competidores, journey mapping y user personas, cuidando que fueran claros y accesibles para todos los integrantes del equipo, independientemente de su nivel técnico. <br><br>**Carlos Sanchez(TP):** Tuve la labot de diseñar el mockup de la informacion de las viviendas, jalando la fake API donde se encontraba la informacion de cada una de las viviendas, ademas de la creacion de un toolbar donde estan las rutas del proyecto<br><br> **Daniel Ruiz(TB1):** Daniel fue responsable de la documentación de los diagramas de contexto y las bases de datos, asegurándose de que los desarrolladores y diseñadores comprendieran su estructura. <br> Daniel Ruiz: **TP**: Daniel elaboro la documentación técnica de una seccion que muestra todas las propiedades de un usuario específico con opciones para editar o agregar nuevas propiedades. Detallól a estructura y funcionalidad del componente, los métodos utilizados para la obtención y manipulación de datos, así como la integración con el API. **Daniel Ruiz (TB2)**: En esta Entrega Daniel entrevisto y registro una entrevista de validacion para el segmento de los Inquilinos.                             | La comunicación escrita de los integrantes fue clara y adecuada para diferentes audiencias, permitiendo que tanto miembros técnicos como no técnicos del equipo comprendieran los avances del proyecto y los requerimientos.                         |
+
 
 
 # Capítulo I: Introducción
@@ -2358,6 +2369,163 @@ Back end repository:
 
 <img src="./assets/insights/Sprint 3.png">
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4.
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/10/15</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>10:00 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Aula UH-51</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Daniel del castillo</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Daniel Del Castillo</li>
+                <li>Oscar Antayhua</li>
+                <li>Gustavo Poma</li>
+                <li>Carlos Sanchez</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Este es el tercer sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                Acuerdo de comenzar con el desarrollo del back-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td style="text-align: justify">
+                Nuestro enfoque será consolidar la gestion de propiedades, pagos y perfiles en el API de Inmoshare en el backend.
+                Creemos que esto brinda una administración más eficientes y un control integral mejorando la operatividad y reduciendo tiempos de uso.
+                Esto se confirmará cuando los usuarios experimenten dicha reducción de los tiempos en uso.
+                Además, la plataforma facilitará decisiones informadas al proporcionar un 
+                acceso rápido a información y seguridad en el proceso de contratación de una propiedad.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                25
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                30
+            </td>
+        </tr>
+    </tbody>
+  </table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+![SprintBacklog n](image.jpg) Nica hago la tabla 
+#### 5.2.4.3. Development Evidence for Sprint Review.
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="5" align="center">https://github.com/PropiConnect/Inmoshare-API</td>
+    <td align="center"> master</td>
+    <td align="center"> 2841425eec87f21c6c3394d62e52ab1d8bc24bc1</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center" >4edbbb0209f05af2817a01520258e89b4e7c7e7e</td>
+    <td align="center">chore: created the aggregate root model.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center">58f0078f19d2a40ef2128448676ec67898180646</td>
+    <td align="center">Merge remote-tracking branch 'origin/feature/payments' into mergetest</td>
+    <td align="center">---</td>
+    <td align="center">01/11/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">merge</td>
+    <td align="center">5b686c667a8072b92ef4ed65c6d810c4a11ee4c7</td>
+    <td align="center">Merge branch 'merge' of https://github.com/PropiConnect/Inmoshare-API into merge
+    </td>
+    <td align="center">---</td>
+    <td align="center">01/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center">78e31081ef7af8cfab401ef2e90267049a637dbd</td>
+    <td align="center">chore: changed the java version, as the teacher said</td>
+    <td align="center">---</td>
+    <td align="center">03/11/2024</td>
+  </tr>
+  <tr>
+    <td rowspan="10" align="center">https://github.com/PropiConnect/frontend</td>
+    <td align="center"> develop</td>
+    <td align="center"> </td>
+    <td align="center"> conection to the deployed api</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+  
+
+  
+</table>
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+![Sprint review Testing suite Evidence](image.jpg)
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+![Sprint review Execution Evidence](image.jpg)
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+![Sprint review Services Documentation Evidence](image.jpg)
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+![Sprint review Software Deployment Evidence](image.jpg)
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 **Preguntas generales:**
@@ -2408,9 +2576,6 @@ Back end repository:
 
 <img src="./assets/Chap-V/entrevistas/entrevista1.png">
 
-![Entrevista1-1]()
-**URL:**: 
-
 
 **Segmento Inquilinos** 
 
@@ -2419,7 +2584,9 @@ Back end repository:
 **Nombre:** Aldair Chuman
 **Edad:** 22 años 
 **Ocupación:** Ingeniero de Software 
-**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EQdnVlI8nNNGisxHQgn-wXMB7hVaug2-vp_JxjA_vVMv3A?e=2prSu4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/EVwFzVjSbfNNkoUoNTly9IMB-2t1gDp7qapQq3UBZcVJxQ?e=pmvofo)
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EQdnVlI8nNNGisxHQgn-wXMB7hVaug2-vp_JxjA_vVMv3A?e=2prSu4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e414_upc_edu_pe/EVwFzVjSbfNNkoUoNTly9IMB-2t1gDp7qapQq3UBZcVJxQ?e=pmvofo
 
 <img src="./assets/Chap-V/entrevistas/entrevista-1.png">
 
@@ -2554,8 +2721,10 @@ Después de confirmar un pago, no se proporciona una referencia única para el s
 Incluir un número de referencia en la confirmación de pago y en el historial de pagos para facilitar el seguimiento de cada transacción.
 
 ## 5.4. Video About-the-Product.
-[URL del video about the product](https://youtu.be/SyMDqKa3mlA)
 
+[Enlace de youtube](https://youtu.be/SyMDqKa3mlA?si=Ra7DbVuJLhKciHGP)
+
+[Enlace MicrosoftStream]()
 
 # Conclusiones y recomendaciones.
 Spring Boot simplifica la creación de aplicaciones web en Java al eliminar gran parte de la configuración manual y ofrecer una estructura predeterminada. Proporciona herramientas integradas para manejar controladores, servicios, repositorios y permite integrar fácilmente bases de datos y otros servicios de terceros.
@@ -2567,29 +2736,42 @@ En conclusión, Spring Boot y Railway son una buena combinación para proyectos 
 A manera de sintesis, implementar ambientes diferenciados con configuraciones de seguridad ajustadas es esencial para proteger la integridad y confidencialidad de la aplicación y sus datos. Usar ambientes aislados, proteger las credenciales con variables de entorno, aplicar políticas de acceso y configurar pipelines seguros refuerza la seguridad general del sistema y reduce significativamente el riesgo de exposición o ataques.
 
 # Video About-the-Team.
-[URL del video about the team](https://www.example.com)
 
+[Enlace de youtube](https://youtu.be/eP6D0TocE5Q?si=YV2jby_Ga9PKs0ss)
+
+[Enlace MicrosoftStream]()
 # Bibliografía
 qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
-Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+Recuperado 20 de junio de 2022, de   [Enlace](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
 LeaseIN. (2018). Importancia de contar con un equipo de soporte
-técnico. [Entrada en blog]. Recuperado de:
-[LINK](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
-``` 
-formato
+técnico. [Entrada en blog]. Recuperado de:  [Enlace](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+Nair, V. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, eclipse MicroProfile, Spring Boot, and the Axon framework. APRESS. [Enlace](https://learning.oreilly.com/library/view/practical-domain-driven-design/9781484245439/)
 
-```
+Chandrasekaran, P., & Krishnan, K. (2022). Domain-Driven Design with Java - a practitioner’s guide: Create simple, elegant, and valuable software solutions for complex business problems. Packt Publishing. [Enlace](https://learning.oreilly.com/library/view/domain-driven-design-with/9781800560734/)
+
+
+
+
+
 # Anexos
 
-Video about the product: https://youtu.be/SyMDqKa3mlA?si=dWlIpDLhGv1QaPdm
-Video about the team: https://youtu.be/eP6D0TocE5Q
-Landing page: https://propiconnect-inmoshare.netlify.app/
+| Videos |   |
+|--------|---|
+|About the product:| https://youtu.be/SyMDqKa3mlA?si=dWlIpDLhGv1QaPdm |
+|About the team:| https://youtu.be/eP6D0TocE5Q |
 
-Deployment en netify: https://docs.netlify.com/
+|Deploments| |
+|----------|-|
+|Landing page:| https://propiconnect-inmoshare.netlify.app/ |
+|WebApplication| https://inmoshare.netlify.app |
+|WebService| https://inmoshare-api-production.up.railway.app/swagger-ui/index.html|
+
+
+|Documentation | |
+|--------------|-|
+|Deployment en netify:| https://docs.netlify.com/|
 
 
 
