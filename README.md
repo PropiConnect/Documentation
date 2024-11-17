@@ -45,10 +45,11 @@
 | 1.2 | 05/09/2024 | Daniel Ruiz y Oscar Antayhua | Finaliza el capitulo IV|
 | 1.3 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo III|
 | 1.4 | 07/09/2024 | Gustavo Poma| Finaliza el Capitulo V|
-| 1.5| 27/09/2024| Daniel Del Castillo |Sprint II|
+| 1.5 | 27/09/2024| Daniel Del Castillo |Sprint II|
 | 2.1 | 27/09/2024 | Daniel Del Castillo |Sprint II|
 | 3.1 | 03/11/2024 | Oscar Antayhua, Carlos Sanchez,Daniel Ruiz |Validation Interviews|
 | 3.2 | 03/11/2024 | Daniel Del Castillo |Sprint III documentation|
+| 4.1 | 09/11/2024 | Gustavo Poma| Sprint IV documentation |
 </center>
 
 # Project Report Collaboration Insights
@@ -2776,12 +2777,19 @@ Chandrasekaran, P., & Krishnan, K. (2022). Domain-Driven Design with Java - a pr
 
 # Anexos
 
-| Videos |   |
+| Videos | Enalaces  |
 |--------|---|
 |About the product:| https://youtu.be/SyMDqKa3mlA?si=dWlIpDLhGv1QaPdm |
 |About the team:| https://youtu.be/eP6D0TocE5Q |
 
-|Deploments| |
+|Exposiciones| Enlaces |
+|------------|--|
+| TB1 | https://t.ly/S8FF7 |
+| TP1 | https://shorturl.at/YNmEa |
+| TB2 | https://shorturl.at/Q8c7Y |
+| TF  |  |
+
+|Deploments| Enlaces |
 |----------|-|
 |Landing page:| https://propiconnect-inmoshare.netlify.app/ |
 |WebApplication| https://inmoshare.netlify.app |
@@ -2791,6 +2799,7 @@ Chandrasekaran, P., & Krishnan, K. (2022). Domain-Driven Design with Java - a pr
 |Documentation | |
 |--------------|-|
 |Deployment en netify:| https://docs.netlify.com/|
+|Deployment en railway| https://docs.railway.com/guides/deployments |
 
 
 
