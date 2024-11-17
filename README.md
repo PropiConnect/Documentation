@@ -2762,7 +2762,7 @@ A manera de sintesis, implementar ambientes diferenciados con configuraciones de
 [Enlace MicrosoftStream]()
 # Bibliografía
 qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
-Recuperado 20 de junio de 2022, de   [Enlace](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+Recuperado 20 de junio de 2022, Recuperado de:   [Enlace](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
 LeaseIN. (2018). Importancia de contar con un equipo de soporte
 técnico. [Entrada en blog]. Recuperado de:  [Enlace](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
@@ -2770,6 +2770,12 @@ técnico. [Entrada en blog]. Recuperado de:  [Enlace](https://leasein.pe/blog/br
 Nair, V. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, eclipse MicroProfile, Spring Boot, and the Axon framework. APRESS. [Enlace](https://learning.oreilly.com/library/view/practical-domain-driven-design/9781484245439/)
 
 Chandrasekaran, P., & Krishnan, K. (2022). Domain-Driven Design with Java - a practitioner’s guide: Create simple, elegant, and valuable software solutions for complex business problems. Packt Publishing. [Enlace](https://learning.oreilly.com/library/view/domain-driven-design-with/9781800560734/)
+
+Turnquist, G. L. (2022). Learning Spring Boot 3. 0: Simplify the development of production-grade applications using Java and Spring. Packt Publishing. [Enlace ](https://learning.oreilly.com/library/view/learning-spring-boot/9781803233307/ )
+
+Tudose, C., Bauer, C., & King, G. (2023). Java persistence with Spring Data and Hibernate. Simon and Schuster. [Enlace](https://learning.oreilly.com/library/view/java-persistence-with/9781617299186/)
+
+
 
 
 
