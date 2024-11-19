@@ -2542,7 +2542,14 @@ Back end repository:
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
+
+Para este sprint hemos desarrollado 
+![Sprint deployment Evidence for Sprint review - Landing Page](./assets/Chap-V/Sprint%204/5.2.4.7/Landing%20Page.png)
+
+![Sprint deployment Evidence for Sprint review - Web Application](./assets/Chap-V/Sprint%204/5.2.4.7/Web%20App.png)
+
+![Sprint deployment Evidence for Sprint review - Web Service](./assets/Chap-V/Sprint%204/5.2.4.7/Back-End%20Deployment.png)
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
