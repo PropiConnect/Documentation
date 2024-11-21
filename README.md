@@ -2447,6 +2447,7 @@ Back end repository:
 
 #### 5.2.4.2. Sprint Backlog 4.
 
+<img src="/assets/Chap-V/Sprint 4/5.2.4.2/Captura de pantalla 2024-11-21 012756.png">
 
 https://trello.com/b/uFraoz3i/propiconnect-sprintbacklog-4
 
