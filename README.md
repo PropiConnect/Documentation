@@ -2845,9 +2845,13 @@ Incluir un número de referencia en la confirmación de pago y en el historial d
 
 ## 5.4. Video About-the-Product.
 
+Presentamos de manera clara las funcionalidades clave de nuestra aplicación web diseñada para conectar a compradores de viviendas con vendedores o arrendadores.
+Mostramos claramente una guia de la conexion 
+<img src="/assets/Chap-V/Sprint 4/A.png">
+
 [Enlace de youtube](https://youtu.be/SyMDqKa3mlA?si=Ra7DbVuJLhKciHGP)
 
-[Enlace MicrosoftStream]()
+
 
 # Conclusiones y recomendaciones.
 Spring Boot simplifica la creación de aplicaciones web en Java al eliminar gran parte de la configuración manual y ofrecer una estructura predeterminada. Proporciona herramientas integradas para manejar controladores, servicios, repositorios y permite integrar fácilmente bases de datos y otros servicios de terceros.
@@ -2862,10 +2866,11 @@ Durante la elaboracion del inmoshare, podemos destacar la necesdiad de planear d
 
 
 # Video About-the-Team.
+En esta seccion desarrollamos nuestro video about the Team, a continuación dejaremos una captura y un enlace en la parte inferior de la misma
+<img src="/assets/Chap-V/Sprint 4/aa.png">
 
-[Enlace de youtube](https://youtu.be/eP6D0TocE5Q?si=YV2jby_Ga9PKs0ss)
+https://youtu.be/eP6D0TocE5Q?si=YV2jby_Ga9PKs0ss
 
-[Enlace MicrosoftStream]()
 # Bibliografía
 qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
 Recuperado 20 de junio de 2022, Recuperado de:   [Enlace](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
@@ -2899,7 +2904,7 @@ Tudose, C., Bauer, C., & King, G. (2023). Java persistence with Spring Data and 
 | TB1 | https://shorturl.at/zEl3C |
 | TP1 | https://shorturl.at/YNmEa |
 | TB2 | https://shorturl.at/Q8c7Y |
-| TF  |  |
+| TF  | https://shorturl.at/KlzR2 |
 
 |Deploments| Enlaces |
 |----------|-|
