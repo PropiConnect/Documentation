@@ -2376,7 +2376,7 @@ Back end repository:
     <thead>
         <tr>
             <th>Sprint #</th>
-            <th>Sprint 3</th>
+            <th>Sprint 4</th>
         </tr>
     </thead>
     <tbody>
@@ -2385,11 +2385,11 @@ Back end repository:
         </tr>
         <tr>
             <td>Date</td>
-            <td>2024/10/15</td>
+            <td>05/11/2024</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td>10:00 AM</td>
+            <td>07:00 AM</td>
         </tr>
         <tr>
             <td>Location</td>
@@ -2409,9 +2409,9 @@ Back end repository:
             </td>
         </tr>
         <tr>
-            <td>Sprint 2 Review Summary</td>
+            <td>Sprint 3 Review Summary</td>
             <td>
-                Este es el tercer sprint a realizar por el equipo
+                Durante este sprint logramos desarrollar la mayor cantidad de user stories por lo que para este sprint, las historias de usuario que realizaremos serán realizados
             </td>
         </tr>
         <tr>
@@ -2424,32 +2424,31 @@ Back end repository:
             <td colspan="2"><b>Sprint Goal & User Stories</b></td>
         </tr>
         <tr>
-            <td>Sprint 3 Goal</td>
+            <td>Sprint 4 Goal</td>
             <td style="text-align: justify">
-                Nuestro enfoque será consolidar la gestion de propiedades, pagos y perfiles en el API de Inmoshare en el backend.
-                Creemos que esto brinda una administración más eficientes y un control integral mejorando la operatividad y reduciendo tiempos de uso.
-                Esto se confirmará cuando los usuarios experimenten dicha reducción de los tiempos en uso.
-                Además, la plataforma facilitará decisiones informadas al proporcionar un 
-                acceso rápido a información y seguridad en el proceso de contratación de una propiedad.
+                En propiconnect, nuestro enfoque para este sprint será realizar un nuevo despliegue de nuestros productos backend,frontend y una nueva versión de la landing page. Adicionalmente, trabajaremos en una nueva versión de las funcionalidades actuales ya presentes, en las que hicimos cambios en base a las entrevistas de validacion del sprint anterior. Ofreciendo así a nuestros clientes una experiencia más completa y fluida. Creemos que nuestros avances podrán incrementar la eficiencia en sus operaciones. Esperamos que el impacto sea que los usuarios puedan interacturar facilmente con el sistema, visualizando propiedades y pagos. Esto lo confirmaremos cuando los usuarios experimenten mejoras significativas en el proceso de compra/alquiler o venta de viviendas.
             </td>
         </tr>
         <tr>
             <td>Sprint 3 Velocity</td>
             <td>
-                25
+                15
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                30
+                12
             </td>
         </tr>
     </tbody>
   </table>
 
 #### 5.2.4.2. Sprint Backlog 4.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
+
+
+https://trello.com/b/uFraoz3i/propiconnect-sprintbacklog-4
+
 #### 5.2.4.3. Development Evidence for Sprint Review.
 <table>
   <tr>
@@ -2536,22 +2535,37 @@ Back end repository:
 </table>
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
+Para validar la funcionalidad de la landing page, se realizaron pruebas de navegación y visualización en diferentes dispositivos y tamaños de pantalla. Se verificó que todos los enlaces y botones fueran funcionales y que el diseño se mantuviera consistente en diferentes navegadores.
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 ![Sprint review Execution Evidence](image.jpg)
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-Para este sprint hemos desarrollado 
+Para este sprint hemos desarrollado una nueva versión del deploy de los productos ya existentes, por ello a continuación, se mostrará las evidencias de dichos productos actualizados
+
+Landing page: Esta versión contiene los nuevos cambios realizados en los tasks de este sprint
 ![Sprint deployment Evidence for Sprint review - Landing Page](./assets/Chap-V/Sprint%204/5.2.4.7/Landing%20Page.png)
 
+Web Application: Esta versión contiene los nuevos cambios realizados en los tasks de este sprint
 ![Sprint deployment Evidence for Sprint review - Web Application](./assets/Chap-V/Sprint%204/5.2.4.7/Web%20App.png)
 
+Landing page: Esta versión contiene los nuevos cambios realizados en los tasks de este sprint
 ![Sprint deployment Evidence for Sprint review - Web Service](./assets/Chap-V/Sprint%204/5.2.4.7/Back-End%20Deployment.png)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+
+A continuación mostraremos la relación de commits realizados en este sprint.
+
+Repositorio backend:
+<img src="/assets/Chap-V/Sprint 4/5.2.4.8/Backend.png" >
+
+Repositorio frontend:
+<img src="/assets/Chap-V/Sprint 4/5.2.4.8/FrontEnd.png" >
+Repositorio del reporte:
+<img src="/assets/Chap-V/Sprint 4/5.2.4.8/Documentation.png" >
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
