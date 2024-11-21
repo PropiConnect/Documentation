@@ -58,16 +58,20 @@
 
 [URL de la landing page](https://propiconnect-inmoshare.netlify.app/)
 
-TB1:
-<img src="./assets/Insights/Captura de pantalla 2024-09-27 011626.png" alt="Distribución de commits en el repositorio para la tb1" height="500px" width="500px">
-TP:
-<img src="./assets/Insights/Captura de pantalla 2024-09-27 011554.png" alt=""
- height="500px" width="500px">
+TB1: <br>
 
-TB2:
-<img src="./assets/Collaboration-report/Document Insights.png" alt=""
- height="500px" width="500px">
+<img src="./assets/Insights/Captura de pantalla 2024-09-27 011626.png" alt="Distribución de commits en el repositorio para el tb1" height="500px" width="500px">
+<br>
+TP:<br>
+<img src="./assets/Insights/Captura de pantalla 2024-09-27 011554.png" alt="Distribución de commits en el repositorio para el tp" height="500px" width="500px">
+<br>
+TB2:<br>
 
+<img src="./assets/Collaboration-report/Document Insights.png" alt="Distribución de commits en el repositorio para el tb2" height="500px" width="500px">
+
+<br>
+TF:<br>
+<img src="./assets/Chap-V/Sprint 4/5.2.4.8/Documentation.png" alt="Distribución de commits en el repositorio para el TF"  height="500px" width="500px">
 
 # Contenido
 
