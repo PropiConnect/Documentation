@@ -2511,7 +2511,7 @@ https://trello.com/b/uFraoz3i/propiconnect-sprintbacklog-4
   
   
   <tr>
-    <td rowspan="3" align="center">https://github.com/PropiConnect/frontend</td>
+    <td rowspan="10" align="center">https://github.com/PropiConnect/frontend</td>
     <td align="center"> merge</td>
     <td align="center">1e59f48c991eefcaaf5f1ea12ecc116941c08738</td>
     <td align="center"> conection to the deployed api</td>
@@ -2524,8 +2524,35 @@ https://trello.com/b/uFraoz3i/propiconnect-sprintbacklog-4
     <td align="center">634fa4b230df6e28e81bf1af1fbc67a3f9fb2835</td>
     <td align="center">Actualizacion del iam</td>
     <td align="center">---</td>
-    <td align="center">03/11/2024</td>
+    <td align="center">15/11/2024</td>
   </tr>
+
+   <tr>
+    <td align="center"> merge</td>
+    <td align="center">786b0d963c798d877185172153b2a9ec19323b88</td>
+    <td align="center"></td>
+    <td align="center">---</td>
+    <td align="center">20/11/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">---</td>
+    <td align="center">20/11/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">---</td>
+    <td align="center">20/11/2024</td>
+  </tr>
+  
+  
+
 
   
   
@@ -2538,7 +2565,18 @@ https://trello.com/b/uFraoz3i/propiconnect-sprintbacklog-4
 Para validar la funcionalidad de la landing page, se realizaron pruebas de navegación y visualización en diferentes dispositivos y tamaños de pantalla. Se verificó que todos los enlaces y botones fueran funcionales y que el diseño se mantuviera consistente en diferentes navegadores.
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
+
+La aplicacion web fue desplegada en netify: https://inmoshare.netlify.app/login
+
+<img src="./assets/Chap-V/Sprint 4/5.2.4.5/LD.png">
+
+Nuestra landing page fue desplegada en netify: https://propiconnect-inmoshare.netlify.app/
+<img src="./assets/Chap-V/Sprint 4/5.2.4.5/WEBAPP.png">
+
+Nuesto API fue desplegado en railway: https://inmoshare-api-production.up.railway.app/swagger-ui/index.html
+<img src="./assets/Chap-V/Sprint 4/5.2.4.5/API.png">
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 En esta version acabamos los endpoint de get by ownerId y el endpoint de authenticate
 
