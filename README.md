@@ -2851,6 +2851,9 @@ En conclusión, Spring Boot y Railway son una buena combinación para proyectos 
 
 A manera de sintesis, implementar ambientes diferenciados con configuraciones de seguridad ajustadas es esencial para proteger la integridad y confidencialidad de la aplicación y sus datos. Usar ambientes aislados, proteger las credenciales con variables de entorno, aplicar políticas de acceso y configurar pipelines seguros refuerza la seguridad general del sistema y reduce significativamente el riesgo de exposición o ataques.
 
+Durante la elaboracion del inmoshare, podemos destacar la necesdiad de planear desde un principio los métodos o endpoints que usará la aplicación, del mismo modo debemos seguir las convenciones de un RESTful API. De ese modo nuestro servicio web y aplicación web serán desarrollos adecuadamente.
+
+
 # Video About-the-Team.
 
 [Enlace de youtube](https://youtu.be/eP6D0TocE5Q?si=YV2jby_Ga9PKs0ss)
