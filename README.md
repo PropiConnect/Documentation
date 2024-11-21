@@ -2530,23 +2530,23 @@ https://trello.com/b/uFraoz3i/propiconnect-sprintbacklog-4
    <tr>
     <td align="center"> merge</td>
     <td align="center">786b0d963c798d877185172153b2a9ec19323b88</td>
-    <td align="center"></td>
+    <td align="center">fix(toolbar): added my account page</td>
     <td align="center">---</td>
     <td align="center">20/11/2024</td>
   </tr>
   
   <tr>
     <td align="center"> merge</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">399361b594353b12c8423a50a6454792798a70ad</td>
+    <td align="center">feat(routes): update routes.</td>
     <td align="center">---</td>
     <td align="center">20/11/2024</td>
   </tr>
 
   <tr>
     <td align="center"> merge</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">786b0d963c798d877185172153b2a9ec19323b88</td>
+    <td align="center">feat(create-properties): update.</td>
     <td align="center">---</td>
     <td align="center">20/11/2024</td>
   </tr>
