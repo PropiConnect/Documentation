@@ -2540,7 +2540,41 @@ Para validar la funcionalidad de la landing page, se realizaron pruebas de naveg
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 ![Sprint review Execution Evidence](image.jpg)
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
+En esta version acabamos los endpoint de get by ownerId y el endpoint de authenticate
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+
+  <tr>
+   <th> <strong> Profiles </strong> </th>
+    <th> <strong> /api/v1/users/authenticate </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 4/5.2.4.6/authenticate.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Profiles </strong> </th>
+    <th> <strong> /api/v1/users/{userId}/userType </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 4/5.2.4.6/patchbyusertype.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Properties </strong> </th>
+    <th> <strong> /api/v1/properties/owner/{ownerId} </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 4/5.2.4.6/getbyownerid.png"> </th>
+  </tr>
+
+</table>  
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
 Para este sprint hemos desarrollado una nueva versión del deploy de los productos ya existentes, por ello a continuación, se mostrará las evidencias de dichos productos actualizados
@@ -2563,6 +2597,7 @@ Repositorio backend:
 
 Repositorio frontend:
 <img src="/assets/Chap-V/Sprint 4/5.2.4.8/FrontEnd.png" >
+
 Repositorio del reporte:
 <img src="/assets/Chap-V/Sprint 4/5.2.4.8/Documentation.png" >
 
