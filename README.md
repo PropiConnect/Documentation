@@ -2377,7 +2377,7 @@ Back end repository:
     <thead>
         <tr>
             <th>Sprint #</th>
-            <th>Sprint 3</th>
+            <th>Sprint 4</th>
         </tr>
     </thead>
     <tbody>
@@ -2386,11 +2386,11 @@ Back end repository:
         </tr>
         <tr>
             <td>Date</td>
-            <td>2024/10/15</td>
+            <td>05/11/2024</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td>10:00 AM</td>
+            <td>07:00 AM</td>
         </tr>
         <tr>
             <td>Location</td>
@@ -2410,9 +2410,9 @@ Back end repository:
             </td>
         </tr>
         <tr>
-            <td>Sprint 2 Review Summary</td>
+            <td>Sprint 3 Review Summary</td>
             <td>
-                Este es el tercer sprint a realizar por el equipo
+                Durante este sprint logramos desarrollar la mayor cantidad de user stories por lo que para este sprint, las historias de usuario que realizaremos serán realizados
             </td>
         </tr>
         <tr>
@@ -2425,32 +2425,31 @@ Back end repository:
             <td colspan="2"><b>Sprint Goal & User Stories</b></td>
         </tr>
         <tr>
-            <td>Sprint 3 Goal</td>
+            <td>Sprint 4 Goal</td>
             <td style="text-align: justify">
-                Nuestro enfoque será consolidar la gestion de propiedades, pagos y perfiles en el API de Inmoshare en el backend.
-                Creemos que esto brinda una administración más eficientes y un control integral mejorando la operatividad y reduciendo tiempos de uso.
-                Esto se confirmará cuando los usuarios experimenten dicha reducción de los tiempos en uso.
-                Además, la plataforma facilitará decisiones informadas al proporcionar un 
-                acceso rápido a información y seguridad en el proceso de contratación de una propiedad.
+                En propiconnect, nuestro enfoque para este sprint será realizar un nuevo despliegue de nuestros productos backend,frontend y una nueva versión de la landing page. Adicionalmente, trabajaremos en una nueva versión de las funcionalidades actuales ya presentes, en las que hicimos cambios en base a las entrevistas de validacion del sprint anterior. Ofreciendo así a nuestros clientes una experiencia más completa y fluida. Creemos que nuestros avances podrán incrementar la eficiencia en sus operaciones. Esperamos que el impacto sea que los usuarios puedan interacturar facilmente con el sistema, visualizando propiedades y pagos. Esto lo confirmaremos cuando los usuarios experimenten mejoras significativas en el proceso de compra/alquiler o venta de viviendas.
             </td>
         </tr>
         <tr>
             <td>Sprint 3 Velocity</td>
             <td>
-                25
+                15
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                30
+                12
             </td>
         </tr>
     </tbody>
   </table>
 
 #### 5.2.4.2. Sprint Backlog 4.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
+
+
+https://trello.com/b/uFraoz3i/propiconnect-sprintbacklog-4
+
 #### 5.2.4.3. Development Evidence for Sprint Review.
 <table>
   <tr>
@@ -2513,7 +2512,7 @@ Back end repository:
   
   
   <tr>
-    <td rowspan="3" align="center">https://github.com/PropiConnect/frontend</td>
+    <td rowspan="10" align="center">https://github.com/PropiConnect/frontend</td>
     <td align="center"> merge</td>
     <td align="center">1e59f48c991eefcaaf5f1ea12ecc116941c08738</td>
     <td align="center"> conection to the deployed api</td>
@@ -2526,8 +2525,35 @@ Back end repository:
     <td align="center">634fa4b230df6e28e81bf1af1fbc67a3f9fb2835</td>
     <td align="center">Actualizacion del iam</td>
     <td align="center">---</td>
-    <td align="center">03/11/2024</td>
+    <td align="center">15/11/2024</td>
   </tr>
+
+   <tr>
+    <td align="center"> merge</td>
+    <td align="center">786b0d963c798d877185172153b2a9ec19323b88</td>
+    <td align="center">fix(toolbar): added my account page</td>
+    <td align="center">---</td>
+    <td align="center">20/11/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center">399361b594353b12c8423a50a6454792798a70ad</td>
+    <td align="center">feat(routes): update routes.</td>
+    <td align="center">---</td>
+    <td align="center">20/11/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> merge</td>
+    <td align="center">786b0d963c798d877185172153b2a9ec19323b88</td>
+    <td align="center">feat(create-properties): update.</td>
+    <td align="center">---</td>
+    <td align="center">20/11/2024</td>
+  </tr>
+  
+  
+
 
   
   
@@ -2537,15 +2563,83 @@ Back end repository:
 </table>
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
+Para validar la funcionalidad de la landing page, se realizaron pruebas de navegación y visualización en diferentes dispositivos y tamaños de pantalla. Se verificó que todos los enlaces y botones fueran funcionales y que el diseño se mantuviera consistente en diferentes navegadores.
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
+
+La aplicacion web fue desplegada en netify: https://inmoshare.netlify.app/login
+
+<img src="./assets/Chap-V/Sprint 4/5.2.4.5/LD.png">
+
+Nuestra landing page fue desplegada en netify: https://propiconnect-inmoshare.netlify.app/
+<img src="./assets/Chap-V/Sprint 4/5.2.4.5/WEBAPP.png">
+
+Nuesto API fue desplegado en railway: https://inmoshare-api-production.up.railway.app/swagger-ui/index.html
+<img src="./assets/Chap-V/Sprint 4/5.2.4.5/API.png">
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
+En esta version acabamos los endpoint de get by ownerId y el endpoint de authenticate
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+
+  <tr>
+   <th> <strong> Profiles </strong> </th>
+    <th> <strong> /api/v1/users/authenticate </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 4/5.2.4.6/authenticate.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Profiles </strong> </th>
+    <th> <strong> /api/v1/users/{userId}/userType </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 4/5.2.4.6/patchbyusertype.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Properties </strong> </th>
+    <th> <strong> /api/v1/properties/owner/{ownerId} </strong> </th>
+    <th> <img src="./assets/Chap-V/Sprint 4/5.2.4.6/getbyownerid.png"> </th>
+  </tr>
+
+</table>  
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
+
+Para este sprint hemos desarrollado una nueva versión del deploy de los productos ya existentes, por ello a continuación, se mostrará las evidencias de dichos productos actualizados
+
+Landing page: Esta versión contiene los nuevos cambios realizados en los tasks de este sprint
+![Sprint deployment Evidence for Sprint review - Landing Page](./assets/Chap-V/Sprint%204/5.2.4.7/Landing%20Page.png)
+
+Web Application: Esta versión contiene los nuevos cambios realizados en los tasks de este sprint
+![Sprint deployment Evidence for Sprint review - Web Application](./assets/Chap-V/Sprint%204/5.2.4.7/Web%20App.png)
+
+Landing page: Esta versión contiene los nuevos cambios realizados en los tasks de este sprint
+![Sprint deployment Evidence for Sprint review - Web Service](./assets/Chap-V/Sprint%204/5.2.4.7/Back-End%20Deployment.png)
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+
+A continuación mostraremos la relación de commits realizados en este sprint.
+
+Repositorio backend:
+<img src="/assets/Chap-V/Sprint 4/5.2.4.8/Backend.png" >
+
+Repositorio frontend:
+<img src="/assets/Chap-V/Sprint 4/5.2.4.8/FrontEnd.png" >
+
+Repositorio del reporte:
+<img src="/assets/Chap-V/Sprint 4/5.2.4.8/Documentation.png" >
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
