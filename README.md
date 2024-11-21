@@ -2889,7 +2889,7 @@ Tudose, C., Bauer, C., & King, G. (2023). Java persistence with Spring Data and 
 
 |Exposiciones| Enlaces |
 |------------|--|
-| TB1 | https://t.ly/S8FF7 |
+| TB1 | https://shorturl.at/zEl3C |
 | TP1 | https://shorturl.at/YNmEa |
 | TB2 | https://shorturl.at/Q8c7Y |
 | TF  |  |
